@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 347: is not terminated with a newline. (Check strings and parenthesis.)
-(Perhaps you left out a ' at the end of the first line.)
-        but the sight of it stirs his adventurer's blood. But when he sets foot inside,
+File "game/script.rpy", line 199: expected statement.
+    X
+     ^
 
 Ren'Py Version: Ren'Py 8.3.2.24090902
-Thu Nov  7 19:39:16 2024
+Mon Nov 11 13:02:26 2024
