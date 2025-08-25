@@ -1,0 +1,30 @@
+# 00:00
+
+Massive stone towers pierce an empty sky.
+
+This enormous structure is called The Cage.
+
+In its shadow, a lone girl walks with purpose...
+
+And she will not leave until she has what she desires.
+
+Mama *char
+
+Well! Look who's finally up.
+
+Oh dear. So you did lose your voice after all.
+
+*opt Give up and stay silent.
+*opt Try to say something.
+Don't worry. Mama's here to help.
+
+This way.
+
+You've lost more than just your voice.
+But I'm sure you already know that, don't you?
+
+You've lost so much. But the time has come to reclaim it.
+
+Life will be much harder if you can't speak, after all.
+
+These stairs are the entrance to your prison—a place known as "The Cage."

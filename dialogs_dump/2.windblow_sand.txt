@@ -1,0 +1,306 @@
+# 08:00
+
+*loc Windblown Sand
+
+Goodness, look at these rivers of sand! I wonder how such a thing came to pass.
+
+Make sure you don't get any grit in your eyes!
+
+I wonder where all of this sand is going.
+
+Let's head for the shiny black light up there.
+
+These strange statues are scattered throughout The Cage.
+
+I don't know who made them, but I call them Dark Scarecrows.
+
+Anyway, this is the first one, so we'll start here.
+
+*q Enter story?
+*opt Yes
+*opt No
+
+Storyman *char
+His Body, Rust
+Showdown in the Wastes
+
+A young boy of good upbringing moves across a vast wasteland.
+
+A taciturn man follows.
+
+The boy proceeds uneasily, his eyes constantly probing their surroundings.
+
+Almost as if he fears they are being followed.
+
+Suddenly, a dreary town emerges from the dust.
+
+The boy suggests they take their rest, and the man nods silently.
+
+The two make for a nearby eatery, hoping to shake the road from their weary bones.
+
+But instead of welcome, they find a group of bounty hunters gathered at their destination.
+
+The lead hunter stares at the child, appraising him.
+
+"You royalty, boy?"
+
+His voice is wrath.
+
+The boy remains silent, his head hanging low.
+
+Perhaps angered by the lack of response, the bounty hunter suddenly draws his gun.
+
+Two shots ring out and fade into the dusk.
+
+Mama *char
+
+Did you see the flock of black birds that possessed the bounty hunter?
+
+They're nasty sorts who like to fly in and warp the story.
+
+Well, we are not going to let that stand, are we?
+
+Your role is to defeat them and put the story back the way it's supposed to be.
+
+But I suppose you already know that, don't you?
+
+Storyman *char
+
+Perhaps angered by the lack of response, the bounty hunter suddenly draws his gun.
+
+Having defeated the hunters, the man turns to his charge.
+
+"Are you hurt, My Prince?"
+
+"I am well," replies the boy. "But remember-I am no longer a prince."
+
+With a wry smile and a touch of regret, he proposes they take their leave of the town.
+
+The man silently nods, and gazes upon the boy's face.
+
+Mama *char
+
+Your task is to fix warped memories like this in order to restore complete stories.
+
+But we also need to collect weapons like these.
+
+Do you have a rough sense of what you're supposed to do now, child?
+
+*opt Nod
+*opt Shake your head
+
+Yes, I suppose it is a lot to wrap your mind around.
+
+It'll make sense as we find more stories. Don't be afraid to ask for help!
+
+My, what a beautiful place.
+
+I can't fathom how anyone managed to construct something so large.
+
+You will sometimes encounter black birds in The Cage, and you should do what you can to shoo them all out.
+
+If you do that, Mama will give you a nice surprise!
+
+Well, here's the second one. Are you ready?
+
+*q Enter story?
+*opt Yes
+*opt No
+
+His Body, Rust
+The Prosthetic Woman
+
+Storyman *char
+
+Wherever people gather, stories come with them.
+
+But saloons have a special ability to loosen even the tightest of lips.
+
+Such rumors are what brings the woman with a mechanical arm and leg to this place.
+
+For she is a bounty hunter in search of her prey.
+
+Hammered Man *char
+
+Y'know, as a youth, I was quite the gunman myself.
+
+Folks used to say I was even better'n a machine soldier! *hic*
+
+Gorgeous Woman *char
+My husband said a strange man shot at him in the woods.
+
+Fortunately, he didn't pursue, but still, it's left us shaken.
+
+Gossiping Man *char
+Several bounty hunters have been fallin' under attack lately.
+
+You're a bounty hunter, too, yeah? You take care out there.
+
+Storyman *char
+
+The information she obtains from the patrons seems vague.
+
+But it is more than enough.
+
+Gathering herself, she exits the saloon in pursuit of her target.
+
+A lone bounty hunter blocks the woman's path.
+
+His breath is ragged and foul; his eyes a pair of tiny beads.
+
+"Gimme all your money!" he howls.
+
+It is over in an moment.
+
+The woman's sigh is carried off by the wind.
+
+No mediocre highwayman could hope to stand against her desire for revenge.
+
+The woman heads for the forest in pursuit of her target.
+
+Mama *char
+
+We collect stories in order to regain what you have lost...
+
+But we also do it to make your wish come true.
+
+So let's keep it up. Slow and steady wins this race!
+
+Hmm. I suppose I should tell you a little bit about The Cage.
+
+It's a truly massive structure.
+
+Where you woke up, and this sandy area, here are just small parts of it.
+
+To be honest, a great deal of The Cage is a mystery.
+
+I'm not even certain who gave it that name.
+
+*q Enter story?
+*opt Yes
+*opt No
+
+His Body, Rust
+The Gunslinger
+
+Storyman *char
+
+In a forest near a ruined church,
+
+a man surveys his surroundings.
+
+It would appear he is searching for food.
+
+The expression on his bandaged face is clouded.
+
+The grasses rustle ominously as they part."
+
+It seems the man is not the only one in search of food.
+
+The animals in this place are lean. Starving. Desperate.
+
+And they will do what they must to survive.
+
+Having secured his prize, the man returns to the church.
+
+The sound of his worn bootheels echoes throughout the dilapidated chapel.
+
+A boy lies at the back, his face drawn and haggard.
+
+The man kneels down and offers some of the food he collected.
+
+But the boy is too weak to hold it.
+
+His body will not allow him to accept even this meager meal.
+
+The boy tries to brush it off with a feeble smile.
+
+But the man just stares down at him in silence.
+
+Mama *char
+
+To think that poor sick child had to travel the wastes in his condition!
+
+Still, we've restored the third memory now.
+
+If we can collect the next one, it will mark the end of the staff's tale.
+
+Goodness, this place is nothing but stairs! I hope your little legs are okay.
+
+Still, I suppose it does allow us to see some rather lovely views...
+
+Be sure to rest whenever you start to feel tired, child.
+
+Someone once said resting is the shortcut to success, after all.
+
+It's so bright here...
+
+Ah, there's the fourth one. We should be able to enter the final memory here.
+
+People who arm themselves tend to find their way into a fight.
+
+I fear you will have to face a good deal of death from now on.
+
+Are you ready?
+
+*q Enter story?
+*opt Yes
+*opt No
+
+His Body, Rust
+Journey's End
+
+Storyman *char
+
+The woman who set out from town finally arrives at a wild wood.
+
+Soon, she comes across the ruins of a once-proud church.
+
+The ceiling is collapsed; the walls mere suggestions.
+
+But in the very back of the church,
+
+she finds a deteriorated clockwork soldier..
+
+as well as the corpse of a boy.
+
+As the woman approaches, the clockwork soldier suddenly rises.
+
+He levels his weapon at her and lets fly with a fearsome howl.
+
+The woman accesses the logs of the fallen soldier.
+
+The boy was a prince driven from his kingdom.
+
+The clockwork soldier traveling with him was his guardian- and his friend.
+
+But alas, the boy's disease worsened and he perished.
+
+Now alone, the man remained behind and continued to safeguard his charge,
+
+killing any who dared approach the body.
+
+For a hundred years, the man stood watch.
+
+Their kingdom, fallen. His body, rust. His mind, shadow.
+
+Yet still he remained to protect his friend.
+
+The woman builds a grave to mourn the pair, then leaves the forest without a word.
+
+Mama *char
+
+He was a prince who was driven away from his own country.
+
+And before breaking down, the machine tried so hard to guard his master's body.
+
+.....
+
+This memory marks the end of the story they left behind inside this staff.
+
+Well done, child. Do you see how the proper story is now stored inside the staff?
+
+That is Will, one of the lost fragments that you should be collecting.
+
+Up the stairs, now! We still have a long way to go.
+

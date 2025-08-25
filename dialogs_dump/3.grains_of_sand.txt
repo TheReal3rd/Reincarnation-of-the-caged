@@ -1,0 +1,376 @@
+# 33:17
+
+*loc Grains of Sand
+
+You have a long road ahead of you, so you'll need to increase your power.
+
+Hmm, where should I start? First, you need to arrange your allies in a loadout...
+
+Actually, it would be much easier to explain in a demonstration.
+
+It's mostly the same as any other game.
+
+The road splits here. Mama thinks we should go right because it's the RIGHT way!
+
+Hmm... But left also might be the right way.
+
+If it wasn't clear by now, Mama doesn't actually know.
+
+Oh, this weapon is...
+
+Anyway! Let's get started on its restoration, shall we? I wonder what kind of story we'll find this time.
+
+*q Enter story?
+*opt Yes
+*opt No
+
+What Was Lost
+Their Verdant Home
+
+Storyman *char
+
+Once, two sisters with lovely ebon hair lived in a lush and verdant land.
+
+They hunted for food in the forest, and did their best to each support the other.
+
+Little Sister *char
+
+Hey Sis, guess what!?
+
+Today, I'm gonna hunt for our food all by myself!
+
+Storyman *char
+
+The elder sister had been born in the woods, and was an archer of rare skill.
+
+When their parents died, she began teaching the younger how to hunt.
+
+The younger looks up to her, and wants so badly to test out her new skills.
+
+This thought fills the older sister with warmth as she follows after her sibling.
+
+Little Sister *char
+
+Here goes...
+
+??? *char
+
+ROAAAR!
+
+Storyman *char
+
+Suddenly, the elder sibling hears a beast cry out from the direction of her little sister.
+
+She sets off after her at a frantic pace.
+
+The savage beast looms over the prone girl and makes to attack.
+
+As an arrow penetrates the beast's tender flesh, it turns tail and flees.
+
+There was no way her little sister could have taken down the massive creature alone.
+
+Little Sister *char
+
+I was so scared, Sis!
+
+Storyman *char
+
+Trying to calm her, the woman removes her silver hairpin and places it on her sister.
+
+It is a keepsake of their mother, one the young girl has long desired.
+
+"Thanks, Sis," she says, beaming. "Next time, it'll be my turn to protect you!"
+
+Mama *char
+
+Ah, yes. I see. The story of this weapon is all about that woman.
+
+I feel like we've seen her somewhere before...
+
+What could this black barrier be?
+
+How can the enemy be acting outside of the scarecrows?
+
+Well, let's just square them away as best we can as we go forward, okay?
+
+What on earth could those dark creatures be after?
+
+I'm sorry, child. There are just so many things that Mama doesn't know.
+
+Look. Something's out there.
+
+What could it be?
+
+There are so many mysteries in The Cage, aren't there?
+
+This second scarecrow will hold another part of the weapon's memory.
+
+*q Enter story?
+*opt Yes
+*opt No
+
+What Was Lost
+A Sister's Love
+
+Storyman *char
+
+Done with their hunting, the black-haired sisters decide to return home before dusk.
+
+The younger has caught a small bunny, and the elder a large boar.
+
+It was a typical day of hunting for the pair.
+
+They only notice the disaster when they come to the bill that overlooks the town.
+
+Flames billow forth, and the chilling snaps of distant gunfire can be heard.
+
+The woman immediately thinks of the war that is raging in the neighboring nation.
+
+She tells her sister to stay put and goes to see what has happened for herself.
+
+Little Sister *char
+
+Be careful...
+
+Storyman *char
+
+The town is oddly still save for the incessant crackle of flames.
+
+The woman gasps as she takes in the grisly sight before her.
+
+All she can see are bodies. Bodies. Bodies.
+
+Royal Soldier *char
+
+Over here! A survivor!
+
+Storyman *char
+
+After defeating the soldier, she hears a voice.
+
+Her worried sister has followed her into the fires of the village.
+
+Enemy soldiers cry out all around them.
+
+Royal Soldier *char
+
+Seize them!
+
+There's two of 'em!
+
+For the kingdom!
+
+Little Sister *char
+
+Sis, we have to run!
+
+Storyman *char
+
+As the woman feared, the war from the nearby nation has finally found them.
+
+Strange and fearsome men surround them on all sides.
+
+Impact. Heat. Pain. ...Her little sister's screams.
+
+As the woman's consciousness flickers out, two words from a soldier reach her ears:
+
+"Sort them."
+
+Mama *char
+
+I see. This weapon speaks of war.
+
+I suppose it's rare for the memories in these weapons to be peaceful ones.
+
+That's a little sad.
+
+This room is a bit strange, isn't it?
+
+Can you see down there?
+
+There are so many paths going every which way. It's like a maze.
+
+I wonder where the other paths lead.
+
+*q Enter story?
+*opt Yes
+*opt No
+
+What Was Lost
+They Will Be Sorted
+
+Storyman *char
+
+The black-haired woman regains consciousness in a world enveloped by haze.
+
+She hears a faint voice.
+
+??? *char
+
+PlEaSe... heLP mE...
+
+Storyman *char
+
+It sounds similar to her little sister's voice, but also...different. Wrong.
+
+My sister. I have to save my sister.
+
+The woman's dim memories slowly become clear.
+
+The blow she'd taken. Her sister screaming. The soldiers' words.
+
+Her only sister. Her only family. She must save her.
+
+As she runs, the woman's world is enveloped in a shimmering wall of white.
+
+When the woman wakes anew, she is lying on the floor of an unfamiliar prison.
+
+Something is terribly wrong.
+
+She looks down at her body and stifles a gasp.
+
+One arm and one leg have been replaced by mechanical substitutes...
+
+And her black hair is now as white as snow.
+
+Where is my sister!?
+
+She dashes off through the dim prison in search of her missing sibling.
+
+She dispatches both her cell door and its guard with equal ease.
+
+Only then does she realize the truth: Her body is now a terrible weapon.
+
+As this knowledge sinks in, darkness envelops her...
+
+When she interrogates the dying guard about her sister, he grins madly and says,
+
+"Our kingdom will invade all! Every country will bend the knee to our might!"
+
+"Then we'll experiment on the survivors and turn them into beautiful killing machines!"
+
+Oh yes. They will be sorted.
+
+Royal Soldier *char
+
+You were...a failure....
+
+Storyman *char
+
+With these final words, the soldier dies.
+
+The woman begins to run.
+
+Don't think about it. Don't think about it. Don't think about it.
+
+She repeats the mantra as she runs, praying that somehow her sister has escaped this fate...
+
+Mama *char
+
+The memories of the woman in this weapon...
+
+She lost her arm and leg because of her dark past.
+
+Wh-what!?
+
+Monster *char
+
+--!
+
+..... 
+
+Mama *char
+
+That was...
+
+Looks like that monster ran off somewhere.
+
+Anyway, the next memory we find will be the last for this part of The Cage.
+
+We're almost there, child. Just keep going.
+
+*q Enter story?
+*opt Yes
+*opt No
+
+What Was Lost
+The Fires of Her Revenge
+
+Storyman *char
+
+As the woman exits her prison, she beholds a town stained red with both flame and blood.
+
+She is in a strange land; one she does not recognize.
+
+But she must find her sister.
+
+The woman runs. And runs. And runs.
+
+Royal Soldier *char
+
+Hey! HEY! One of the failures has escaped!
+
+??? *char
+
+Waaaaaah!
+
+Storyman *char
+
+That's a child!
+
+Upon hearing the wail, she dashes toward the sound.
+
+??? *char
+
+Kya ha ha ha ha!
+
+HEE HEE HEE. WHAT FUN. WHAT FUN.
+
+Storyman *char
+
+The thing standing before her was once her sister.
+
+But now, all trace of her former self has been lost to the sorting.
+
+Little Sister *char
+
+HEE HEE! KILL!! KILL! I WANT TO KIIIIILL!
+
+SssIIIsterrRRRr...
+
+Storyman *char
+
+Her transformed little sister trembles, as if trying to remember something.
+
+Royal Soldier *char
+
+I've got eyes on two failures!
+
+Storyman *char
+
+The moment her sister is cut down in front of her, the woman loses all control.
+
+Even when her enemies are no more than mangled hunks of flesh, she cannot stop.
+
+Finally, the woman cradles her sister in her arms and gazes at her blood-stained face.
+
+Their hair, once dark as night itself, was now pure white.
+
+Yet the hairpin still glinted from atop the sister's head.
+
+The woman was alone. Her fate was sealed. And so she swore a vow to her sister.
+
+The fires of her revenge would rage until they consumed the entire kingdom.
+
+Mama *char
+
+People need goals and hopes in order to live their lives.
+
+And for her, revenge was itself a form of hope.
+
+Hope: The spirit of desire and the drive to move forward.
+
+There are still many things you need to reclaim.
+
+Come now. The next fragment is waiting for you
+
