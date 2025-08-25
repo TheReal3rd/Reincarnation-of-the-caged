@@ -35,7 +35,7 @@ label start:
     scene image "disclaimer.jpg"
     "read first"
     with fade
-    scene image "unknown1.jpg"
+    scene image "unknown1.jpg"#Missing
     "-Quote end."
     with fade
     scene image "bg cage exterior 2.jpg"
@@ -45,7 +45,7 @@ label start:
     "The girl walks down a long path underground with giant black monoliths until she reaches a staircase bringing her to the surface. 
     Suddenly she collapses and finds herself in a cell upon awakening"
     "Walking alone once more along what appears to be inside of a castle she reaches another cell with a unknown being inside of it, the girl approaches it"
-    scene image "bg interior 1.jpg"
+    scene image "bg interior 1.jpg"#Missing
     show fio normal at right
     mama "Well! Look whos finally up."
     show mama default at left
@@ -66,16 +66,16 @@ label start:
     mama "You have lost so much, it's time to reclaim it all. Life will be much harder if you can't speak after all"
     mama "This starcaise is the entrance to your prison, a place we call The Cage"
     "They take the stairs and enter the outside of this strange place and then...."
-    scene image "introduction1.jpg"
+    scene image "introduction1.jpg"#Missing
     "-fragment of an audio recording."
-    scene image "bg exterior sand.jpeg"
+    scene image "bg exterior sand.jpeg"#Mssing
     "the white creature and the girl in black arrive at a place entombed by sand. Sand streams down from towers covering most of the area."
     mama "Goodness look at all these rivers of sand! I wonder how such a thing came to pass."
     mama "Make sure you don't get any grit in your eyes!"
     mama "I wonder where all of this sand is going"
     "going through the solitude place filled with ruins and sand the two eventually arrive at the source of the black light. It was emitted by a black statue, the two wanderes closely approach it"
     mama "These strange statues are scattered through The Cage. I don't know who made them but I call them dark Scarecrows."
-    scene image "black statues.jpeg"
+    scene image "black statues.jpeg"#Working fine.
     mama "Anyways, this is the first one so we will start here"
     "the girl observes the black statue in front of her"
     menu first_scarecrow:
@@ -92,7 +92,7 @@ label start:
                 mama    "so be it then. Do know however you will come to regret this. "
                 return
     "You enter the curious statue and come to find out there is a entire new place inside of it"
-    scene image "rust1.png"
+    scene image "rust1.png"#Missing
     "Story 1: Showdown in the Wastes"
     scene image "bg story1.jpg"
     "A pair of two peculiar men traverse a desert"
@@ -196,7 +196,7 @@ label start:
     "mamas small figure shakes excitely"
     mama "If you do that, Mama will give you a nice surprise!"
     "You shoo the bird away like instructed"
-    scene image 
+    #scene image TODO fix this image.
     "They continue to make their way through the area to find all scattered scarecrows."
     mama "we collect stories in order to regain what you have lost"
     mama "but we also do it to make your wish come true"
@@ -207,13 +207,13 @@ label start:
     mama "Where you woke up, and this sandy area, here are just small parts of it."
     mama "To be honest, a great deal of The Cage is a mystery."        
     mama "I'm not even certain who gave it that name."
-    scene image 
+    #scene image 
     "They arrive at the next scarecrow in front of a huge door."
     mama "To think that poor sick child had to travel the wastes in his condition"
     mama "Still, we have restored the third memory now."
     mama "If we can collect the next one, it will mark the end of the Staff's tale."
     "They make their way through to the last scarecrow."
-    scene image 
+    #scene image 
     mama "Goodness,this place is nothing but stairs!I hope your little legs are okay."
 
 
@@ -292,7 +292,7 @@ label start:
 
     scene image "marionette1.png"
     "I was too much used to this feeling I had no name for, shattered memory data fragment."
-    -insert title screen here Determined hearts, the clockwork Man-
+    #-insert title screen here Determined hearts, the clockwork Man-
     "Deep beneath a castle, a mechanical soldier sits amidst the detritus of a
     storehouse. One day, a boy is brought to the room by soldiers and tossed to the
     floor."
@@ -305,7 +305,7 @@ label start:
     "The name the boy gives is that of the kingdom's firstborn prince. After explaining
     how he has been cast aside because of his disease, the boy gives a wry smile at
     the similar circumstances they find themselves in."
-    -insert title screen, his song.-
+    #-insert title screen, his song.-
     "The boy's condition worsens within the poor conditions of the storehouse, so the
     man searches around and finds a medicine bottle. But the bottle is empty, which
     causes the boy to chuckle." 
@@ -320,7 +320,7 @@ label start:
     this, a joyful smile spreads across the face of the boy."
 
     scene image "marionette2.png"
-    -insert screen, To Face a Father-
+    #-insert screen, To Face a Father-
     "They hear soldiers gossiping on the other side of the door; the start of another
     war is upon them. The boy looks at the man and begins passionately speaking of
     his resolve to stop the war for the sake of his people." 
@@ -336,7 +336,7 @@ label start:
     the boy's hand and flees the castle with his new charge in tow."
     "The pair runs through the village outside the castle with royal guards
     in pursuit."
-    -insert screen, The night it all began-
+    #-insert screen, The night it all began-
     "Though the villagers are in uproar over the impending war,
     they soon realize the boy is royalty and begin jeering at him, heaping their
     outrage against the monarchy on his head alone." 
