@@ -44,12 +44,12 @@ label start:
     "Massive stone towers pierce an empty sky. This enormous structure is called The Cage.
     In its shadow, a lone girl walks with purpose... And she will not leave until she has what she desires."
     with fade
-    "The girl walks down a long path underground with giant black monoliths until she reaches a staircase bringing her to the surface. 
+    "The girl walks down a long path underground with giant black monoliths until she reaches a staircase bringing her to the surface.
     Suddenly she collapses and finds herself in a cell upon awakening"
     "Walking alone once more along what appears to be inside of a castle she reaches another cell with a unknown being inside of it, the girl approaches it"
 
     scene image "bg interior 1.jpg"# Missing TODO find the image I can't find it i spent too much time trying to find it. Moving on to next image. Bounty reward = a kiss :3
-    
+
     show fio normal at right
     mama "Well! Look whos finally up."
     show mama default at left
@@ -71,8 +71,4 @@ label start:
     mama "This staircase is the entrance to your prison, a place we call The Cage"
     "They take the stairs and enter the outside of this strange place and then...."
     #Prologue END
-    jump grains_of_sand
-
-
-
-    
+    jump windblown_sand

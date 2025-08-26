@@ -45,7 +45,7 @@ label windblown_sand:
     shake the road from their weary bones."
 
     scene image "bg story1.jpg"
-    "Most of the townsfolk merely observe the passing visitors with cautious eyes, 
+    "Most of the townsfolk merely observe the passing visitors with cautious eyes,
     but when they approach an eatery, a pack of hard men block their path.
     You royalty, boy? sneers one of them."
     "suddenly the story is interrupted"
@@ -86,17 +86,17 @@ label windblown_sand:
     #18:48
     "But as she makes to leave, another bounty hunter blocks her path. She is known
     for her success as a bounty hunter, and this man demands she hand over all
-    her coin." 
+    her coin."
     "But the fight is over before it can begin; no mediocre highwayman
     could hope to stand against the fires of revenge that fuel the woman."
     "As her would-be assailant lies dying in the dust, she steps over him and continues on."
-   
+
 
     #Story 3 TODO i stoped here -3rd
     scene image "bg story 2.jpg"
     "Story 3: The Gunslinger"
     "In a forest near a ruined church, the man searches for food; he knows the boy
-    must eat, but the pickings are slim indeed." 
+    must eat, but the pickings are slim indeed."
     "Eventually, he finds a single apple
     on the ground. But when he takes it up, a starving bear crashes through the
     underbrush and stares at the meal with hungry, desperate eyes."
@@ -114,7 +114,7 @@ label windblown_sand:
     "The bounty hunter with prosthetic limbs arrives at the ruins of
     a once-proud church. The ceiling is collapsed, the walls mere suggestions; it is
     more shell than structure now."
-    
+
     "Inside, she finds her targets: a deteriorated
     mechanical soldier and a corpse the size of a child."
     "But when she takes a single
@@ -133,7 +133,7 @@ label windblown_sand:
     "Former title: Chapter 1: Windblown Sand His Body,Rust."
     scene image "notes1.jpg"
     "Flow of the game"
-    with fade 
+    with fade
     scene image "bg exterior sand.jpeg"
     "The girl and the strange creature called Mama traverse the entire sandy area after a strenous
     expedition through all the black statues named Scarecrows, Mama explains"
@@ -164,15 +164,15 @@ label windblown_sand:
     mama "Hmmm. I suppose I should tell you a little bit about The Cage"
     mama "It's a truly massive structure."
     mama "Where you woke up, and this sandy area, here are just small parts of it."
-    mama "To be honest, a great deal of The Cage is a mystery."        
+    mama "To be honest, a great deal of The Cage is a mystery."
     mama "I'm not even certain who gave it that name."
-    #scene image 
+    #scene image
     "They arrive at the next scarecrow in front of a huge door."
     mama "To think that poor sick child had to travel the wastes in his condition"
     mama "Still, we have restored the third memory now."
     mama "If we can collect the next one, it will mark the end of the Staff's tale."
     "They make their way through to the last scarecrow."
-    #scene image 
+    #scene image
     mama "Goodness,this place is nothing but stairs!I hope your little legs are okay."
 
 
@@ -188,7 +188,7 @@ label windblown_sand:
     sister scream. Rushing to the sound, she finds the girl frozen in fear with
     a beast ready to attack."
     "A single arrow from the woman's bow drives the creature
-    away, causing the younger to spill tears of relief." 
+    away, causing the younger to spill tears of relief."
     "After embracing the girl,
     the woman quickly offers up her silver hairpin, a keepsake of their mother her
     younger sister has long desired. As her tears dry, the girls swears she will be
@@ -197,15 +197,15 @@ label windblown_sand:
     scene image "bg losttitle2.jpg"
     "Second part"
     "Their hunting complete, the sisters make for home. But when they exit the forest,
-    they see smoke and flame rising in the distance." 
+    they see smoke and flame rising in the distance."
     "The woman immediately thinks of
     the war that is raging in a neighboring nation, and after telling her sister to
     stay put, makes her way to town."
-    
+
     scene image "bg loststory3.jpg"
     "When she arrives, she finds herself surrounded by the incessant crackle of flames.
-    The town is a slaughterhouse, with corpses on every corner." 
-    "As she takes in the scene, her younger sister suddenly rushes up to her." 
+    The town is a slaughterhouse, with corpses on every corner."
+    "As she takes in the scene, her younger sister suddenly rushes up to her."
     "She immediately grabs her
     and attempts to flee, but they are quickly surrounded by enemy soldiers and cut
     down. As her consciousness fades away, she hears her sister scream, followed by
@@ -236,7 +236,7 @@ label windblown_sand:
     "bg loststory5.png"
     "When the woman exits the prison, she finds herself in a strange land of flames
     and blood. As she picks her way through the battlefield, she hears a child's
-    voice and begins to run." 
+    voice and begins to run."
     "Suddenly, the owner of the voice appears before her; it
     is her sister, twisted and warped as a result of the sorting."
     "The girl makes a sound—a desperate, terrible hiss that might be the woman's name—then chokes
@@ -267,7 +267,7 @@ label windblown_sand:
     #-insert title screen, his song.-
     "The boy's condition worsens within the poor conditions of the storehouse, so the
     man searches around and finds a medicine bottle. But the bottle is empty, which
-    causes the boy to chuckle." 
+    causes the boy to chuckle."
     "The man's concern gives him newfound energy,
     however, so he places a candle in the bottle and turns it into a small lamp."
 
@@ -282,14 +282,14 @@ label windblown_sand:
     #-insert screen, To Face a Father-
     "They hear soldiers gossiping on the other side of the door; the start of another
     war is upon them. The boy looks at the man and begins passionately speaking of
-    his resolve to stop the war for the sake of his people." 
+    his resolve to stop the war for the sake of his people."
     "After a moment's thought, the man breaks down the door of the prison, beats back the guards,
     and accompanies the boy to the throne room."
 
     "Standing before the king like the bold hero of his song, the boy demands that
     the war be ended. But the king deems this act to be treason and orders his own
     son killed. The clockwork man cannot disobey his king's orders, and slowly aims
-    his gun." 
+    his gun."
     "But then he summons forth something new—a will of his own—and
     manages to defy the command. As soldiers rush into the room, the man seizes
     the boy's hand and flees the castle with his new charge in tow."
@@ -298,12 +298,12 @@ label windblown_sand:
     #-insert screen, The night it all began-
     "Though the villagers are in uproar over the impending war,
     they soon realize the boy is royalty and begin jeering at him, heaping their
-    outrage against the monarchy on his head alone." 
+    outrage against the monarchy on his head alone."
     "But despite the words, fists,
     and more being hurled in their direction, the pair never stops running."
 
     "Finally, impossibly, they escape. As they look back on their former home,
-    the boy swears to put an end to the war his father started." 
+    the boy swears to put an end to the war his father started."
     "Upon hearing this,
     the clockwork man makes his own oath to guard the prince until his dying breath.
     With determination in their hearts, they take their first steps on the long and
@@ -321,7 +321,7 @@ label windblown_sand:
     "Understood."
 
     "As she walks through town, she is surrounded by the excited hum of life
-    and the smiles of random people." 
+    and the smiles of random people."
     "These are things she can never know,
     and while she envies them, she usually pays them no mind—for she walks
     a different path, one set in a darkness illuminated only by the glinting
@@ -333,7 +333,7 @@ label windblown_sand:
     "She recalls her days of training—training much too severe for a child.
     Every morning, she would ignore the pain of her exhausted body and bring herself
     to the flogging garden, where the adults would berate her for lateness
-    and whip her." 
+    and whip her."
     "She was instructed to be always at her lord's side, and to serve
     him as a tool for eliminating his enemies. This had been the way of her family
     for time immemorial, and as one of them, she was burdened with the assassin's
@@ -349,11 +349,11 @@ label windblown_sand:
     to signal her lord's army to begin an all-out attack."
 
     "As she flies down the corridor and into the reception room, she discovers her
-    target to be a small boy." 
+    target to be a small boy."
     "But even when she presses the tip of her sword to the
     childs throat, he does not cry out. After studying his face for a moment,
-    she realizes the child is not a boy at all, but a girl." 
-    "When asked about her disguise, the girl replies" 
+    she realizes the child is not a boy at all, but a girl."
+    "When asked about her disguise, the girl replies"
     "'I wish this house would fall. I am naught but a puppet
     who dances at my fathers tune. I'm no child to him—merely a tool to be used.'"
     scene image "fleeting2.png"
@@ -363,7 +363,7 @@ label windblown_sand:
     distant whisper in her ears."
 
     "After an uncountable amount of time, woman sheathes her blade and asks"
-    akeha "Did you mean it when you said you wish your house would fall?" 
+    akeha "Did you mean it when you said you wish your house would fall?"
     "The girl nods, shaking from the strain of the moment, and the woman responds with a single
     word once more:"
 
@@ -371,7 +371,7 @@ label windblown_sand:
 
     "Behind her, soldiers suddenly burst into the room. Minutes later, they all
     lie dead on the floor—but the woman has sustained a fatal wound in the process."
-    
+
     "She does not know why she has done this, save that she understands what it is
     like to suffer for the sake of one's family, but she does not regret her actions."
     "And though she knows saving one person is not enough to grant absolution,
@@ -381,9 +381,9 @@ label windblown_sand:
 
     "A man makes his way along a mountain path buried in snow.
     There is no movement. No sound. Only a perfect wall of unbroken white.
-    Though the sun is starting to set, the man's pace does not falter." 
+    Though the sun is starting to set, the man's pace does not falter."
     "When he encounters a crevice, he cuts down a tree to make a bridge. When the moon
-    rises high in the sky, his footsteps do not slow." 
+    rises high in the sky, his footsteps do not slow."
     "This mountain holds a wondrous
     charm for him, and no matter how dangerous it may be in the dark, he has absolute
     trust in his experience. Even when he finds himself surrounded by starving wolves,
@@ -392,13 +392,13 @@ label windblown_sand:
     "The man knows this to be a most precipitous mountain, one where no person has
     ever reached the summit. But he is an adventurer who has conquered many peaks
     in the past, and he eternally seeks the line between life and death within
-    the harshest environments." 
+    the harshest environments."
     "This pursuit is his entire reason for living."
 
     "A blizzard sets in over the snowy mountain, as though attempting to refuse
     the man passage. The freezing wind and snow sting him, making his steps heavy.
     Finally, he catches glimpse of a small cave in the rocks and takes shelter from
-    the elements." 
+    the elements."
     "Once inside, he recalls the letter in his pocket. His daughter had
     given it to him before his climb, along with a charm. The thought of his daughter
     gives him renewed strength, and when the blizzard subsides,
@@ -406,7 +406,7 @@ label windblown_sand:
 
     "Halfway up the mountain, he comes across a lake with a corpse lying on its shore.
     There is no way to tell how long it has been there, but when he investigates
-    the body, he finds a note in the pocket." 
+    the body, he finds a note in the pocket."
     "The handwriting is shaky—perhaps from
     the cold, perhaps from grief—and it tells of the corpse's regret at having left
     his family behind to attempt the climb."
@@ -421,7 +421,7 @@ label windblown_sand:
     but the sight of it stirs his adventurer's blood. But when he sets foot inside,
     he finds, impossibly, that his wife is waiting for him."
 
-    "The baby is coming. she says, her words an echo in his mind. 
+    "The baby is coming. she says, her words an echo in his mind.
     Why did you leave us?"
 
     "He rubs at his eyes fiercely, and when he reopens them, he sees not his wife,
@@ -430,24 +430,24 @@ label windblown_sand:
     and departs without a second thought."
 
     "A lonely house sits in a forest of deep snow. As a pregnant woman minds the
-    housework, a knock shudders the door, a small girl responds" 
+    housework, a knock shudders the door, a small girl responds"
     "Its Dad! -cries the womans daughter.
     as she leaps toward the door. But when she flings it open, the stoop is bare.
     A trick of the wind, perhaps."
     scene image "mountain2.png"
     "The two of them wait for the man to return home. They talk of how sad they are
     not to be with him, what they will do when he returns, and how their family is
-    soon to be one member larger." 
+    soon to be one member larger."
     "Suddenly, the conversation is interrupted by
     the woman clutching her stomach in pain; the new life they were just speaking
     of is ready to be brought into the world."
 
     "The man awakens in the darkness to find himself lying at the bottom of the cliff
     just before the peak. I am already gone, he realizes with something
-    approaching wonder." 
+    approaching wonder."
     "He never conquered the cliff, never saw a shrine; it was
     nothing but a fragment of a dream after he fell. Though he can no longer feel
     his fingers, he fumbles in his pocket to pull out the charm from his daughter.
     And with its faint warmth moving through his body, he slowly closes his eyes."
 
-    return 
+    return
