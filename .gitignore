@@ -1,0 +1,22 @@
+# Ren'Py compiled files
+*.rpyc
+*.rpa
+
+# Save files and logs
+*.save
+*.log
+/*.txt
+
+# Cache and temp
+game/cache/
+game/saves/
+tmp/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Engine files (don’t version Ren’Py itself)
+renpy/
+lib/
+launcher/
