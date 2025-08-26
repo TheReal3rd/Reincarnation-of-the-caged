@@ -30,22 +30,25 @@ define girl = Character ('Girl in Black', color="#1d1d1d")
 
 
 # The game starts here.
-
+# *Alicea Original code.*
 label start:
-    scene image "disclaimer.jpg"
+    scene image "01_Opening_Scene/BG_disclaimer.jpg"
     "read first"
     with fade
-    scene image "unknown1.jpg"#Missing
+    scene image "01_Opening_Scene/BG_Introduction_Quote.png"
     "-Quote end."
     with fade
-    scene image "bg cage exterior 2.jpg"
+    scene image "01_Opening_Scene/BG_CageEstablishingShot_1.png"
+
     "Massive stone towers pierce an empty sky. This enormous structure is called The Cage.
     In its shadow, a lone girl walks with purpose... And she will not leave until she has what she desires."
     with fade
     "The girl walks down a long path underground with giant black monoliths until she reaches a staircase bringing her to the surface. 
     Suddenly she collapses and finds herself in a cell upon awakening"
     "Walking alone once more along what appears to be inside of a castle she reaches another cell with a unknown being inside of it, the girl approaches it"
-    scene image "bg interior 1.jpg"#Missing
+
+    scene image "bg interior 1.jpg"# Missing
+    
     show fio normal at right
     mama "Well! Look whos finally up."
     show mama default at left
