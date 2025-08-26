@@ -1,5 +1,6 @@
 # Ren'Py compiled files
 *.rpyc
+*.rpymc
 *.rpa
 
 # Save files and logs
