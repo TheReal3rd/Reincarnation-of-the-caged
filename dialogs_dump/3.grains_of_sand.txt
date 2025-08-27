@@ -2,6 +2,8 @@
 
 *loc Grains of Sand
 
+Mama *char
+
 You have a long road ahead of you, so you'll need to increase your power.
 
 Hmm, where should I start? First, you need to arrange your allies in a loadout...
