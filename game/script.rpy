@@ -27,6 +27,13 @@ define yudil = Character ('Yudil', color="#b34c4c")
 define tenH = Character ('10H', color="#48425c")
 define girl = Character ('Girl in Black', color="#1d1d1d")
 
+#07_inscription_in_stone monster encounters.
+# Ima bet lazy doesn't like camel case too. lolz
+define flippantMonster = Character ('Flippant Monster', color="#1d1d1d")
+define sullenMonster = Character ('Sullen Monster', color="#1d1d1d")
+define shadyMonster = Character ('Shady Monster', color="#1d1d1d")
+
+
 
 
 # The game starts here.
