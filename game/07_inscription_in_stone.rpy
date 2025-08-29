@@ -9,18 +9,18 @@ label inscription_in_stone:# TODO sort this out.
     "— The Dark Fools lament"
 
     scene image "Establishing shot of cage this area" # TODO
-    mama: "This is the final stop on your journey."
-    mama: "The time has come to restore the final memory."
-    mama: "We will regain all that you have lost..."
-    mama: "So that we might fulfill your wish."
+    mama "This is the final stop on your journey."
+    mama "The time has come to restore the final memory."
+    mama "We will regain all that you have lost..."
+    mama "So that we might fulfill your wish."
     "The two start pressing forward to next scarecrow."
     scene image "scare crow in view of this area" # TODO
-    mama: "Your memories are engraved in this scarecrow. Let us begin..."
+    mama "Your memories are engraved in this scarecrow. Let us begin..."
     
     # Story 1
     # 1:57
     # A title screen or chapter introduction for a game or visual novel, displaying "Redemption: Black" and "Monstrous World" within an ornate, aged-looking border with a sepia-toned background.
-    scene image "07_inscription_in_stone/03_BG_Redemption.png"
+    scene image "07_inscription_in_stone/03_BG_redemption_1.png"
     "Story 1: Monstrous World"
     scene image "07_inscription_in_stone/04_BG_Establishing_Shot_1.png" # 2:13
     "Surrounded by machines, the monster stirs… awakening to a world unknown."
@@ -29,129 +29,75 @@ label inscription_in_stone:# TODO sort this out.
     "A monster...\n Thats mechanical in nature."
     "With unsteady steps, the monster limps forward—making slow, desperate progress."
     scene image "07_inscription_in_stone/05_bg_Meeting_mama.png"
-    mama: "Welcome. It took you a little while to get here, didnt it?"
-    mama: "This is the last memory; the last tale."
-    mama: "Lets move on, shall we?"
-    mama: "This memory differs from all the rest." # 2:52
-    mama: "The world within is terribly unstable."
-    mama: "Stay close to mama so you dont get lost, all right?"
+    mama "Welcome. It took you a little while to get here, didnt it?"
+    mama "This is the last memory; the last tale."
+    mama "Lets move on, shall we?"
+    mama "This memory differs from all the rest." # 2:52
+    mama "The world within is terribly unstable."
+    mama "Stay close to mama so you dont get lost, all right?"
     scene image "07_inscription_in_stone/06_bg_moving_on.png"# 2:59
     "The two begin to make haste."
     scene image "07_inscription_in_stone/07_bg_monster_interaction_1.png"
     "Until they stumble upon a lone monster—one that is closly akin to the monster." # 3:20
 
     "Its eyes are wondering mumbling to itself."
-    spaceyMonster: "Ahhh... More... I need more..."
+    spaceyMonster "Ahhh... More... I need more..."
     "Mama continues on, Ignoring the disturbance."
     scene image "07_inscription_in_stone/08_bg_moving_on.png"
-    mama: "Monsters like you live in this world."
-    mama: "That should be obvious, though."
-    mama: "Its quite unlike the human world, dont you think?"
+    mama "Monsters like you live in this world."
+    mama "That should be obvious, though."
+    mama "Its quite unlike the human world, dont you think?"
     scene image "07_inscription_in_stone/09_bg_monster_interaction_2.png" # 3:57
-    mama: "Oh! Look at that over there."
-    mama: "Those are monsters—creatures of the same type as you."
-    mama: "They certainly seem to be having fun! I wonder what they're talking about?"
-    #TODO left off here -3rd.
-    # Found at 0:4:18.320
-    flippantMonster: "What? Nuh-uh, this dreams mine!"
-    
-    # Found at 0:4:21.360
-    flippantMonster: "You want it? Come get it!"
-    
-    # Found at 0:4:30.320
-    sullenMonster: "Another new dream..."
-    
-    # Found at 0:4:33.720
-    sullenMonster: "If I just keep going, then one day..."
-    
-    # Found at 0:4:42.280
-    shadyMonster: "Uuurgh... Youuu!"
-
-    # Found at 0:4:46.920
-    mama: "Look out! That one is—"
-
-    # Found at 0:4:58.560
-    mama: "The dark foes will attack you here as well, Im afraid."
-    
-    # Found at 0:5:0.920
-    mama: "Do be careful."
-    
-    # Found at 0:5:14.360
-    mama: "As you dream eaters devour said dreams, you will change."
-
-    # Found at 0:5:19.800
-    mama: "Eventually, you will take on a human form."
-    
-    # Found at 0:5:23.840
-    mama: ......
-    
-    # Found at 0:5:28.520
+    mama "Oh! Look at that over there."
+    mama "Those are monsters—creatures of the same type as you."
+    mama "They certainly seem to be having fun! I wonder what they're talking about?"
+    flippantMonster "What? Nuh-uh, this dreams mine!"
+    flippantMonster "You want it? Come get it!"
+    sullenMonster "Another new dream..."
+    sullenMonster "If I just keep going, then one day..."
+    shadyMonster "Uuurgh... Youuu!"
+    mama "Look out! That one is—"
+    "A struggle ensues as the two monsters clash, each blow forcing the aggressor back from his path."
+    "The monster limps onward, the fallen aggressor lying still behind him."
+    scene image "07_inscription_in_stone/10_bg_post_encounter_2.png"
+    mama "The dark foes will attack you here as well, Im afraid. Do be careful."
+    mama "As you dream eaters devour said dreams, you will change."
+    mama "Eventually, you will take on a human form."
+    mama ......
     mama "Eventually, you will take on a human form."
 
-    # Found at 0:5:51.240
-    mama: "I know its painful, but lets keep going."
-    
-    # Found at 0:6:12.280
-    mama: "These memories are deeply entangled with you; restoring them will not be easy."
-    
-    # Found at 0:6:21.160
-    mama: "Do you know what that monster is?"
-    
-    # Found at 0:6:25.880
-    mama: "It is a creature who steals and eats human dreams for want of their form."
-    
-    # Found at 0:6:32.520
-    mama: "But perhaps you know more about that than I do."
-    
-    # Found at 0:6:59.120
-    mama: "Come, then. Let us search for the next scarecrow and memory."
-    
-    # Found at 0:7:6.360
-    mama: "Do you remember how to use this terminal?"
-    
-    # Found at 0:7:21.360
-    mama: "You came through here with her once, didnt you?"
-    
-    # Found at 0:8:9.760
-    mama: "This is the second memory. Are you ready?"
 
+    #Story exit 5:52
+    scene image "07_inscription_in_stone/11_bg_scarecrow_exit.png"
+    mama "I know its painful, but lets keep going."
+    mama "These memories are deeply entangled with you; restoring them will not be easy."
+    mama "Do you know what that monster is?"
+    mama "It is a creature who steals and eats human dreams for want of their form."
+    mama "But perhaps you know more about that than I do."
+    fio "....." # Added this in -3rd
+    mama "Come, then. Let us search for the next scarecrow and memory."
+    "The girl and the creature continue onward across the cold, lifeless stone floor."
+    #mama "Do you remember how to use this terminal?"
+    #mama "You came through here with her once, didnt you?"
+    #mama "This is the second memory. Are you ready?"
 
-
-    #Story 2
-    scene image "todo"#TODO
-    # Found at 0:8:25.320
-    # A title screen or chapter introduction for a game or visual novel, featuring a stylized text overlay on a faded, aged parchment-like background with an ornate border
-    
-    "Redemption: Black"
-    "Violent Greed"
-
-    # Found at 0:8:47.680
+    #Story 2 8:26
+    scene image "07_inscription_in_stone/12_bg_redemption_2.png"
+    "Story 2: Violent Greed"
+    scene image "07_inscription_in_stone/13_bg_establishing_shot_part1.png"
+    "With a sudden lurch, the gears spin backward—bathing the room in an eerie green radiance."
+    scene image "07_inscription_in_stone/14_bg_establishing_shot_part2.png"
     mama: "Be ready."
-    
-    # Found at 0:8:50.480
     mama "The pain you feel right now?"
-    
-    # Found at 0:8:54.240
     mama: "It will only grow deeper as we restore this memory."
-    
-    # Found at 0:8:51.800
-    mama: "The pain you feel right now?"
-    
-    # Found at 0:8:54.360
-    mama: "It will only grow deeper as we restore this memory."
-     
-    # Found at 0:9:1.600
+    scene imaage "07_inscription_in_stone/15_bg_progression_shot.png"
     mama: "We are moving ever closer to the deepest parts of this memory."
-    
-    # Found at 0:9:6.040
     mama: "And as we do, you grow nearer to your original self."
-    
-    # Found at 0:9:12.520
     mama: "Be careful that you dont get swallowed up."
-    
-    # Found at 0:9:16.960
     mama: "Old selves have a way of doing that..."
     
+
+
     # Found at 0:9:27.200
     mama: "Oh dear. Do stay alert, now."
     
