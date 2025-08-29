@@ -32,7 +32,9 @@ define girl = Character ('Girl in Black', color="#1d1d1d")
 define flippantMonster = Character ('Flippant Monster', color="#1d1d1d")
 define sullenMonster = Character ('Sullen Monster', color="#1d1d1d")
 define shadyMonster = Character ('Shady Monster', color="#1d1d1d")
-
+define franticMonster = Character ('Frantic Monster', color="#1d1d1d")
+define blackBird = Character ('Flock of Birds', color="#1d1d1d")
+define guardianMonster = Character ('Guardian Monster', color="#1d1d1d")
 
 
 

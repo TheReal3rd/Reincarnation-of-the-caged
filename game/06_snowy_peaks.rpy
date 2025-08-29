@@ -77,3 +77,4 @@ label snowy_peaks:
     nothing but a fragment of a dream after he fell. Though he can no longer feel
     his fingers, he fumbles in his pocket to pull out the charm from his daughter.
     And with its faint warmth moving through his body, he slowly closes his eyes."
+    jump inscription_in_stone

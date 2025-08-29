@@ -1,20 +1,17 @@
 
 
 #https://drive.google.com/file/d/1CnbWap-Q34omy-_Nke-N6wqCq50pXu0T/view?usp=drive_link -- Video timestamp to.
-label inscription_in_stone:# TODO sort this out.
-    #Quote TODO
-    
-    scene image "quote"
-    "To return it to where it is supposed to be—to how it is meant to be..."
+label inscription_in_stone:#100% complete Needs test...
+    scene image "07_inscription_in_stone/01_quote.png"
     "— The Dark Fools lament"
 
-    scene image "Establishing shot of cage this area" # TODO
+    scene image "07_inscription_in_stone/02_establishing_shot.png" # TODO Maybe remove the "inscriptions in stone"? Or get the game concept art of this area...
     mama "This is the final stop on your journey."
     mama "The time has come to restore the final memory."
     mama "We will regain all that you have lost..."
     mama "So that we might fulfill your wish."
     "The two start pressing forward to next scarecrow."
-    scene image "scare crow in view of this area" # TODO
+    scene image "07_inscription_in_stone/02_1_Scarecrow_shot.png"
     mama "Your memories are engraved in this scarecrow. Let us begin..."
     
     # Story 1
@@ -67,7 +64,7 @@ label inscription_in_stone:# TODO sort this out.
     mama "Eventually, you will take on a human form."
 
 
-    #Story exit 5:52
+    #Story exit 5:52 May remove this mama section...
     scene image "07_inscription_in_stone/11_bg_scarecrow_exit.png"
     mama "I know its painful, but lets keep going."
     mama "These memories are deeply entangled with you; restoring them will not be easy."
@@ -76,313 +73,178 @@ label inscription_in_stone:# TODO sort this out.
     mama "But perhaps you know more about that than I do."
     fio "....." # Added this in -3rd
     mama "Come, then. Let us search for the next scarecrow and memory."
-    "The girl and the creature continue onward across the cold, lifeless stone floor."
+    "The girl and the creature continue onward across the cold, lifeless stone floor. To the next scarecrow."
     #mama "Do you remember how to use this terminal?"
     #mama "You came through here with her once, didnt you?"
     #mama "This is the second memory. Are you ready?"
-
+    #9:19
     #Story 2 8:26
     scene image "07_inscription_in_stone/12_bg_redemption_2.png"
     "Story 2: Violent Greed"
     scene image "07_inscription_in_stone/13_bg_establishing_shot_part1.png"
     "With a sudden lurch, the gears spin backward—bathing the room in an eerie green radiance."
     scene image "07_inscription_in_stone/14_bg_establishing_shot_part2.png"
-    mama: "Be ready."
+    mama "Be ready."
     mama "The pain you feel right now?"
-    mama: "It will only grow deeper as we restore this memory."
+    mama "It will only grow deeper as we restore this memory."
     scene imaage "07_inscription_in_stone/15_bg_progression_shot.png"
-    mama: "We are moving ever closer to the deepest parts of this memory."
-    mama: "And as we do, you grow nearer to your original self."
-    mama: "Be careful that you dont get swallowed up."
-    mama: "Old selves have a way of doing that..."
-    
-
-
-    # Found at 0:9:27.200
-    mama: "Oh dear. Do stay alert, now."
-    
-    # Found at 0:9:29.960
-    mama: "I recognize this method of killing."
-    
-    # Found at 0:9:33.160
-    mama: "It means they have intruded nearby."
-    
-    # Found at 0:9:49.360
-    Frantic Monster: "Dreams... DREAMS!"
-    
-    # Found at 0:9:51.720
-    Frantic Monster: "I NEED MORE DREEEEEEEAMS!"
-    
-    # Found at 0:9:55.000
+    mama "We are moving ever closer to the deepest parts of this memory."
+    mama "And as we do, you grow nearer to your original self."
+    mama "Be careful that you dont get swallowed up."
+    mama "Old selves have a way of doing that..."
+    scene image "07_inscription_in_stone/16_bg_deadly_encounter.png"
+    "At last, they step into an open expanse—its emptiness heavy and unsettling."
+    "Where monsters of the same kind lie torn apart, impaled, and broken."
+    mama "Oh dear. Do stay alert, now."
+    mama "I recognize this method of killing."
+    mama "It means they have intruded nearby."
+    scene image "07_inscription_in_stone/17_bg_the_monster.png"
+    "Proceeding into slaughter, a sight awaits—a creature hunched over, devouring another's dreams."
+    franticMonster "Dreams... DREAMS!"
+    franticMonster "I NEED MORE DREEEEEEEAMS!"
     mama: "This one is going to destroy your memory."
-    
-    # Found at 0:9:59.240
     mama: "Your wish wont come true if you dont restore this, you know?"
-    
-    # Found at 0:10:2.480
-    Frantic Monster: "Its not enough... I cant..."
-    
-    # Found at 0:10:5.360
-    Frantic Monster: "I cant become human like this!"
-    
-    # Found at 0:10:9.800
-    mama: "Its coming! Look out!"
-    
-    # Found at 0:10:29.320
-    Frantic Monster: "Noooo... I was...so close..."
-    
-    # Found at 0:10:36.640
-    mama: "There are two contradictory beings within your memory:"
-    
-    # Found at 0:10:40.560
-    mama: "One is a monster that wishes to become human."
-    
-    # Found at 0:10:44.560
-    mama: "The other is a monster that rejects this thought."
-    
-    # Found at 0:10:47.840
-    mama: "You, I am afraid, were stuck in the middle."
-    
-    # Found at 0:10:50.320
+    franticMonster "Its not enough... I cant..."
+    franticMonster "I cant become human like this!"
+    scene image "07_inscription_in_stone/18_bg_monster_rage.png"
+    "Suddenly, The monster takes a step and lets out a mighty roar!"
+    mama "Its coming! Look out!" # 10:11
+    scene image "07_inscription_in_stone/19_bg_monster_fighter_1.png"
+    "The two monster clash! Holder eachother at bay."
+    "Then they push themselves free of each other..."
+    scene image "07_inscription_in_stone/20_bg_monster_fight_2.png"
+    "The monster braces, preparing to unleash a second strike..."
+    scene image "07_inscription_in_stone/21_bg_monster_fight_3.png"
+    "With unyielding resolve, the monster cleaves through the fanatic beast, felling it in a single motion."
+    franticMonster: "Noooo... I was...so close..." # 10:23
+    mama "There are two contradictory beings within your memory:"
+    mama "One is a monster that wishes to become human."
+    mama "The other is a monster that rejects this thought."
+    mama "You, I am afraid, were stuck in the middle."
     mama "......"
-    
-    # Found at 0:10:53.040
-    mama: "What do you truly wish to do?"
-    
-    # Found at 0:11:26.920
-    mama: "Li"
-    
-    # Found at 0:11:26.600
-    mama: "Are you all right? Can you walk?"
-    
-    # Found at 0:11:29.800
-    mama: "Like I said before, the more we restore, the deeper your pain will grow."
-    
-    # Found at 0:12:15.760
-    mama: "The dark foes attacks grow ever more vehement."
-    
-    # Found at 0:13:41.680
-    mama: "...The path has been cut off."
-    
-    # Found at 0:13:45.640
-    mama: "Though if the path was there, even if is no going back."
-    
-    # Found at 0:13:59.000
-    mama: "When we finish restoring all of these memories, I will ask you one more time."
-    
-    # Found at 0:14:6.000
-    mama: "So prepare yourself for that moment, all right?"
-    
-    # Story 3
-    scene image "todo" #TODO
-    # Found at 0:14:21.400
-    # A title screen or chapter introduction with a vintage, parchment-like background showing a chapter title for "Redemption: Black" with the subtitle "Diseased Impulse"
-    
-    # The image appears to be a stylized text display with an ornate border, suggesting the start of a narrative segment in a game or visual novel
+    mama "What do you truly wish to do?"
+    scene image "07_inscription_in_stone/22_bg_zoom_out_ending.png"
+    "....."
+    # Story 2 end 11:00
 
+    # Mama / Levania(fio) and Cage
+    #mama: "Are you all right? Can you walk?"
+    #mama: "Like I said before, the more we restore, the deeper your pain will grow."
+    #mama: "The dark foes attacks grow ever more vehement."
+    #mama: "...The path has been cut off."
+    #mama: "Though if the path was there, even if is no going back."
+    #mama: "When we finish restoring all of these memories, I will ask you one more time."
+    #mama: "So prepare yourself for that moment, all right?"
     
-    # Found at 0:14:47.560
-    mama: "Let us proceed."
+    # Story 3 14:14
+    scene image "07_inscription_in_stone/23_redemption_3.png"
+    "Story 3: Diseased Impulse"
+    scene image "07_inscription_in_stone/24_establishing_shot.png"
+    "The gears grind to a halt before jolting violently into reverse."
+    "Turning the grim green sky into a stone cold white."
+    scene image "07_inscription_in_stone/25_establishing_shot_2.png"
+    mama "Let us proceed."
+    "Both the creature and monster proceed to walk on..." # TODO may remove let's see...
+    mama "Our only path is straight ahead, after all."
+    mama "It is difficult for any creature to fight their instincts."
+    mama "The wish to become human... The urge to eat dreams..."
+    mama "Those are the greatest desires for monsters such as you."
+    mama "They are your very reasons for living."
+    mama "Denying them would be the same as denying yourself."
+    scene image "07_inscription_in_stone/26_bg_obstruction_1.png"
+    "The monster and creature happen upon a ravine, barring their path."
+    "With a single strike, the monster fells a tree, laying it across the ravine to bridge their way forward."
+    scene image "07_inscription_in_stone/27_bg_obstruction_2.png"
+    "....."
+    scene image "07_inscription_in_stone/28_bg_obstruction_3.png"
+    "Both move on across the unstable bridge watching their step."
+    scene image "07_inscription_in_stone/29_bg_encounter_1.png"
+    "They wonder apon a creature guarding earie cave surounded by black birds."
+    scene image "07_inscription_in_stone/30_encounter_2.png"
+    "Number of small birds flock in one by one."
+    #16:18
+    blackBird "WHY"
+    blackBird "THAT CHILD"
+    scene image "07_inscription_in_stone/30_encounter_3.png"
+    blackBird "BE HUMAN"
+    blackBird "DOESNT MATTER"
+    scene image "07_inscription_in_stone/32_encounter_4.png"
+    blackBird "TAKE"
+    blackBird "WHO CARES"
+    "The birds twitch and rufferling their feathers repeating, repeating, again and again..."
+    "Suddenly the Guard beings questioning you..."
+    guardianMonster "You wanted to be human, yeah?"
+    guardianMonster "That kid was just food."
+    guardianMonster "Why are you letting it bother you now?"
+    mama "Dont let them confuse you."
+    mama "They will intrude on your hesitation."
+    "The monster strucks down the illusion that bars its way. The flock scattering away!"
+    mama "Once they read your thoughts, they say them out loud."
+    mama "Then they creep into your memory while youre shaken and attempt to destroy it."
+    mama "Be careful, okay?"
+    "The duo proceed through the swirling cave..."
+    scene image "07_inscription_in_stone/33_bg_section_2.png"
+    "Stepping out of the darkness, you find yourself in a land of mirrors—endless reflections stretching in every direction."
+    mama "Remember back then?"
+    mama "You met a human."
+    mama "You devoured all of her dreams whole."
+    mama "Then you took her body and became human."
+    scene image "07_inscription_in_stone/34_bg_transformation_1.png"
+    "Wasting no time, you hurry forward… when suddenly, the clockwork spins into motion, and the sky shifts to a bright sunlight, painted in beautiful yellows."
+    mama "The restoration is almost complete. Brace yourself."
+    # Story 3 END 18:32
     
-    # Found at 0:14:52.520
-    mama: "Our only path is straight ahead, after all."
+    #As this one give details to the story i'll keep it.
+    scene image "07_inscription_in_stone/35_bg_mama.png"
+    "After emerging from the third scarecrow, the two press on toward the next."
+    "The girl limps across, mirroring the monster, struggling to keep her balance."
+    mama "Can you still walk?"
+    mama "...All right."
+    mama "Regardless of what you choose, the next memory will be the last."
+    mama "...Lets get a move on."
+    mama "Restoring the tale of what you have done is penance for your sins."
+    mama "But soon that, too, will come to an end."
+    mama "Will you realize your wish? Or..."
+    mama "This is the last—truly and well the last memory."
+    mama "The moment you complete this restoration, you will regain all you have lost."
+    mama "And there, you will find your sins waiting."
     
-    # Found at 0:15:1.560
-    mama: "It is difficult for any creature to fight their instincts."
-    
-    # Found at 0:15:9.960
-    mama: "The wish to become human...
-    The urge to eat dreams..."
-    
-    # Found at 0:15:21.120
-    mama: "Those are the greatest desires for monsters such as you."
-    
-    # Found at 0:15:28.120
-    mama: "They are your very reasons for living."
-    
-    # Found at 0:15:47.040
-    mama: "Denying them would be the same as denying yourself."
-    
-    # Found at 0:0:4.120
-    "To return it to where it is supposed to be—to how it is meant to be..."
-    
-    "— The Dark Fools lament"
-    
-    # A dark, minimalist screen displaying a cryptic quote attributed to "The Dark Fool", suggesting a philosophical or melancholic narrative moment from a game or interactive story.
 
-    # Found at 0:16:17.640
-    Black Bird: "WHY"
-    
-    # Found at 0:16:19.000
-    Black Bird: "WHY"
-    Black Bird: "THAT CHILD"
-    
-    # Found at 0:16:21.320
-    Black Bird "THAT CHILD"
-    Black Bird "BE HUMAN"
-    
-    # Found at 0:16:23.440
-    Black Bird "DOESNT MATTER"
-    Black Bird "BE HUMAN"
-    
-    # Found at 0:16:26.120
-    Black Bird "DOESNT MATTER"
-    Black Bird "TAKE"
-    
-    # Found at 0:16:28.360
-    Black Bird "TAKE"
-    Black Bird "WHO CARES"
-    
-    # Found at 0:16:32.080
-    Guardian Monster: "You wanted to be human, yeah?"
-    
-    # Found at 0:16:34.840
-    Guardian Monster: "That kid was just food."
-    
-    # Found at 0:16:37.840
-    Guardian Monster: "Why are you letting it bother you now?"
-    
-    # Found at 0:16:41.480
-    mama: "Dont let them confuse you."
-    
-    # Found at 0:16:44.520
-    mama: "They will intrude on your hesitation."
-    
-    # Found at 0:16:57.120
-    mama: "Once they read your thoughts, they say them out loud."
-    
-    # Found at 0:17:1.600
-    mama: "Then they creep into your memory while youre shaken and attempt to destroy it."
-    
-    # Found at 0:17:4.280
-    mama: "Be careful, okay?"
-    
-    # Found at 0:17:26.720
-    mama: "Remember back then?"
-    
-    # Found at 0:17:32.720
-    mama: "You met a human."
-    
-    # Found at 0:17:38.480
-    mama: "You devoured all of her dreams whole."
-    
-    # Found at 0:17:44.240
-    mama: "Then you took her body and became human."
-    
-    # Found at 0:18:2.640
-    mama: "The restoration is almost complete. Brace yourself."
-    
-    # Found at 0:18:31.400
-    mama: "Can you still walk?"
-    
-    # Found at 0:18:34.040
-    mama: "...All right."
-    
-    # Found at 0:19:44.560
-    mama: "Regardless of what you choose, the next memory will be the last."
-    
-    # Found at 0:19:51.360
-    mama: "...Lets get a move on."
-    
-    # Found at 0:20:51.120
-    mama: "Restoring the tale of what you have done is penance for your sins."
-    
-    # Found at 0:20:56.480
-    mama: "But soon that, too, will come to an end."
-    
-    # Found at 0:21:1.040
-    mama: "Will you realize your wish? Or..."
-    
-    # Found at 0:22:27.560
-    mama: "This is the last—truly and well the last memory."
-    
-    # Found at 0:22:34.840
-    mama: "The moment you complete this restoration, you will regain all you have lost."
-    
-    # Found at 0:22:40.560
-    mama: "And there, you will find your sins waiting."
-    
-    # Found at 0:22:58.880
-    "Redemption: Black
-    Dark Violation"
-    
-    # A stylized text screen displaying a chapter or scene title with an aged, parchment-like background and ornate border, suggesting a dramatic or serious narrative moment in a game.
-
-    # Found at 0:23:6.400
+    # Story 4 22:58
+    scene image "07_inscription_in_stone/36_redemption_4.png"
+    "Story 4: Dark Violation"
+    scene image "07_inscription_in_stone/37_bg_establishing_shot.png"
     mama: "The mirror reflects your self."
-    
-    # Found at 0:23:11.320
     mama: "Come now, lets keep going."
-    
-    # Found at 0:23:15.440
     mama: "You need to face your sins."
-    
-    # Found at 0:23:45.440
+    scene image "07_inscription_in_stone/38_bg_reflection_of_one_self.png"
+    "The monster confronts a large mirror, and within it, a little girl appears—chains wrapped around her wrists and neck."
+    "Whom stands staring back."
     mama "That girl is the one from whom you stole dreams."
-    
-    # Found at 0:23:48.640
     mama "You devoured her dreams."
-    
-    # Found at 0:23:52.840
-    mama: "You stole her body. You became"
-    
-    # Found at 0:23:53.680
     mama "You stole her body. You became human."
-    
-    # Found at 0:24:0.680
     mama: "And that is the form you take now: the sinful girl in black."
-    
-    # Found at 0:24:3.920
     mama: "Yes, something came from all this:"
-    
-    # Found at 0:24:7.280
     mama: "you fulfilled your desires as a monster."
-    
-    # Found at 0:24:11.000
     mama: "But the poor girl, with all her dreams taken away..."
-    
-    # Found at 0:24:13.640
     mama: "......"
-    
-    # Found at 0:24:16.840
     mama: "Well, you simply couldnt live with that."
-    
-    # Found at 0:24:20.800
     mama "Because you..."
-    
-    # Found at 0:24:35.680
     mama: "Because you and the girl..."
-    
-    # Found at 0:24:38.000
     mama: "You were going to be friends."
-    
-    # Found at 0:24:40.400
     mama: "And yet..."
-    
-    # Found at 0:24:46.640
     mama: "Her dreams were taken from her."
-    
-    # Found at 0:24:50.480
     mama: "So she took on the form of the monster in your place..."
-    
-    # Found at 0:24:55.880
     mama "and still wanders The Cage even now."
-    
-    # Found at 0:25:8.840
+    scene image "07_inscription_in_stone/39_bg_mirror_transform.png"
+    "Suddenly the monster and the girl get engulfed in darkness and light..."
+    scene image "07_inscription_in_stone/40_bg_their_new_form.png"
+    "Swapping their places."
     mama: "The time has come."
-    
-    # Found at 0:25:14.160
+    scene image "07_inscription_in_stone/41_bg_final.png"
     mama: "You have righted all the memories you were meant to fix."
-    
-    # Found at 0:25:16.600
-    mama: "Now you will take back"
-    
-    # Found at 0:25:17.680
     mama: "Now you will take back your final fragment."
-    
-    # Found at 0:25:21.360
     mama: "And with that, you will answer my question again."
-    
-    # Found at 0:25:28.640
-    mama: "The time has come to fulfill your wish."
+    scene image "blackscreen.jpg"
+    jump withered_crimson
     
