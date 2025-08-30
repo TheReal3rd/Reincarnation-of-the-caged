@@ -1,0 +1,1019 @@
+    # Found at 0:0:2.320
+    "It's okay, you're not going to die. I mean, I'm still alive. right?"
+    
+    # A dark scene displaying a quote from a conversation within a military platoon, suggesting a tense moment of uncertainty and survival during combat.
+
+    # Found at 0:0:31.640
+    Levania: "I've been waiting for you."
+    
+    # A dark, gothic-style stone courtyard with a pale figure in a white dress standing near a large, menacing creature with mechanical or tentacle-like appendages. The scene appears to be from a video game cutscene with a mysterious and tense atmosphere.
+
+    # Found at 0:0:34.120
+    Fio: "Hee heel Thanks."
+    
+    # A scene from a video game showing a young woman in a white dress standing near a large, gothic-style building, with a dark, mechanical or monstrous creature nearby. The environment appears to be a stone-tiled courtyard with a bluish, moody lighting.
+
+    # Found at 0:0:37.320
+    Carrier: "Now, let us proceed onward. Briskly now, friends! Briskly!"
+    
+    # A dark, gothic-style interior with a large stone building in the background. A small figure in a white dress stands near a mechanical, shadowy creature labeled as a "Carrier" on a tiled floor. The scene has a moody, atmospheric lighting with blue-gray tones.
+
+    # Found at 0:0:46.200
+    Fio: "So it's nighttime here, too."
+    
+    # A nighttime scene in a gothic-style stone courtyard or bridge. A character in a white dress stands to the left, while a dark, angular creature walks ahead on the stone path. The background shows a large architectural structure with arched windows and a bluish night atmosphere.
+
+    # Found at 0:0:50.360
+    Carrier: "Yes, it does indeed seem that way sometimes."
+    
+    # A pale figure in a white dress is running down a stone bridge or pathway, pursued by a dark, skeletal robotic creature in a blue-tinted, gothic-style architectural environment. An "AUTO" button is visible in the top right corner of the screen.
+
+    # Found at 0:1:2.680
+    Fio: "Oh no! They broke!"
+    
+    # A dark, blue-tinted stone chamber with broken rock or stone objects scattered on the ground. A character named Fio is shown in the top right corner, and an "AUTO" button is visible, suggesting this is a scene from a visual novel or game.
+
+    # Found at 0:1:6.000
+    Fio: "Are we gonna get in trouble?"
+    
+    # A dark, stone-walled corridor with a menacing insectoid or mechanical creature silhouetted in a purple-blue light, creating an ominous atmosphere. Debris or stone fragments are visible in the foreground.
+
+    # Found at 0:1:21.600
+    Carrier: "Now let us begin with this Dark Scarecrow."
+    
+    # A dark, shadowy figure resembling a scarecrow stands in a stone corridor, illuminated by a vertical beam of light. The scene appears to be from a video game with an auto-play interface visible.
+
+    # Found at 0:1:29.280
+    # Game menu screen for a quest selection interface, with options to enter a story or skip it, and a deck selection panel
+    
+    "Enter story?"
+    
+    [Yes/No options are available, with a "Skip Story" checkbox]
+
+    # Found at 0:1:41.200
+    # A title screen displaying "The Reluctant Hero" with the name "Captain Craven" in an ornate, aged-looking frame with a golden border.
+
+    # Found at 0:1:47.760
+    "A timid military captain lives in a nation where wars rage without pause."
+    
+    # A monochromatic scene depicting a stylized character climbing or moving near a ladder/scaffolding structure, with a dimly lit military or industrial setting in the background. The image appears to be from a narrative-driven side-scrolling game with a somber, atmospheric visual style.
+
+    # Found at 0:1:54.280
+    "His frequent retreats have caused his men to nickname him 'Captain Craven.'"
+    
+    # A monochromatic scene depicting a character running or moving across a dimly lit industrial or military facility with wooden crates, chain-link fencing, and a moody atmospheric background. The scene appears to be from a stylized stealth or action game with a noir-like visual aesthetic.
+
+    # Found at 0:2:0.960
+    "This morning, he walks around the base and orders his men to prepare for combat."
+    
+    # A monochromatic scene depicting a military base with a watchtower, chain-link fence, and wooden buildings. A silhouetted figure is running near two other standing figures, with a full moon in the background creating a stark, dramatic atmosphere.
+
+    # Found at 0:2:11.920
+    Angry Soldier: "This idiot drank my beer last night!"
+    
+    # A dimly lit military base scene with silhouetted soldiers standing near a building with illuminated windows. Three figures are visible, with one soldier expressing frustration about a missing beer.
+
+    # Found at 0:2:15.440
+    Drunk Soldier: "I SCHAID I was schorry! Whaddya want from me!"
+    
+    # A dimly lit scene with silhouetted figures, showing a drunk soldier confronted by two other characters near a building with lit windows. The scene appears to be in a military or industrial setting with a desaturated, noir-like visual style.
+
+    # Found at 0:2:20.560
+    Captain: "Let's all calm down, okay? I'll go buy some more later."
+    
+    # A dimly lit scene with three silhouetted figures standing near a building at night. Two figures appear to be uniformed officers, while one figure (the captain) stands slightly apart. The scene has a moody, monochromatic aesthetic with lit windows in the background.
+
+    # Found at 0:2:35.840
+    Lazy Soldier: "Sooo, I kinda forgot the details of today's operation?"
+    
+    # A dimly lit military facility scene with silhouetted soldiers standing near a building with illuminated windows. Three figures are present, with one speaking to the others in a dialogue box.
+
+    # Found at 0:2:39.320
+    Serious Soldier: "You're the one in charge of preparation!"
+    
+    # A monochromatic scene depicting three soldiers in a military base or compound at night. Two soldiers are interacting while a third stands slightly apart. The setting includes a fence, buildings with lit windows, and a moody, shadowy atmosphere.
+
+    # Found at 0:2:44.880
+    Captain: "It's all right. I'll take care of getting everything ready."
+    
+    # A dimly lit scene with three silhouetted figures in what appears to be a military or police facility. Two figures stand uniformly while one, labeled as a Captain, speaks. The background shows a building with lit windows, wooden crates, and a chain-link fence, creating a moody, noir-like atmosphere.
+
+    # Found at 0:2:57.440
+    "Daily, the captain finds himself mediating quarrels among his hot-blooded men."
+    
+    # A dimly lit scene with two stylized characters in a prison or military-like setting. One character appears to be standing near some sandbags or barrels, while another stands to the right. The scene has a monochromatic, noir-like aesthetic with shadowy architectural elements in the background.
+
+    # Found at 0:3:3.840
+    "And yet, he never treats them as anything other than his trusted fellows."
+    
+    # Two stylized characters stand in a dimly lit industrial or military setting with chain-link fencing and sandbags in the background. The scene appears to be from a narrative-driven game with a monochromatic, high-contrast visual style.
+
+    # Found at 0:3:9.240
+    Loud Soldier: "Heeey, Captain Craven!"
+    
+    # A dimly lit military facility with chain-link fences and sandbags. Two stylized characters stand facing each other, one appearing to call out to the other. A small flame or light source is visible in the background, adding to the moody atmosphere.
+
+    # Found at 0:3:13.680
+    Loud Soldier: "Yeah, we're all sick of you. Any chance you can just go off and die somewhere?"
+    
+    # A dark, monochromatic scene depicts two stylized characters in a fenced area. One character appears to be a soldier speaking aggressively to another character, with a red-glowing object visible in the background. The environment looks industrial and tense.
+
+    # Found at 0:3:25.640
+    "After finishing his rounds, the captain restores a temporary discipline."
+    
+    # Two characters stand in a dimly lit, industrial-looking area with chain-link fencing and sandbags. One character appears to have white/light-colored hair and is standing slightly to the left, while another character in a more formal uniform stands to the right. The scene has a desaturated, moody aesthetic suggestive of a military or prison-like environment.
+
+    # Found at 0:3:30.920
+    Loud Soldier: "All right. I'll head back and get ready for the operation."
+    
+    # Two stylized characters stand in a dimly lit military facility with chain-link fencing and sandbags. One character appears to have white/light hair and the other is wearing a standard military uniform. A dialogue box indicates communication between them, set against a desaturated, moody background.
+
+    # Found at 0:3:37.560
+    Brawny Soldier: "Captain, that problem child from yesterday is unaccounted for."
+    
+    # Two soldiers stand in a dimly lit industrial or military facility with chain-link fencing. A pink-red flame or light source burns on the left side of the scene, and stacked barrels or containers are visible in the background. The scene has a desaturated, moody aesthetic with high contrast between dark and light elements.
+
+    # Found at 0:3:41.920
+    "Earlier, a young boy had volunteered for combat so he could avenge his parents."
+    
+    # Two silhouetted figures stand in a dimly lit industrial or warehouse-like environment with chain-link fencing and stacked objects in the background. The scene appears to be from a narrative-driven game with a somber, dark aesthetic.
+
+    # Found at 0:3:48.920
+    "But concerned for the boy's well-being, the captain had turned down his proposal."
+    
+    # Two silhouetted figures stand in a dimly lit industrial or military facility with chain-link fencing, stacked barrels, and a shadowy background. One figure appears to be wearing a lighter-colored outfit, while the other is in darker attire. The scene suggests a tense or serious conversation about a rejected proposal related to a young person's welfare.
+
+    # Found at 0:3:54.920
+    "Dark clouds gather as they ready for combat, matching the captain's mood..."
+    
+    # Two silhouetted figures stand in a dimly lit, industrial-looking area with chain-link fencing and a watchtower in the background. The scene suggests a tense moment before an impending confrontation.
+
+    # Found at 0:4:22.520
+    Carrier: "My substitute said these are stories of war related to last night's dreams."
+    
+    # A dark, stone-walled interior with two stylized, elongated figures - one dark and one blue-tinted - standing on a tiled floor. A mission screen is visible on the left side of the interface, showing various mission objectives.
+
+    # Found at 0:4:23.760
+    Carrier: "My substitute said these are stories of war related to last night's dreams."
+    
+    # A dimly lit stone chamber with a mission objective screen showing completed tasks. Two stylized characters - one smaller and one tall and blue - are standing on tiled stone flooring near an arched doorway in the background.
+
+    # Found at 0:4:28.480
+    Fio: "Hmm, 'Stories of war,' huh?"
+    
+    # A dark, moody scene shows a skeletal or insectoid creature walking down a stone corridor, with a rewards menu visible on the left side of the screen and a character named Fio commenting from an icon in the top right.
+
+    # Found at 0:5:14.360
+    "The girl always looked to be having fun as we traveled."
+    
+    # A dark background with white text displaying a narrative description about traveling with a female companion.
+
+    # Found at 0:5:52.560
+    "The girl always looked to be having fun as we traveled. She had been plagued by nightmares and spent untold nights in tears in her old life, but she looked downright cheerful in the world of The Cage.
+    
+    Even though humans are at the whims of their emotions, it seems their souls shone brighter with each bout of emotional turmoil, and I could not understand why.
+    
+    But that was the first time that I knew I wanted to be human so I could see the world from the same perspective as her."
+    
+    # Introspective text passage describing an observer's reflection on a girl's emotional journey in a mysterious setting called "The Cage", displayed as white text on a black background.
+
+    # Found at 0:6:0.160
+    Fio: "I hope you can be human soon, Mr. Monster."
+    
+    # A dimly lit stone chamber with blue-tinted walls, showing two figures - one appears to be a character named Fio on the right side, and another figure (possibly a monster) on the left side of the scene. The image has a game interface with an "AUTO" button and dialogue box.
+
+    # Found at 0:6:5.800
+    Levania: "Judging by your dreams, it seems all you humans do is worry and fret."
+    
+    # A dark, blue-tinted scene depicts a stone staircase with a figure climbing the steps, while another figure in a dark, mechanical-looking form stands nearby. The environment appears to be a gothic or medieval-style stone structure with architectural elements creating a moody atmosphere.
+
+    # Found at 0:6:10.840
+    Levania: "Do you even enjoy your lives?"
+    
+    # A dark, blue-tinted stone staircase winds through a gloomy, architecturally imposing interior with tall stone walls. A dialogue box indicates a character named Levania is speaking, with an "AUTO" indicator suggesting this is from a visual novel or game interface.
+
+    # Found at 0:6:14.520
+    Fio: "Well, / sure do!"
+    
+    # A dark, moody scene with stone stairs and walls, featuring a character climbing a staircase in a dimly lit, architectural environment. An "AUTO" button is visible in the top right corner of the image.
+
+    # Found at 0:6:20.360
+    Fio: "I play with my friends, eat snacks, read books..."
+    
+    # A blue-tinted scene with stone or wooden structures, possibly an interior or underground environment. A dialogue box appears with a character named Fio describing simple, everyday activities. The scene has a misty, atmospheric quality with architectural elements in the foreground.
+
+    # Found at 0:6:25.920
+    Fio: "I get to be with my mommy and daddy..."
+    
+    # A blue-tinted scene with a blurry, curved mechanical or organic structure in the background, showing a dialogue box with a character named Fio speaking in a seemingly emotional or nostalgic tone.
+
+    # Found at 0:6:28.520
+    Fio: "....."
+    
+    # A blue-tinted scene with a blurry, curved background suggestive of an underwater or cavernous environment. An "AUTO" button is visible in the top right, and a character named Fio is shown with a dialogue box containing ellipses, indicating silence or hesitation.
+
+    # Found at 0:6:33.040
+    Levania: "Mmm? What is it?"
+    
+    # A blue-tinted scene with blurry architectural elements, possibly underwater or in a misty environment. A dialogue box is visible with a character named Levania responding to an unshown prompt.
+
+    # Found at 0:6:36.880
+    Fio: "N-nothing..."
+    
+    # A dimly lit stone corridor with an arched doorway, bathed in blue-gray tones. A small character stands on a stone platform, with a dialogue box indicating a hesitant response.
+
+    # Found at 0:6:49.000
+    Boy: "Mommy... *sniff*"
+    
+    # A somber scene in a blue-tinted, stone-walled chamber with silhouetted figures. A small figure stands near a larger figure, with another tall, mechanical-looking entity nearby. The atmosphere is melancholic and mysterious, suggesting an emotional moment between characters.
+
+    # Found at 0:6:52.120
+    Levania: "What is this child doing here?"
+    
+    # A dimly lit, blue-tinted stone chamber with arched walls. Three figures are positioned on a tiled floor - a small figure on the left, a tall armored figure on the right, and another figure standing nearby. The scene appears to be from a video game cutscene with a mysterious, somber atmosphere.
+
+    # Found at 0:6:54.960
+    Carrier: "Dear me, I have no idea."
+    
+    # A dimly lit, blue-tinted stone chamber with three silhouetted figures. One figure appears to be standing near a tall, ornate staff or banner, while another figure seems to be in a more dynamic pose. The scene has a mystical, ethereal atmosphere with architectural arches and a tiled floor.
+
+    # Found at 0:6:58.680
+    Fio: "What's wrong?"
+    
+    # A dimly lit, blue-tinted stone chamber with three figures: two humanoid characters and a tall, angular mechanical or skeletal entity. The scene appears to be from a video game with a melancholic, mysterious atmosphere. One character seems to be in a hunched or distressed posture, while another stands upright, and a third imposing figure looms nearby.
+
+    # Found at 0:6:58.800
+    Fio: "What's wrong?"
+    
+    # A dimly lit, blue-tinted stone chamber with three figures: a smaller character, a character in a dress, and a tall, mechanical-looking entity. The scene appears to be from a video game with a mysterious, atmospheric setting.
+
+    # Found at 0:7:2.680
+    Boy: "A buncha mean soldiers came to the village, so me and my Mommy were gonna 'scape..."
+    
+    # A somber scene in a blue-tinted stone chamber with three silhouetted figures: a small figure labeled "Boy", another figure in a dress, and a tall, angular robotic or skeletal figure. The environment suggests a melancholic, mysterious narrative moment from a game with a stylized visual aesthetic.
+
+    # Found at 0:7:7.240
+    Boy: "But I got lost... *sniff*"
+    
+    # A melancholic scene in a blue-tinted, stone-walled room with three figures: a small hunched figure, a standing figure in a dress, and a tall, angular robotic or mechanical entity. The atmosphere is somber and mysterious, with an ethereal, dreamlike quality.
+
+    # Found at 0:7:14.160
+    Carrier: "Heavens, I believe this child was chased here from inside the scarecrow!"
+    
+    # A dimly lit, blue-tinted stone chamber with three figures: a small figure on the left, a slender figure in the center, and a dark, mechanical-looking entity on the right. A large arched window or portal is visible in the background, and the scene has an ethereal, mysterious atmosphere.
+
+    # Found at 0:7:17.120
+    # A blue-tinted stone chamber with three silhouetted figures: two humanoid characters and one mechanical/robotic entity. A location name "Levania" is displayed, and a partial location name "Ca" is visible.
+    
+    Levania: "Ca"
+
+    # Found at 0:7:18.560
+    Levania: "Can that even happen?"
+    
+    # A dimly lit, blue-tinted stone chamber with three silhouetted figures. One figure stands in the center, another is bent forward, and a third appears to be a winged or chained entity. A mysterious, ethereal atmosphere pervades the scene with an architectural, almost medieval backdrop.
+
+    # Found at 0:7:21.520
+    Carrier: "It appears so—though I imagine it to be a rather rare occurrence."
+    
+    # A dimly lit, blue-tinted stone chamber with three figures: two humanoid characters standing near stone structures and a tall, menacing robotic or skeletal figure with wing-like appendages on the right side. The scene has a mysterious and ethereal atmosphere, suggesting a cutscene from a fantasy or science fiction game.
+
+    # Found at 0:7:25.680
+    Boy: "*sniff* I want my mommy... *sniff*"
+    
+    # A somber scene in a blue-tinted stone chamber with three silhouetted figures: a small figure (the boy), a slender figure in a dress, and a tall, skeletal or robotic-like creature. The atmosphere is melancholic and mysterious, with an ethereal, dreamlike quality.
+
+    # Found at 0:7:33.800
+    Fio: "Can you go find his mommy in the scarecrow, Mr. Monster?"
+    
+    # A dark, blue-tinted scene depicts two silhouetted figures standing near a tall, menacing scarecrow-like creature in a stone-walled chamber. The atmosphere is ethereal and haunting, with a mysterious and melancholic tone.
+
+    # Found at 0:7:36.360
+    Fio: "Pleeeease?"
+    
+    # A dimly lit, blue-tinted stone chamber with two silhouetted figures and a tall, ethereal winged creature. One figure appears smaller and is pleading, while the other stands more rigidly. A mysterious atmosphere permeates the scene with an architectural, almost medieval setting.
+
+    # Found at 0:7:41.720
+    Carrier: "You will be entering the Dark Scarecrows regardless, so I suppose it could not hurt to search for the missing mother as well."
+    
+    # A dimly lit, blue-tinted stone chamber with three figures: two humanoid characters standing close together and a tall, skeletal robotic figure to the right. A ghostly silhouette appears in the background, and the scene has an ethereal, mysterious atmosphere.
+
+    # Found at 0:7:47.400
+    Levania: "I didn't think this could get any more annoying, yet here we are."
+    
+    # A blue-tinted stone chamber with three figures: a character in a light dress, another in dark clothing, and a mechanical or ethereal-looking entity to the right. A large arched portal or energy field is visible in the background, creating a mystical, somewhat melancholic atmosphere.
+
+    # Found at 0:7:59.440
+    # Game menu screen showing character selection for Quest 4, with options to enter story or skip, and a deck of characters at different levels
+    
+    "Enter story?"
+    
+    [Options]
+    "No"
+    "Yes"
+
+    # Found at 0:8:13.600
+    # A title screen or chapter introduction for a game, displaying "The Reluctant Hero" as a subtitle and "Familiar Impression" as the main title, set against a vintage, slightly faded parchment-like background with an ornate border.
+
+    # Found at 0:8:20.080
+    "With several units in tow, the captain and his army march for the enemy camp."
+    
+    # A monochromatic scene depicting soldiers marching through a desolate, war-torn landscape with barbed wire, broken trees, and a large moon in the background. The soldiers are silhouetted in dark uniforms, walking through a bleak, mountainous terrain.
+
+    # Found at 0:8:32.200
+    "Their goal is to annihilate the enemy—and, if possible, locate the missing boy."
+    
+    # A monochromatic, silhouetted scene depicting three soldiers in a war-torn landscape with barbed wire, broken trees, and smoke. The scene suggests a grim, dystopian military environment with a mission to defeat an enemy and find a missing child.
+
+    # Found at 0:8:38.040
+    Captain: "Alpha Team, proceed to Point B as planned."
+    
+    # A monochromatic scene depicting three silhouetted soldiers moving through a bleak, war-torn landscape with barbed wire, bare trees, and a large moon in the background. The soldiers appear to be on a tactical mission in a desaturated, grim environment.
+
+    # Found at 0:8:41.760
+    Captain: "Charlie Team, scout the enemy numbers from the west."
+    
+    # A dark, silhouetted military scene depicts three soldiers in a war-torn landscape with wooden fortifications. A burning structure is visible on the right, and a full moon illuminates a mountainous background with bare trees. An aircraft can be seen in the distant sky.
+
+    # Found at 0:8:46.680
+    "As always, his orders are cautious; the safety of his men his overriding concern."
+    
+    # A monochromatic scene depicting two silhouetted soldiers moving through a war-torn landscape with barbed wire fences, smoke, and trees in the background. A full moon is visible in the sky, creating a somber and tense atmosphere.
+
+    # Found at 0:8:56.560
+    Escaping Man: "The village is done for!"
+    
+    # A dark, monochromatic scene depicts a silhouetted figure fleeing from a destroyed village, surrounded by barbed wire fences and a bare tree, with a large full moon in the background.
+
+    # Found at 0:9:3.280
+    Panitked Woman: "Just keep going!"
+    
+    # A monochromatic scene depicting three silhouetted figures with weapons moving through a bleak, fenced landscape under a large moon, with a dialogue box from a character labeled as "Panitked Woman" urging movement forward.
+
+    # Found at 0:9:4.040
+    Panicked Woman: "Just keep going!"
+    
+    # A silhouetted scene depicting soldiers running through a war-torn landscape with wooden fences, barbed wire, and smoke in the background. A woman in a dress is running in the distance, while armed figures move across a bleak, monochromatic environment.
+
+    # Found at 0:9:9.240
+    Kind Young Man: "Run! RUUUN!"
+    
+    # A silhouetted wartime scene with three soldiers running along a barbed wire fence, with a moonlit sky and mountainous background. A small aircraft is visible in the distance, and the scene has a stark, monochromatic visual style suggesting a World War era setting.
+
+    # Found at 0:9:15.200
+    Frantic Mother: "My son... Where is my son...?"
+    
+    # A desaturated, monochromatic scene depicting a war-torn landscape with barbed wire fences, bare trees, and silhouetted figures. A burning structure is visible in the background, and a group of soldiers stands in the foreground while a distressed figure asks about a missing son.
+
+    # Found at 0:9:23.040
+    Captain: "Alpha Team, we'll soon arrive at Point D."
+    
+    # A dark, silhouetted military scene depicts three soldiers running through a war-torn landscape with barbed wire fences, smoke rising in the background, and a large moon illuminating a bleak, monochromatic environment.
+
+    # Found at 0:9:26.680
+    Captain: "We'll prepare there and await further situation reports."
+    
+    # A monochromatic war scene depicting soldiers in silhouette near barbed wire fences, with bare trees and tents in the background. A military aircraft is visible in the sky, and the scene has a somber, desaturated aesthetic suggesting a World War-era setting.
+
+    # Found at 0:9:35.200
+    # A military-style scene depicting silhouetted soldiers in a war-torn landscape with destroyed buildings, barbed wire, and a burning fire in the background. A plane can be seen in the distant sky.
+    
+    There are no visible dialogue lines in this image.
+
+    # Found at 0:9:58.720
+    "The captain and his men soon arrive at the enemy camp."
+    
+    # A monochromatic scene depicting silhouetted soldiers approaching an enemy camp with barbed wire fencing, rocky terrain, and a tent in the background under a muted, atmospheric sky.
+
+    # Found at 0:10:3.800
+    "As planned, another team initiates a feint attack to draw attention."
+    
+    # A monochromatic scene depicting a military tactical scenario with silhouetted soldiers moving across a bleak, mountainous landscape with barbed wire and a pyramid-like structure in the background. Four soldiers are strategically positioned, with one slightly separated from the group, suggesting a coordinated tactical maneuver.
+
+    # Found at 0:10:10.480
+    "Cautiously, the captain moves into the enemy camp."
+    
+    # A silhouetted soldier moves through a dark, war-torn landscape with barbed wire fences, burning structures, and a large moon in the background. The scene appears to be from a side-scrolling stealth or war-themed game with a minimalist art style.
+
+    # Found at 0:10:30.000
+    "After a moment, he locates the bloodied corpse of the enemy commander."
+    
+    # A dark, monochromatic scene depicting a war-like environment with military tents, barbed wire, and bare trees. A silhouetted figure kneels near a fallen body, with a stark moonlit sky in the background, suggesting a somber and grim moment of aftermath in a battlefield.
+
+    # Found at 0:10:35.880
+    "A familiar blade protrudes from a hole in his chest."
+    
+    # A dark, monochromatic scene depicting a silhouetted figure kneeling next to a fallen character in a war-like setting with tents, barbed wire, and bare trees under a moonlit sky. A blade is shown protruding from the chest of a prone figure.
+
+    # Found at 0:10:41.400
+    "He knows this sword—the missing boy had pointed it at him the night before."
+    
+    # A dark, silhouetted scene depicting a military-style camp with tents and barbed wire fencing. A figure is crouched near what appears to be a body, with a sword standing upright nearby. The scene has a moody, desaturated color palette with a full moon in the background, suggesting a tense and somber moment.
+
+    # Found at 0:10:48.120
+    "But the boy is nowhere to be found, and the captain knows he is in grave danger."
+    
+    # A somber, monochromatic scene depicting a military camp with tents and barbed wire fencing. A silhouetted figure kneels near what appears to be a body, with a moonlit sky and barren landscape in the background, suggesting a war-torn or conflict-ridden setting.
+
+    # Found at 0:10:54.520
+    "He stares at the scene before him and whispers,"
+    
+    # A somber scene depicting a silhouetted figure kneeling near a body in a war-torn camp with tents, barbed wire, and a moonlit sky. The environment suggests a World War-era military encampment with a dark, melancholic atmosphere.
+
+    # Found at 0:10:58.000
+    "Have I failed again?"
+    
+    # A silhouetted figure kneels in a bleak, monochromatic war camp scene with tents, barbed wire, and bare trees under a moonlit sky. The character appears dejected, surrounded by what seems to be fallen comrades or debris.
+
+    # Found at 0:11:19.760
+    Fio: "Did you find the boy's mommy?"
+    
+    # A dark, shadowy figure stands in a blue-tinted stone room with a glowing white ethereal figure and a smaller figure, in what appears to be a somber and mysterious game scene.
+
+    # Found at 0:11:21.200
+    # A dark, blue-tinted stone chamber with several ethereal figures - a shadowy, chain-like character in the center, a white luminescent figure, and other smaller figures. A location marker "Levania" is visible.
+    
+    Levania: "....."
+
+    # Found at 0:11:24.640
+    Fio: "Hmmm..."
+    
+    # A dimly lit stone chamber with a blue-tinted atmosphere. Three ethereal figures are present: a dark, shadowy character with wing-like appendages, a white translucent figure, and another figure sitting or crouched near a stone object. The scene appears to be from a fantasy or role-playing game with a mystical, melancholic ambiance.
+
+    # Found at 0:11:28.640
+    Fio: "Hey, why don't you come with us so we can look for your mommy together?"
+    
+    # A dimly lit stone chamber with a bluish atmosphere. Two figures stand near a stone object, while a tall, skeletal-like creature with wing-like appendages looms nearby. The scene appears to be from a dark, atmospheric video game with a mysterious and somewhat melancholic tone.
+
+    # Found at 0:11:31.760
+    Boy: "Kay, I'll go with you. Thanks!"
+    
+    # A dimly lit stone chamber with two characters standing near a stone structure, and a spectral, chain-laden figure standing to the right. The scene has a bluish, ethereal atmosphere suggesting a supernatural or fantasy setting.
+
+    # Found at 0:11:36.920
+    Fio: "Yay! He's coming with us, Mr. Monster! Isn't that great?"
+    
+    # A dimly lit stone chamber with two small figures and a skeletal, chain-laden monster-like entity. The scene has a blue-gray color palette and appears to be from a fantasy or role-playing game cutscene.
+
+    # Found at 0:11:41.240
+    Levania: "......."
+    
+    # A dimly lit stone chamber with a blue-tinted atmosphere. Two figures stand near a stone structure, with a tall, ethereal, chain-like entity on the right side of the room. The scene appears tense and silent, with minimal movement.
+
+    # Found at 0:12:19.840
+    Carrier: "So the woman inside the scarecrow who died while searching for her son..."
+    
+    # A gothic-style stone architecture with multiple arched windows and levels, bathed in a blue-tinted light. The scene appears to be from a video game, with a dialogue box in the top right corner and a game interface visible.
+
+    # Found at 0:12:24.880
+    Carrier: "That was the boy's missing mother, yes?"
+    
+    # A mysterious stone castle or fortress interior with multiple arched windows showing a blue-tinted background. The scene appears to be from a video game, with a dialogue box in the top right corner and what seems to be a game interface. The architecture is gothic and multilevel, with stone bridges and platforms visible.
+
+    # Found at 0:12:28.800
+    Carrier: "If I may, why do you not tell him the truth?"
+    
+    # A dark, gothic-style stone architecture with multiple arched windows revealing a blue-tinted background. The scene appears to be from a video game, with a dialogue box indicating a conversation about revealing a truth. The environment has multiple levels of stone platforms and architectural elements, creating a mysterious and atmospheric setting.
+
+    # Found at 0:12:32.800
+    There is no dialogue in this image.
+    
+    # A moonlit stone castle or fortress scene with Gothic-style arched windows, featuring two levels of architectural arches. The scene is in cool blue and gray tones, with a large moon visible through the windows. The location is labeled "Levania" in the top right corner, and there's an "AUTO" button suggesting this is from a video game interface.
+
+    # Found at 0:13:1.000
+    "Enter story?"
+    
+    # A dimly lit, bluish-purple stone chamber with architectural elements like arched doorways and tiled floors. Several stylized character silhouettes are positioned in the middle of the room, with one figure standing slightly taller than the others. The scene appears to be from a video game, presenting a prompt to begin the narrative.
+
+    # Found at 0:13:8.480
+    # A dark, gothic-style scene in what appears to be Levania, with a winged, shadowy figure standing in a stone architectural environment. No dialogue is present in the image, only an ellipsis (...) indicating a moment of silence or tension.
+
+    # Found at 0:13:21.720
+    Enemy: "An enemy from within the Dark Scarecrow!?"
+    
+    # A battle scene in a dark, stone-walled environment with multiple characters displayed at the bottom of the screen. A large enemy with "WEAK" status is shown, with a damage number of 31634. The scene appears to be from a role-playing or tactical combat game with an anime-style visual aesthetic.
+
+    # Found at 0:13:26.440
+    Resentful Witch: "My son..."
+    
+    # A battle scene in a stone-walled room with multiple characters, including a figure labeled as a "Resentful Witch" floating in the background. The scene appears to be from a tactical RPG or strategy game, with character portraits at the bottom and a "WEAK" damage indicator of 15210 visible.
+
+    # Found at 0:13:30.760
+    Resentful Witch: "Where is my son...?"
+    
+    # A dark, moody battle scene from what appears to be a mobile or tactical RPG game. A shadowy witch-like figure stands in a gothic stone environment, with a "Critical Weak" damage number of 98121 displayed. The bottom of the screen shows character icons and their stats, suggesting a turn-based combat interface.
+
+    # Found at 0:14:16.320
+    Fio: "Oh no. Could she have been...?"
+    
+    # A dark, gothic-style room with stone walls and a beam of light. A young girl in a white dress stands next to a tall, skeletal mechanical creature with wing-like appendages. Another smaller figure in dark clothing stands nearby. The scene appears tense and mysterious.
+
+    # Found at 0:14:19.960
+    Boy: "That's... No! That wasn't my mommy!"
+    
+    # A dark, gothic-style scene with a young girl in a white dress, a tall mechanical/monstrous creature, and a boy standing in a dimly lit stone chamber. The atmosphere is eerie and unsettling, with a blue-purple color palette.
+
+    # Found at 0:14:24.720
+    Fio: "Could you search the scarecrow again, Mr. Monster?"
+    
+    # A dark, gothic-style interior with stone walls and floors. Three characters are present: a pale-haired figure in a white dress, a tall mechanical or monstrous entity in the center, and another smaller figure to the right. The scene has a blue-gray color palette and appears to be from a stylized video game cutscene.
+
+    # Found at 0:14:26.800
+    Levania: "...Fine."
+    
+    # A dark, gothic-style interior with stone walls and arched windows. Three figures are present: a young woman in a white dress, a tall mechanical or skeletal-like creature with sharp appendages, and a smaller figure in dark clothing. The scene appears tense and mysterious, with a blue-purple color palette creating an eerie atmosphere.
+
+    # Found at 0:14:39.160
+    # A title screen or chapter introduction with a vintage, parchment-like background and an ornate border, displaying a chapter title for "The Reluctant Hero"
+    
+    "I'm Glad You Survived"
+    
+    # A stylized text screen presenting a chapter or section title with a soft, aged paper texture and geometric border design.
+
+    # Found at 0:14:45.200
+    "Years ago, the cowardly captain was but a meager foot soldier."
+    
+    # A black background with white text revealing a narrative about a captain's past military history.
+
+    # Found at 0:15:0.880
+    "He possessed the arrogance of youth, and often butted heads with his commanders."
+    
+    # A silhouetted figure runs across a bleak, monochromatic landscape with barbed wire fences, bare trees, and ruined buildings in the background, under a dim, sepia-toned sky.
+
+    # Found at 0:15:7.520
+    "After one intense battle, he found himself searching for any surviving comrades."
+    
+    # A silhouetted soldier stands in a war-torn, sepia-toned landscape with damaged buildings, trees, and a large moon in the background, conveying a somber and desolate post-battle scene.
+
+    # Found at 0:15:29.120
+    Young Man "You're..."
+    
+    # A sepia-toned scene depicting a desolate, war-torn landscape with ruined buildings, barbed wire, and a full moon. A figure lies on the ground, with another figure standing nearby, creating a somber and melancholic atmosphere.
+
+    # Found at 0:15:36.400
+    "The first corpse he found was a senior officer who used to bark orders at him."
+    
+    # A dark, monochromatic scene depicting a silhouetted figure standing near a fallen body in a destroyed urban environment, with a full moon in the background and ruined buildings surrounding the characters.
+
+    # Found at 0:15:52.240
+    Young Man "...!"
+    
+    # A dark, sepia-toned scene depicts a figure kneeling next to a prone body in a destroyed urban landscape with damaged buildings and a dim light source in the background. The scene appears somber and suggests a moment of distress or tragedy.
+
+    # Found at 0:15:58.680
+    "The next, a fellow soldier with whom he often fought."
+    
+    # A dark, monochromatic scene depicting a silhouetted soldier walking through a war-torn urban environment with multiple fallen bodies around them. The background shows damaged buildings and a bleak, shadowy landscape suggestive of a war zone.
+
+    # Found at 0:16:4.280
+    "He had done this—he had ignored orders and brought his squadron to ruin."
+    
+    # A dark, sepia-toned scene depicting a silhouetted figure running in a bleak landscape with mountains and structures in the background, conveying a sense of failure and desolation.
+
+    # Found at 0:16:21.160
+    "As he cursed himself, he found a survivor: an officer whom he had often mocked."
+    
+    # A sepia-toned scene depicting two figures in a war-torn landscape with barbed wire and destroyed buildings. One figure appears to be kneeling over or helping another figure lying on the ground, set against a bleak, desolate background.
+
+    # Found at 0:16:29.440
+    Officer: "Ah, you live... Good. That's...good."
+    
+    # A sepia-toned scene depicts two figures in a bleak, war-torn or post-apocalyptic environment. One figure appears to be lying on the ground while another, labeled as an Officer, stands nearby. Broken structures, bare trees, and barbed wire suggest a harsh, desolate landscape.
+
+    # Found at 0:16:32.320
+    Officer: "I'm glad you survived..."
+    
+    # A sepia-toned scene depicting two figures in a desolate, war-torn environment with destroyed buildings, barbed wire, and bare trees. One figure appears to be kneeling or attending to another figure lying on the ground, with a dialogue box indicating an officer's dialogue.
+
+    # Found at 0:16:38.960
+    "The officer closed his eyes, let out a final, blackened breath, and died."
+    
+    # A sepia-toned scene depicting two figures, one lying on the ground and another crouched nearby, in a desolate, ruined landscape with broken structures and bare trees in the background. The scene appears to be from a somber, dramatic narrative sequence.
+
+    # Found at 0:16:57.520
+    Old Squadmate: "This is all your fault!"
+    
+    # A battle scene with several characters facing large green humanoid enemies in a destroyed, smoky landscape. The image shows a wave-based combat interface with character portraits at the bottom and wave progress indicated at the top right.
+
+    # Found at 0:17:15.480
+    Old Squadmate: "You're always so selfish!"
+    
+    # A battle scene with multiple characters fighting large green enemies in a destroyed, burning landscape. The game interface shows character portraits, health bars, and wave progress. Damage numbers are displayed, and characters appear to be using various combat abilities.
+
+    # Found at 0:17:30.680
+    Old Squadmate: "You killed all of us!"
+    
+    # A battle scene in a destroyed urban environment with multiple characters, including a white-haired character in revealing attire. Green enemy units are present, and combat statistics like "Bladed Fatality x4" are displayed. The scene appears to be from a tactical RPG or action game with a dark, post-apocalyptic aesthetic.
+
+    # Found at 0:17:43.520
+    Unknown Character: "I'm glad you survived..."
+    
+    # A dark scene with a simple white text dialogue, suggesting a moment of relief or concern after a potentially dangerous situation.
+
+    # Found at 0:17:48.320
+    "Those words would haunt the young soldier for the rest of his days."
+    
+    # A black background with white text displaying a somber narrative description about a soldier's psychological burden.
+
+    # Found at 0:17:52.400
+    "Eight years later..."
+    
+    # A silhouetted figure stands in a desolate, war-torn landscape with barbed wire fences, destroyed buildings, and tents under a large full moon. The scene is rendered in grayscale tones, suggesting a post-apocalyptic or war-time setting with a somber, melancholic atmosphere.
+
+    # Found at 0:17:58.360
+    "Though fearful at the thought of losing his men, he continued on as a soldier."
+    
+    # A silhouetted soldier runs through a war-torn landscape with barbed wire, tents, and a large full moon in the background, depicting a somber World War I or similar era battlefield scene.
+
+    # Found at 0:18:7.040
+    "He now attempts to atone for his mistakes by ensuring no one else has to die."
+    
+    # A silhouetted figure stands in a bleak, monochromatic war-torn landscape with barbed wire fences, bare trees, tents, and a large full moon in the background. The scene suggests a somber, reflective moment of a character seeking redemption.
+
+    # Found at 0:18:27.600
+    "Finally, he finds the boy wounded and hiding behind a bit of cover."
+    
+    # A monochromatic, bleak scene depicting a war-torn landscape with barbed wire fencing, broken buildings, and bare trees. Two silhouetted figures are huddled together near some cover, with one appearing to be helping or protecting the other in a desolate, grayscale environment.
+
+    # Found at 0:18:32.920
+    "His heart skips a beat; it is like seeing himself some eight years ago."
+    
+    # A monochromatic, somber scene depicting two silhouetted figures sitting close together near a barbed wire fence, with a dilapidated building and bare trees in the background. The scene suggests a moment of emotional reflection or recognition in a bleak, possibly war-torn or post-apocalyptic setting.
+
+    # Found at 0:18:38.680
+    "I will do whatever I must to save him."
+    
+    # A dark, monochromatic scene depicting a silhouetted figure holding another figure in a bleak landscape with barbed wire fencing, bare trees, and ruined buildings in the background. The scene suggests a somber, emotional moment of rescue or protection.
+
+    # Found at 0:18:43.680
+    "With that thought in mind, the captain reaches down for the injured boy."
+    
+    # A monochromatic, silhouetted scene depicting a war-torn landscape with barbed wire, broken buildings, and bare trees. A figure (the captain) is bending down to help another figure (the injured boy) in the foreground, set against a bleak, desaturated background.
+
+    # Found at 0:19:4.640
+    Fio: "Did you find her, Mr. Monster?"
+    
+    # A mysterious scene with three figures in a dark, stone-tiled room. A pale, ethereal blue figure stands tall, a smaller figure in light clothing (labeled as Fio), and a dark, monstrous figure with wing-like appendages. The lighting is dim and atmospheric, suggesting a tense or dramatic moment.
+
+    # Found at 0:19:5.720
+    Levania: "No."
+    
+    # A surreal scene depicts a pale, slender figure in a white dress standing near a tall, ethereal blue-white humanoid construct, facing a dark, insectoid or mechanical creature with wings and chains in a dimly lit stone chamber with arched architecture.
+
+    # Found at 0:19:10.400
+    Boy: "I'm gonna wait here for my mommy."
+    
+    # A dimly lit, stone-walled scene with three characters: a small figure in white, a tall dark mechanical-looking entity, and another small figure in dark clothing. The environment appears to be an indoor stone courtyard with an arched doorway and a beam of light in the background.
+
+    # Found at 0:19:13.400
+    Fio: "But it's not safe! What if those nasty dark things come back?"
+    
+    # A dimly lit stone chamber with several characters: a small figure in white, a tall dark mechanical-looking entity, another smaller figure in dark clothing, and a small robotic or mechanical companion. The scene appears tense and mysterious, with a blue-white ethereal light illuminating the space.
+
+    # Found at 0:19:17.600
+    Boy: "If I leave, my mommy won't be able to find me."
+    
+    # A dark, gothic-style room with stone walls and a beam of light. Three figures are present: a tall, ethereal blue-white figure, a small figure in white, and another small figure in dark clothing. The scene appears to be from a narrative-driven game with a melancholic atmosphere.
+
+    # Found at 0:19:20.480
+    Fio: "...Okay. I understand."
+    
+    # A dimly lit stone room with several stylized characters: a blue-white ethereal figure, a dark mechanical-looking entity, and two smaller humanoid figures. The scene appears tense and mysterious, with a moody blue-purple color palette.
+
+    # Found at 0:19:23.760
+    Boy: "Thank you! Bye, Mr. Monster!"
+    
+    # A surreal scene in a dark, stone-walled room with three figures: a tall, blue-white ethereal creature, a figure in dark clothing, and a smaller figure in light clothing. The scene has a mysterious and slightly eerie atmosphere with a beam of light and an arched doorway in the background.
+
+    # Found at 0:19:26.720
+    Levania: "....."
+    
+    # A dark, gothic-style scene with three characters: a tall, ethereal blue-white figure, a small figure in white, and another small figure in dark clothing. The setting appears to be a stone chamber with arched windows and a beam of light. The characters are positioned in a tense, seemingly dramatic moment.
+
+    # Found at 0:19:40.880
+    Boy: "I'm gonna be a good boy and wait here till my mommy comes."
+    
+    # A dimly lit, bluish-purple stone room with a character standing near a gate, with another ethereal blue figure nearby. A rewards menu is visible on the left side of the screen.
+
+    # Found at 0:19:50.560
+    Carrier: "You were unable to tell him the truth, it seems."
+    
+    # A dark, moody scene with a small figure walking towards a large gate in a stone corridor. An ominous mechanical or winged figure stands in the background, and the scene is bathed in blue and purple tones. An "AUTO" indicator is visible in the top right corner of the screen.
+
+    # Found at 0:19:55.480
+    Levania: "I've no interest in making a child cry."
+    
+    # A dark, gothic-style architectural scene with a skeletal, monstrous figure standing on a stone pathway between columns. The environment is bathed in blue and green tones, creating an eerie, supernatural atmosphere. A text box indicates the character Levania is speaking, and an "AUTO" button is visible in the top right corner.
+
+    # Found at 0:20:11.480
+    Fio: "*huff* *huff*"
+    
+    # A character named Fio stands in a blue-tinted, stone-tiled room with a dark, spider-like creature in the background. The scene appears tense, with Fio seemingly exhausted or stressed, breathing heavily.
+
+    # Found at 0:20:14.640
+    Levania: "Is something the matter?"
+    
+    # A character in a light-colored dress stands in a large, blue-tinted stone chamber facing a dark, spider-like creature. The room has a geometric tiled floor and appears to be a grand hall or throne room with an ominous atmosphere.
+
+    # Found at 0:20:17.840
+    Fio: "N-no... Um, so, the next dream is the last one, right?"
+    
+    # A small figure in a light dress stands facing a tall, dark, skeletal-like creature in a purple-tinted, stone-tiled room with architectural elements in the background. The scene appears tense and dreamlike.
+
+    # Found at 0:20:38.680
+    Levania: "You appear tired. Is this because I am eating your dreams?"
+    
+    # A dark, ethereal scene with a hexagonal stone platform. A shadowy, skeletal-like figure stands in the center of the platform, surrounded by stone architecture with a blue-purple color palette. A dialogue box indicates an interaction with a character named Levania, who speaks in a cryptic, unsettling manner.
+
+    # Found at 0:20:46.320
+    Carrier: "Don't be daft. The act of having dreams eaten has no physical effect on a person."
+    
+    # A dark, stone-walled corridor with a blue-tinted ethereal doorway in the background. A small, skeletal or robotic-like figure stands in the middle of the passageway, casting a shadow. The scene appears to be from a video game with an atmospheric, mysterious setting.
+
+    # Found at 0:20:51.080
+    Fio: "I'm okay. Don't worry."
+    
+    # A dimly lit stone corridor with a gothic-style gate in the background. A mysterious figure stands near the gate, with a character named Fio's dialogue displayed in an auto-dialogue box.
+
+    # Found at 0:21:0.400
+    Fio: "*huff* *huff*"
+    
+    # A dark, gothic-style interior with stone architecture is shown. A winged, shadowy creature is moving down a narrow hallway towards a distant altar or platform. The scene is dimly lit with blue and purple tones, creating an ominous atmosphere.
+
+    # Found at 0:21:5.680
+    [No dialogue detected]
+    
+    # A dark, stone-walled corridor in what appears to be a game environment labeled "Levania". A mysterious creature with antler-like protrusions is walking through a stone archway, viewed from a first-person perspective with an "AUTO" indicator in the top right corner.
+
+    # Found at 0:21:15.760
+    Carrier: "This is tonight's final scarecrow!"
+    
+    # A silhouetted, skeletal-like figure stands on a circular platform in a stone chamber, with an arched background and muted blue-gray tones. A small object appears to be next to the figure, and the scene has a mysterious, somewhat ominous atmosphere.
+
+    # Found at 0:21:20.240
+    Narrator: "One cannot help but wonder what will become of the boy and the captain..."
+    
+    # A mysterious scene depicts a tall, skeletal-like figure standing on a circular platform in a stone chamber. Two smaller figures stand nearby, facing the central figure. The atmosphere is dark and enigmatic, with a blue-gray color palette suggesting a somber or ominous moment.
+
+    # Found at 0:21:23.760
+    Game Menu "Enter story?"
+    
+    # A mysterious scene depicts a tall, skeletal figure standing on a circular platform in a stone chamber. Two smaller figures stand nearby, with an arched structure in the background. The environment has a muted, bluish-gray color palette, creating an ethereal and somewhat ominous atmosphere.
+
+    # Found at 0:21:37.240
+    # A title screen for a chapter or segment of a game, titled "None Left Behind" with a subtitle "The Reluctant Hero", presented on an aged, parchment-like background with an ornate border.
+
+    # Found at 0:21:43.360
+    "The captain hauls the boy onto his back and starts making his return to the base."
+    
+    # A silhouetted scene depicting a figure carrying another figure across a desolate, war-torn landscape with destroyed buildings and wooden barriers. The environment is monochromatic, predominantly in shades of gray and black, with a large moon or light source in the background. The scene suggests a rescue or evacuation during a conflict.
+
+    # Found at 0:21:50.120
+    "Despite the danger, he continues issuing orders remotely as they travel."
+    
+    # A silhouetted figure stands in a desolate, monochromatic landscape of destroyed buildings and twisted terrain, with a moody, atmospheric background suggesting a war-torn or post-apocalyptic environment.
+
+    # Found at 0:21:56.960
+    "He will not rest until every last one of his men is seen safely out of harm's way."
+    
+    # A silhouetted figure sits alone in a desolate, monochromatic landscape with destroyed buildings, wooden fences, and twisted trees. A large moon illuminates a bleak, war-torn scene, suggesting a moment of determination and protective resolve.
+
+    # Found at 0:22:17.320
+    Captain: "Alpha Team, fall back once you've destroyed the enemy armory."
+    
+    # A silhouetted soldier stands in a devastated, monochromatic battlefield with destroyed buildings and structures in the background. A full moon illuminates the scene, and fallen bodies are visible on the ground. The image appears to be from a side-scrolling war or combat-themed video game with a minimalist, dark artistic style.
+
+    # Found at 0:22:22.480
+    Captain: "Beta Team, move prisoners to the camp. Charlie Team, return to base."
+    
+    # A monochromatic scene depicting a war-torn landscape with destroyed buildings, fallen soldiers, and a lone figure standing amidst the rubble under a full moon. The dialogue suggests a military operation in progress.
+
+    # Found at 0:22:27.880
+    "Suddenly, the boy on his back emits a small groan."
+    
+    # A desolate, monochromatic scene of destruction with a silhouetted figure standing amidst ruins, buildings collapsed, and a bare tree visible under a large moon. The landscape appears war-torn or post-apocalyptic, with scattered debris and a somber, muted color palette.
+
+    # Found at 0:22:35.200
+    "In a thin voice, he admits his error and apologizes for his selfish actions."
+    
+    # A silhouetted figure stands in a desolate, monochromatic landscape of destroyed buildings, broken trees, and ruins under a large moon, conveying a sense of remorse and devastation.
+
+    # Found at 0:22:49.440
+    Enemy Commando: "DIIIIIE!"
+    
+    # A desaturated, war-torn battlefield scene with destroyed buildings and barbed wire. Two silhouetted figures are engaged in combat - one appears to be crouching or injured, while another stands with a weapon, shouting a battle cry.
+
+    # Found at 0:22:59.960
+    "Though he managed to save the boy, the captain has taken a most grievous wound."
+    
+    # A dark, silhouetted scene depicting a destroyed battlefield with ruined buildings, barbed wire, and debris. A small black character appears to be carrying something, standing in a desolate, monochromatic landscape under a large moon.
+
+    # Found at 0:23:18.080
+    "If another enemy were to find them now, he likely will not be able to fend them off."
+    
+    # A dark, monochromatic scene depicting a ruined cityscape with destroyed buildings, bare trees, and a silhouetted figure in the foreground. A large moon is visible in the background, creating a somber and desolate atmosphere.
+
+    # Found at 0:23:25.440
+    "Pushing aside the pain, he continues his march."
+    
+    # A silhouetted character moves through a desolate, war-torn landscape with destroyed buildings, broken fences, and a large moon in the background. The scene is rendered in grayscale tones, conveying a sense of struggle and perseverance.
+
+    # Found at 0:23:44.880
+    Squadmate's Ghost: "It's all your fault!"
+    
+    # A battlefield scene with a player character wielding a green glowing weapon, facing several dark, blob-like enemy creatures. The background shows a destroyed landscape with burning ruins and a dramatic sunset sky. The game interface indicates this is Wave 1/1 of a combat encounter.
+
+    # Found at 0:23:50.480
+    There is no dialogue in this image. 
+    
+    # A post-apocalyptic battlefield scene showing several dark green alien-like enemies with glowing weak points, standing in a destroyed urban landscape with burning buildings and a dramatic sunset/sunrise sky. The player character is seen from behind, facing the enemies. Game UI elements are visible, including a wave counter, ability icons, and character portrait.
+
+    # Found at 0:23:50.080
+    Squadmate's Ghost: "It's all your fault!"
+    
+    Dialogue Options:
+    - "I won't repeat my mistakes!"
+    - "I'm a different man now!"
+    
+    # A battlefield scene with silhouetted figures against a fiery, smoky background. A character stands in the foreground with combat units nearby, and a ghostly squadmate appears to be confronting the player with accusatory dialogue.
+
+    # Found at 0:23:52.160
+    Griff: "I won't repeat my mistakes!"
+    
+    # A battle scene in a post-apocalyptic setting with destroyed buildings and a sunset backdrop. A small character stands facing larger, dark silhouetted enemies with green glowing elements. The scene appears to be from a tactical or action game, with a wave counter and character UI elements visible.
+
+    # Found at 0:23:58.440
+    Griff: "I'll find a way to save every last man!"
+    
+    # A battle scene with three large dark creatures facing a smaller character at sunset, with damage numbers and combat interface visible. The environment appears to be a war-torn, dusty battlefield with burning structures in the background.
+
+    # Found at 0:24:3.560
+    Squadmate's Ghost: "Your arrogance is killing our allies!"
+    
+    # A post-apocalyptic battlefield scene with three bulky, silhouetted figures standing in the foreground against a burning, destroyed cityscape at sunset. One figure is marked with "RESIST 1071" and they appear to be in a combat scenario with a dramatic, war-torn environment.
+
+    # Found at 0:24:6.880
+    Squadmate's Ghost: "Your arrogance is killing our allies!"
+    Squadmate's Ghost: "I won't repeat my mistakes!"
+    Squadmate's Ghost: "I'm a different man now!"
+    
+    # A desolate battlefield at sunset with burning buildings in the background. Three bulky, green-tinted figures stand facing a lone character, with dialogue suggesting a tense confrontation about past failures and redemption.
+
+    # Found at 0:24:10.120
+    Griff: "I'm a different man now!"
+    
+    # A battle scene with three large robotic or monstrous enemies facing a lone figure in a desolate, burning landscape at sunset. The game interface shows wave information, character stats, and a dramatic confrontation is imminent.
+
+    # Found at 0:24:13.880
+    Griff: "No one will die on my watch!"
+    
+    # A battlefield scene with burning ruins in the background, silhouetted figures of large enemies, and a lone character standing in the foreground facing the threats. The environment appears post-apocalyptic with a dramatic sunset/fire-lit sky.
+
+    # Found at 0:24:17.800
+    Griff: "And if that comes at the cost of my own life...so be it."
+    
+    # A battle scene with a silhouetted character facing multiple large green-tinted enemies in a war-torn landscape with burning buildings and a dramatic sunset/sunrise sky. The game interface shows combat stats, wave progress, and character information.
+
+    # Found at 0:25:11.000
+    "The captain is reaching his physical limit."
+    
+    # A silhouetted figure stands in a desolate, war-torn landscape with broken fences and destroyed buildings. A fallen character lies on the ground, and a large full moon illuminates a bleak, monochromatic scene with bare trees in the foreground.
+
+    # Found at 0:25:19.600
+    "He will leave no man behind. He will let no man die. It is a naive belief, yet it keeps him going."
+    
+    # A silhouetted character runs through a desolate, war-torn landscape with broken wooden fences, bare trees, and a large moon in the background. The scene is rendered in grayscale tones, suggesting a somber and challenging environment.
+
+    # Found at 0:25:41.440
+    "Soon, another enemy force appears to bar their way."
+    
+    # A stylized, monochromatic scene depicting a lone dark-colored character facing a group of armed military personnel in a war-torn, ruined landscape with destroyed buildings and bare trees in the background.
+
+    # Found at 0:25:48.560
+    "The captain stares them down, placing his own body between them and his young charge."
+    
+    # A stylized, monochromatic scene depicting a military-like confrontation. A figure in black stands protectively in front of a smaller figure, facing several armed soldiers with raised weapons in a rocky, desolate landscape.
+
+    # Found at 0:25:58.280
+    "Suddenly, the rest of his squad appears."
+    
+    # A monochromatic scene depicting a squad of soldiers with rifles standing in a destroyed, ruined urban landscape with damaged buildings and debris in the background. The soldiers are wearing dark uniforms and are positioned in a tactical formation, with one soldier in a slightly different stance in the center of the group.
+
+    # Found at 0:26:4.440
+    "Breaths are held. Fingers lie tense on weapons. One false move will mean a slaughter."
+    
+    # A tense military scene depicts several soldiers with rifles in a destroyed, monochromatic landscape, surrounded by rubble and broken structures. The scene suggests an imminent confrontation with high stakes and potential violence.
+
+    # Found at 0:26:16.320
+    "Finally, after a long moment, the enemy retreats."
+    
+    # A monochromatic scene depicting soldiers in a war-torn, ruined landscape with destroyed buildings and debris. Several soldiers with rifles are positioned together, observing the aftermath of a battle as the enemy withdraws.
+
+    # Found at 0:26:23.120
+    "The squad had come to their captain's aid."
+    
+    # A monochromatic scene depicting a military squad with rifles standing in a destroyed, ruined urban landscape. The squad appears to be in a defensive formation, with multiple soldiers holding weapons and one soldier standing slightly apart from the group.
+
+    # Found at 0:26:28.800
+    "Miraculously, they have all survived the mission."
+    
+    # A group of silhouetted soldiers stand in a monochromatic, destroyed landscape with ruins and debris in the background, appearing to have just completed a dangerous mission with all team members intact.
+
+    # Found at 0:26:43.480
+    "With his eyelids heavy, he murmurs to the boy,"
+    
+    # A monochromatic scene depicting several silhouetted figures in a war-torn or destroyed landscape. Some figures are standing with weapons, while others are seated or lying down, suggesting a moment of exhaustion or aftermath of conflict.
+
+    # Found at 0:26:47.560
+    Unknown Character: "I'm glad you survived..."
+    
+    # A monochromatic scene depicting several silhouetted figures in a destroyed, ruined landscape. Some figures stand upright while others are seated or lying down, suggesting a post-battle or survival scenario. The background shows damaged buildings and scattered debris.
+
+    # Found at 0:26:53.440
+    "His men—the family he built at the cost of his pride—have saved him."
+    
+    # A black background with white text displaying a poetic and reflective statement about family, pride, and salvation.
+
+    # Found at 0:27:0.480
+    "They pick the boy up and begin to tease him, saying he's lucky to be alive."
+    
+    # A dark background with white text describing a scene of bullying or harassment involving a young boy.
+
+    # Found at 0:27:8.080
+    "The boy responds with a dry smile—the first time any of them remember him doing so."
+    
+    # A black background with white text describing a moment involving a boy smiling, which is apparently unusual for him.
+
+    # Found at 0:27:16.360
+    "The sound of their laughter rings out happily across the desolate battlefield..."
+    
+    # A black background with white text displaying a poetic and somewhat ironic narrative description of laughter in a war-torn environment.
+
+    # Found at 0:27:35.360
+    Carrier: "My word, a happy ending! How terribly unusual."
+    
+    # A scene depicting three distinct figures in a stone circular chamber. A pale, ethereal blue-white figure stands tall, a slender figure in a light dress stands in the foreground, and a dark, mechanical-looking entity with chains stands to the right. The environment has a mystical, slightly melancholic atmosphere with stone tile flooring and walls.
+
+    # Found at 0:27:41.200
+    Carrier: "It's good to see that the captain's wish to not let anyone die seems to have prevailed."
+    
+    # A pale, ethereal figure stands in a stone circular chamber with a robotic/mechanical being. The scene has a blue-gray color palette and appears to be from a science fiction or fantasy video game, with a mystical and somewhat melancholic atmosphere.
+
+    # Found at 0:27:45.440
+    Carrier: "And now, for our favorite event: dream time!"
+    
+    # A surreal scene depicting a small figure in a light blue dress standing next to a tall, ethereal blue robotic/angelic figure, with a dark, shadowy creature with wing-like appendages nearby. They are in a stone-tiled circular room with a raised circular platform in the background.
+
+    # Found at 0:28:16.880
+    Fio: "I guess I go back now, right?"
+    
+    # A scene depicting three figures in a stone circular chamber: a pale, tall robotic-like entity in the center, a small figure in a light blue dress, and a dark, angular creature to the right. The setting appears mystical and otherworldly, with a circular raised platform and stone brick walls.
+
+    # Found at 0:28:19.280
+    Levania: "You're acting...strange."
+    
+    # A surreal scene with three figures in a circular stone chamber: a pale, ethereal figure standing on a raised platform, a light-colored character in a dress, and a dark, angular character with wing-like appendages. The setting has a mystical, otherworldly atmosphere with stone brick walls and a tiled floor.
+
+    # Found at 0:28:23.040
+    Fio: "I'm okay."
+    
+    # A surreal scene depicting a pale figure in a light blue dress standing near a circular stone platform with a tall, ethereal white statue. A dark, mechanical-looking creature with wing-like appendages stands nearby in a stone-walled room with a muted color palette.
+
+    # Found at 0:28:24.760
+    Fio: "Um, see you... tomorrow..."
+    
+    # A mysterious scene with three ethereal figures in a stone circular chamber. A pale blue-white humanoid stands on a raised platform, a small dark figure is nearby, and a character in a light blue dress stands in the foreground. The atmosphere is surreal and dreamlike, with a sense of otherworldly tension.
+
+    # Found at 0:28:28.320
+    Carrier: "And there we have it!"
+    
+    # A surreal scene with three figures in a circular stone chamber. A pale, ethereal humanoid stands at the center of a raised circular platform, flanked by a light-colored figure in a dress and a dark, skeletal creature with wing-like appendages. The environment has a mystical, otherworldly atmosphere with stone block walls and a muted color palette.
+
+    # Found at 0:28:46.000
+    Carrier: "Hmm. I fear something in the other world may be causing her to weaken."
+    
+    # A dark, stone-walled room with a circular raised platform. A pale blue, ethereal humanoid figure stands in the center, while a dark, skeletal creature with wing-like appendages stands to the right. The scene appears to be from a stylized video game with a mysterious, otherworldly atmosphere.
+
+    # Found at 0:28:50.040
+    Levania: "And what exactly would that 'something' be?"
+    
+    # A dark, stone-walled room with a circular raised platform. A pale, ethereal figure stands near the center, while a dark, skeletal-like character with wing-like appendages stands to the right. The scene appears to be from a stylized video game with a mysterious, otherworldly atmosphere.
+
+    # Found at 0:28:53.120
+    Carrier: "No need to worry about that, mmm?"
+    
+    # A surreal scene depicting two ethereal, robotic-like figures in a stone circular chamber. One figure is light blue and standing upright, while the other is dark and more insect-like, positioned to the side. The environment has a mystical, slightly ominous atmosphere with stone brick walls and a tiled floor.
+
+    # Found at 0:28:55.800
+    Carrier: "It's not as if it affects you."
+    
+    # A surreal scene with two stylized, ethereal figures in a stone circular chamber. A blue-white humanoid figure stands on a raised circular platform, while a dark, insectoid or skeletal figure stands nearby. The environment has a mystical, otherworldly atmosphere with stone block walls and a tiled floor.
+
+    # Found at 0:29:0.040
+    Carrier: "Tomorrow, you shall feast on her dreams and take another step in your quest to become human!"
+    
+    # A dark, stone-walled room with a circular raised platform. A pale, ethereal figure stands in the center, with a black, skeletal creature to the right. The scene suggests a mysterious supernatural encounter with dialogue implying a sinister transformation or ritual.
+
+    # Found at 0:29:24.800
+    Unknown Character: "Now let us proceed to the next part of The Cage. Quickly now!"
+    
+    # A stylized game scene showing a rewards menu on the left side with various icons and point values. In the main scene, a cylindrical stone structure is visible with a robotic or ethereal white figure in the foreground and a dark silhouetted figure in the background. The scene appears to be from a fantasy or sci-fi game with a mysterious, slightly ominous atmosphere.
