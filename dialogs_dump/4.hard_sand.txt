@@ -2,3 +2,166 @@
  
 *loc Hard Sand
 
+Mama *char
+
+Both story restoration and fragment collection are going well- and Mama has presents for good children like you who work hard!
+
+So, tell me, which do you like more: stuffed animals or dolls?
+
+*opt Ask for a stuffed animal *sel
+*opt Ask for a doll
+
+Aren't stuffed animals just the cutest?
+
+But this gift is no simple toy-it's a reliable "companion" that will fight alongside you in battle!
+
+Companions come in five different affinities, but for now you can pick between fire and wind. Either one would be a big help.
+
+How about the fire one?
+
+*opt The fire one, please 
+*opt The wind one, please *sel
+
+I think that's a great choice.
+
+Make sure to equip it and you'll be able to meet it during battle! I'll show you how to make the magic happen.
+
+Now let's keep going, shall we?
+
+What are those things up ahead?
+
+Oh my. Bird statues?
+
+Oh! It broke!
+
+I do hope no one saw that...
+
+This building is so big... It's just like a castle!
+
+Let's fix the memory in the scarecrow and then invite ourselves in, shall we?
+
+# story 1
+
+This gun...
+
+Anyway, let's get started restoring this story, shall we?
+
+This is the story of a gun-wielding mechanical soldier...
+
+I suppose these are memories of when he first met the boy with the staff.
+
+Well then, let's head over to the castle.
+
+This isn't a terribly welcoming atmosphere.
+
+It's the privilege of youth to move forward by breaking everything in your path.
+
+It would be much easier if we could just crash through those awful black barriers.
+
+Now this is an odd room.
+
+Well, let's keep going.
+
+It's a waterfall of sand...
+
+Looks like the path goes through it. Maybe there's a way to stop the flow.
+
+Is that a switch?
+
+The sand stopped! Oh, how lovely. Now we can move past it!
+
+There's a switch here, too. Give it a push.
+
+Ah, this one opens up the first path. How clever!
+
+The path is open now.
+
+Found you, Mr. Scarecrow.
+
+Let's get to restoring this memory.
+
+# story 2
+
+I imagine you're getting used to this by now.
+
+Wonderful! Let's keep it up.
+
+These stairs look terribly unsafe.
+
+It does seem like an effective way to keep intruders out, though...
+
+The Cage is just filled with mysteries, isn't it?
+
+Oh, that's...
+
+It's the monster that attacked us earlier!
+
+Are you going to chase it?
+
+It's almost like it's calling to uS...
+
+Hmm. It's not here.
+
+Well, let's take care of the scarecrow for now.
+
+# story 4
+
+A memory of war...
+
+So that's why that poor child was driven from his country.
+
+The king wished for control, while the prince prayed for peace and happiness.
+
+They were both thinking of their country, so why did it have to end up so?
+
+Why is there a person in a place like this?
+
+Old Man *char
+
+"Scuse me! Miss!?
+
+I've been waiting here for a really long time, but my mommy still hasn't come!
+
+I miss my mommy so much, and I was hoping you could put me in that scarecrow like you did with Mr. Monster!
+
+Mama *char
+
+...I'm sorry. Mama can't help you.
+
+Let's be off.
+
+That old man has been expelled from the story.
+
+I feel terrible, but there's nothing we can do for him.
+
+We must be careful not to end up lost like him.
+
+...It seemed like that old man knew about you and the monster.
+
+And he spoke like a child...
+
+I wonder what happened to him?
+
+This is the last part of the mechanical soldier's story.
+
+Let's see how the memory ends, shall we?
+
+# story 3
+
+They both fought-the boy for peace, and the machine for him.
+
+That must be how their memories were intertwined.
+
+This is the third fragment.
+
+Prayer... Of all emotions, I believe this one might be especially human. It is a heart that fills in the blanks of a vague future.
+
+Well? Do you feel anything different?
+
+*opt Shake your head *sel
+*opt Nod
+
+Oh. Well, there is still so much you lack.
+
+We'll take baby steps to get it all back. One at a time, now!
+
