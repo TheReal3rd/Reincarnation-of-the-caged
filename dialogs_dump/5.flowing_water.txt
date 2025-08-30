@@ -1,0 +1,140 @@
+01:23:35
+
+*loc Flowing water
+
+Mama *char
+
+The Cage feels quite different here. How lovely!
+I have something special for you that should serve as a nice change of pace.
+Once you're all refreshed, I know you'll find your second wind!
+Come play whenever you feel like it, all right?
+
+# she gave her some exploration ticket, we don't have such mechanic so text above can be removed/reworded
+
+It's been awful and dusty for the most part, but the air here is nice and clear.
+
+Do you see that? The air is so clear here, fish even swim in it!
+
+Hmm... That's actually quite odd now that I think about it.
+
+....
+
+Looks like we've found our first memory in this area.
+
+# story 1
+
+Oh my. This looks like a katana.
+
+Maybe we'll hear a story about a samurai. Let's have a look, shall we?
+
+Well, it seems this tale involves a female assassin.
+
+I wonder what the secret to her strength is.
+
+Do they just want to slow our progress, or is there some deeper goal?
+
+Sometimes I wonder what those dark foes are trying to accomplish.
+
+My, that's a large gate.
+
+We certainly won't be able to lift this on our own.
+
+What a good eye you have! Here, let Mama take care of that for you.
+
+There now! That wasn't so hard.
+
+A collapsed bridge? Oh dear.
+
+The scarecrow is so close! There must be a way to get past this.
+
+Wait here, child. Mama will take a quick peek around.
+
+Oh, but this is a bother. Who even lowered the water in the first place?
+
+I do wish these levers weren't quite so heavy...
+
+Right then! One down and three to go.
+
+I think our mission is going quite well so far.
+
+I just hope those two find happiness.
+
+That certainly did take a lot of time.
+
+Well, let's get back on our feet and continue with the restoration, shall we?
+
+# story 2
+
+Her whole life had been decided before she was even born.
+
+It's rather a tragedy, don't you think?
+
+I'm sure you must have a birthplace as well. A place you...
+
+....
+
+Hmm...
+
+Do you hear that?
+
+Monster *char
+
+*giggle*
+
+Mama *char
+
+That's.
+
+Monster *char
+
+---!
+
+Mama *char
+
+It escaped again.
+
+What's that sound?
+
+Oh! The stairs make music when you step on them.
+
+Do you think that monster was...playing the steps?
+
+*opt Nod *sel
+*opt Shake your head
+
+That's a rather cute thing to do, don't you think?
+
+# story 3
+
+The next memory should be the last one in this area.
+
+I wonder what the monster wants. And those other dark foes, for that matter.
+
+I think the last scarecrow in this area is inside this building.
+
+Oh my! Again? What terrible timing these things have.
+
+Mama will open this straightaway.
+
+There! Can you get through now?
+
+This next memory should restore the weapon.
+
+The scarecrow is right there. Brave faces, now!
+
+# story 4
+
+Perhaps freedom in the truest meaning of the word never existed to begin with.
+
+We are bound by heavy chains, which closes many doors. And one often lacks the will to choose from the remaining options.
+
+Anger... This is the fourth fragment that you've lost.
+
+What is your anger meant for?
+
+Is it for a person? The world? Your fate?
+
+Or perhaps...yourself?
+
+The time when you will also have to choose draws nearer.
+
