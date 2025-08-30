@@ -2,6 +2,7 @@
 *.rpyc
 *.rpymc
 *.rpa
+*.rpyc.bak
 
 # Save files and logs
 *.save

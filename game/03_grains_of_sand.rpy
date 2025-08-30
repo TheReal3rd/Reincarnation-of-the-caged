@@ -85,3 +85,4 @@ label grains_of_sand:
     #55:17
     #Damn girl you did do alot.
     #TODO add mama section and dialogue summary or note worthy speach.
+    jump hard_sand

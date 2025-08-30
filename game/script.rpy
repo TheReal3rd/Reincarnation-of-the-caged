@@ -31,11 +31,17 @@ define girl = Character ('Girl in Black', color="#1d1d1d")
 # Ima bet lazy doesn't like camel case too. lolz
 define flippantMonster = Character ('Flippant Monster', color="#1d1d1d")
 define sullenMonster = Character ('Sullen Monster', color="#1d1d1d")
+define spaceyMonster = Character ('Spacey Monster', color="#1d1d1d")
 define shadyMonster = Character ('Shady Monster', color="#1d1d1d")
 define franticMonster = Character ('Frantic Monster', color="#1d1d1d")
 define blackBird = Character ('Flock of Birds', color="#1d1d1d")
 define guardianMonster = Character ('Guardian Monster', color="#1d1d1d")
-
+#08_withered_crimson
+define wife = Character ('Wife', color="#7a0092")
+define son = Character ('Son', color="#008d92")
+define resident = Character ('Resident', color="#00ac78")
+define officer = Character ('Officer', color="#acacac")
+define h801 = Character ('H801', color="#8d33d6")
 
 
 # The game starts here.
