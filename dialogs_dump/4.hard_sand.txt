@@ -1,5 +1,5 @@
 #56:46
- 
+
 *loc Hard Sand
 
 Mama *char
@@ -19,7 +19,7 @@ Companions come in five different affinities, but for now you can pick between f
 
 How about the fire one?
 
-*opt The fire one, please 
+*opt The fire one, please
 *opt The wind one, please *sel
 
 I think that's a great choice.
@@ -164,4 +164,3 @@ Well? Do you feel anything different?
 Oh. Well, there is still so much you lack.
 
 We'll take baby steps to get it all back. One at a time, now!
-

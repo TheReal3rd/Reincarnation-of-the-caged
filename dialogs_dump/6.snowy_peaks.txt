@@ -1,0 +1,114 @@
+# 01:51:16
+
+* loc Snowy peaks
+
+Mama *char
+
+Brrr! It's so cold all of a sudden.
+
+Is this... snow that's falling?
+
+Even The Cage has varying weather, it seems.
+
+Falling snow... Glimmering icicles... Why, even that fabric is frozen over!
+
+I never thought I'd get to see such a beautiful sight. Mama is truly touched!
+
+The fifth weapon should be here.
+
+As well as the fifth fragment.
+
+Now, let's head for the Dark Scarecrow.
+
+# story 1
+
+So this memory is from an adventurer. He certainly looked strong, don't you think?
+
+I've never climbed a mountain before. Er, not that I could, seeing as my legs don't touch the ground...
+
+I wonder if those dark foes feel the cold at all.
+
+Are YOU cold, child? Why, you don't even have mittens!
+
+*opt Nod
+*opt Shake your head *sel
+
+Are you SURE you aren't cold?
+
+*opt Nod
+*opt ... *sel
+
+All right, then. Mama will be quiet.
+
+# story 2
+
+...
+
+...
+
+*gasp*
+
+Oh, I can't! I know I promised to be quiet, but I just can't!
+
+Make sure not to slip on the snow now!
+
+This is turning into a proper blizzard. We should hurry.
+
+??? *char
+
+---------------------
+
+# this is monster
+# just making talking like noices like fjdoipfhgqp
+
+Mama *char
+
+...I wonder if it's trying to tell us something.
+
+My, but that was close! Be sure to take it slowly and watch your step, okay?
+
+I see another scarecrow.
+
+That's the third one. Let's get this done.
+
+# story 3
+
+He left his pregnant wife to climb a mountain? What an awful man!
+
+Also, lean forward and firmly plant your foot when—
+
+Are you listening to me?
+
+The blizzard has calmed somewhat, hasn't it?
+
+Once we restore the next memory, we can leave this snowy area.
+
+It's pretty, but it makes it hard to see or keep your balance.
+
+No matter how lovely it is, I wouldn't want to be out here for too long.
+
+Oh dear. It's a ramp. Will we be all right?
+
+Eeeeeeek!
+
+Ha ha! Oh goodness, my poor bum is frozen!
+
+Still, that was great fun. Perhaps we'll come back here sometime.
+
+Let us enter the spear's final memory.
+
+I wonder if the adventurer manages to get home safely.
+
+# story 4
+
+His family was an illusion...
+
+No matter how strong we are, we cannot live alone.
+
+That man's story was so terribly sad.
+
+It seems grief waits for everyone at some point in our lives. Yet there are times we have no choice but to keep moving forward.
+
+That's why you've come all this way, isn't it?
+
+Let's go. We have a final fragment to reclaim.
