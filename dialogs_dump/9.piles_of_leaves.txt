@@ -1,0 +1,840 @@
+    # Found at 0:0:4.760
+    Unknown: "I will embrace you. Tightly — so tightly. To prove all of this is real."
+    
+    # A dark screen displays an enigmatic quote with a file path reference, suggesting a cryptic or emotional narrative moment from a game or interactive experience.
+
+    # Found at 0:0:23.760
+    Carrier: "And... Ah, yes. There we are."
+    
+    # A robotic or mechanical humanoid figure stands on a red-leafed path between stone columns, facing away from the viewer in a misty, atmospheric environment with architectural elements and red foliage.
+
+    # Found at 0:0:32.960
+    Fio: "Hello, Mr. Monster."
+    
+    # A stylized scene depicts a character in dark armor standing on a red-leafed pathway between stone columns, with another smaller figure nearby. The environment has a misty, ethereal quality with architectural elements overgrown with red foliage.
+
+    # Found at 0:0:39.040
+    Fio: "I didn't have ANY dreams last night!"
+    
+    # A stylized scene shows a small figure standing on a bridge covered in red and white flower petals, facing a large dark mechanical creature. The background features stone architecture with red-leafed trees, creating a dreamlike, melancholic atmosphere.
+
+    # Found at 0:0:44.760
+    Carrier: "Such is the power of a dream eater. He dined quite well, oh yes!"
+    
+    # A dark, surreal scene with a creature walking down a path covered in red leaves, flanked by stone walls. The environment appears misty and otherworldly, with architectural structures in the background. A character in a white outfit stands to the left, observing the scene.
+
+    # Found at 0:0:49.240
+    Fio: "I'm excited for today, too!"
+    
+    # A stylized scene depicts a desolate landscape with red-leafed trees and tall, monolithic structures. Three characters are present: a figure in a light-colored outfit, a black creature with insectoid features, and another character in dark clothing. The environment has a muted, grayish atmosphere with a ground covered in red and white textures.
+
+    # Found at 0:0:51.720
+    Levania: "Hmph."
+    
+    # A desolate landscape with red-leafed trees and stone ruins, featuring a dark, insectoid-like character standing on a ground covered in red and white leaves. Misty, gray background with architectural remnants in the distance. An "AUTO" button is visible in the top right corner of the scene.
+
+    # Found at 0:1:2.880
+    ```
+    # A stylized scene with a red and white landscape, featuring two abstract figures on a platform with architectural structures in the background. Game UI shows "Levania" and "Carrier" in the top right corner.
+    ```
+
+    # Found at 0:1:5.880
+    Carrier: "Yes? What might you need?"
+    
+    # A stylized scene depicts a surreal environment with white stone platforms covered in red petals or leaves. Two figures are present - a slender, dark, almost mechanical-looking creature in a dynamic pose, and another lighter-colored figure in the background. The scene has a misty, ethereal quality with architectural elements and red-leafed structures in the background.
+
+    # Found at 0:1:9.560
+    Levania: "Do you come here a lot?"
+    
+    # A stylized scene depicts a surreal environment with stone architecture and red-scattered ground. Two figures are positioned on a platform - one appears to be a humanoid character with flowing dark elements, and another figure in lighter clothing. The scene has a misty, ethereal quality with architectural ruins and red foliage or elements scattered throughout.
+
+    # Found at 0:1:12.960
+    Carrier: "Indeed—one might even call it my workplace!"
+    
+    # A stylized scene depicting a surreal environment with stone architecture, red foliage, and two distinct characters - a small figure in the distance and a dark, skeletal-like creature in the foreground. The scene has a muted, ethereal color palette with white, gray, and red tones.
+
+    # Found at 0:1:19.080
+    Carrier: "Not to boast, but I received the performance MVP award for this past year!"
+    
+    # A stylized scene with red-leafed trees and stone structures, showing several abstract characters on a sloped platform. One character appears to be bragging about receiving a performance award.
+
+    # Found at 0:1:24.760
+    Levania: "It was a yes or no question."
+    
+    # A misty scene with a red-leafed ground, featuring two stylized characters - one smaller and one larger - in a foggy environment with stone structures and trees. The scene appears to be from a video game with a dialogue interface.
+
+    # Found at 0:1:28.040
+    Carrier: "Such a harsh response!"
+    
+    # A surreal scene with a red-tinted path covered in what appears to be scattered petals or fragments, leading to a misty, architectural background. A tall, dark figure stands on the path, accompanied by a smaller figure, in a dreamlike, desaturated environment with architectural ruins in the background.
+
+    # Found at 0:1:45.360
+    Levania: "If that's what it'll take to become human, fine."
+    
+    # A mysterious scene with a tall, dark, ornate figure standing between two smaller characters in a room with red-leafed walls and a white tiled floor. The atmosphere appears somber and dramatic, with a sense of determination in the dialogue.
+
+    # Found at 0:1:42.880
+    Carrier: "Now then, let us get to restoring tonight's memories."
+    
+    # A tall, ornate mechanical figure stands between two smaller characters in a room with red-leafed walls and a white tiled floor. The scene appears to be from a stylized video game with a mysterious, atmospheric setting.
+
+    # Found at 0:1:46.400
+    Levania: "If that's what it'll take to become human, fine."
+    
+    # A tall, dark mechanical-looking figure stands in a room with red-leafed walls and a white tiled floor, facing two other characters. The scene appears dramatic and contemplative, with a sense of resolve in the dialogue.
+
+    # Found at 0:1:54.280
+    "The path I was shown descended endlessly."
+    
+    # A dark, shadowy scene with a silhouetted figure standing in a dimly lit, seemingly endless descending path. The atmosphere appears moody and mysterious, with minimal visual details and a sense of isolation.
+
+    # Found at 0:2:7.800
+    "The path I was shown descended endlessly."
+    
+    "Human stories are filled with obsession, jealousy, hatred, grudges, and hypocrisy."
+    
+    # A dark, shadowy scene with a silhouetted figure standing in a dimly lit environment, accompanied by introspective and somewhat cynical text about human nature.
+
+    # Found at 0:2:19.000
+    "The path I was shown descended endlessly.
+    
+    Human stories are filled with obsession, jealousy, hatred, grudges, and hypocrisy.
+    
+    However commonplace and boring an observation it may be, humans can seemingly only find themselves in interactions with others."
+    
+    # A dark, moody scene with text overlaid, suggesting a philosophical reflection on human nature and interpersonal relationships. A shadowy silhouette is barely visible in the background, adding to the introspective and somber atmosphere.
+
+    # Found at 0:2:49.560
+    "And those were also the girl's nightmares.
+    
+    She showed restlessness, sympathy, dread, and grief at every twist and turn...
+    And I saw her as an innocent little creature.
+    
+    A creature the exact opposite of myself.
+    I felt not so much disgust, but fear."
+    
+    # A dark, moody text screen with dialogue describing an introspective and unsettling observation about a girl's emotional state, written in a somber and reflective tone.
+
+    # Found at 0:2:54.360
+    "Fear that I had somehow taken an interest in this pure girl."
+    
+    # A dark, shadowy scene with a silhouetted figure against a dim background, accompanied by text suggesting an unsettling internal monologue about inappropriate feelings.
+
+    # Found at 0:3:2.400
+    Fio: "I hope the dream isn't scary."
+    
+    # A silhouetted, tall mechanical or ethereal figure stands between two smaller figures in a room with red-leafed walls and a white-red tiled floor. The scene has a dreamlike, slightly ominous atmosphere with a muted color palette.
+
+    # Found at 0:3:6.240
+    ```
+    # A silhouetted character stands in a room with red-leafed walls and a white tiled floor, facing a dialogue prompt
+    
+    "Enter story?"
+    
+    [Skip Story] [No] [Yes]
+    ```
+
+    # Found at 0:3:18.000
+    Liberator gUIdANcE
+    
+    # A stylized title screen or chapter introduction with an ornate border, displaying the text "Liberator" and "gUIdANcE" in a diamond-shaped frame against a faded, sepia-toned background.
+
+    # Found at 0:3:24.920
+    "The woman wakes in a dark and crumbling place."
+    
+    # A glowing, ethereal figure sits in a dimly lit, decaying environment with geometric architectural elements. The scene appears to be from a stylized, atmospheric video game with a moody, sci-fi or dystopian aesthetic.
+
+    # Found at 0:3:29.600
+    "Pain races through her body."
+    
+    # A glowing white silhouette of a figure stands in a dark, futuristic, and dimly lit interior space with geometric architectural elements. The scene appears to be from a sci-fi game or visual novel, with a melancholic and intense narrative moment suggested by the dialogue text.
+
+    # Found at 0:3:34.240
+    "She thought she would die when she saved her husband from the commander."
+    
+    # A dark, dimly lit scene showing a glowing white silhouette of a figure moving through what appears to be a spacecraft or industrial interior, with text overlaid describing a dramatic narrative moment.
+
+    # Found at 0:3:38.400
+    Unknown: "Yet she is still alive. But...why?"
+    
+    # A glowing, white silhouetted figure stands in a dimly lit, futuristic room with hexagonal walls. A spotlight illuminates the scene, and a mysterious text appears suggesting uncertainty about someone's survival.
+
+    # Found at 0:3:48.520
+    "Trying to make sense of her piecemeal memories, she starts walking."
+    
+    # A dark, moody scene with a silhouetted figure walking through a dimly lit, industrial or futuristic corridor with hexagonal light panels. The scene appears to be from a narrative-driven game with a mysterious, introspective tone.
+
+    # Found at 0:3:53.920
+    "Her location is a mystery."
+    
+    # A dark, moody scene with hexagonal architectural elements and a silhouetted figure, suggesting a sci-fi or mystery game setting with a cryptic narrative moment.
+
+    # Found at 0:4:4.360
+    "Eventually, she discovers people clad in the same clothing as her collapsed among some rubble."
+    
+    # A dimly lit, industrial or sci-fi environment with glowing white/blue silhouettes of figures lying motionless among debris and structural elements. A single figure stands, surrounded by a soft light, observing the fallen bodies.
+
+    # Found at 0:4:13.360
+    "They appear to be dead."
+    
+    # A dimly lit, futuristic interior space with hexagonal walls shows several glowing white silhouettes of bodies lying on the floor, with one figure standing. A blue-green spotlight illuminates the scene, creating an eerie, sci-fi atmosphere suggestive of a tragic incident or aftermath of some catastrophic event.
+
+    # Found at 0:4:19.200
+    "They no longer draw breath."
+    
+    # A dimly lit, futuristic interior with a blue-green spotlight revealing several fallen humanoid figures, with one standing figure illuminated in a ghostly white/blue light. The scene suggests a tragic aftermath of some conflict, with bodies lying motionless in a sterile, angular environment.
+
+    # Found at 0:4:37.960
+    "Suddenly, her husband appears, along with some of her old fellow prisoners."
+    
+    # A dimly lit, industrial or prison-like environment with glowing, silhouetted figures standing in spotlights. The scene appears to be from a narrative game with a sci-fi or dystopian aesthetic, showing ghostly white figures against a dark, angular background.
+
+    # Found at 0:4:43.000
+    Husband: "You... You're alive!"
+    
+    # A dimly lit sci-fi corridor with glowing holographic figures, three silhouetted characters standing in white light against a dark, angular technological background. A dialogue box indicates a moment of surprise or relief.
+
+    # Found at 0:4:51.800
+    "The joy they feel in this moment is beyond all measure."
+    
+    # A group of silhouetted figures in white/glowing outfits stand in a dimly lit, geometric space with a spotlight overhead. The figures appear to be in various poses, some standing, some in more dynamic positions, against a dark, moody background with a blue-purple gradient.
+
+    # Found at 0:5:9.760
+    Fio: "Welcome back! Did you have fun?"
+    
+    # A stylized scene with characters in a room with red-leafed walls and a white-and-red tiled floor. A black shadowy figure and a white figure stand near a tall white character, with a robotic or mechanical appearance.
+
+    # Found at 0:5:13.960
+    Carrier: "It seems to be a continuation of yesterday's dream."
+    
+    # A surreal scene depicting several stylized characters in a room with red-leafed walls and a stone floor. A black, shadowy figure stands near a white, more ethereal character, with another white figure and a black object nearby. The environment has a dreamlike, melancholic atmosphere.
+
+    # Found at 0:5:27.640
+    Fio: "The one about the man who lost his family?"
+    
+    # A scene depicting a surreal environment with red-leafed walls and a tiled floor. A knight-like figure stands alongside a smaller character, facing a dark, creature-like entity. The dialogue suggests a narrative about loss and tragedy.
+
+    # Found at 0:5:32.760
+    Carrier: "The very same—although happily, it seems the wife had survived."
+    
+    # A pixelated, red-tinted scene shows a large, distorted figure or object with a fragmented, mosaic-like texture. A dialogue box indicates a character named "Carrier" commenting on a situation involving a wife's survival.
+
+    # Found at 0:5:36.160
+    Fio: "Yay!"
+    
+    # A red-tinted scene showing a tall, narrow structure covered in red pixelated or fragmented textures, with a misty green-gray background. A character named Fio appears to be expressing excitement, and an "AUTO" button is visible in the top right corner of the image.
+
+    # Found at 0:6:11.120
+    Fio: "Say, Mr. Monster? Do you have any siblings?"
+    
+    # A surreal scene depicting a long stone staircase leading up to a red, organic-looking structure against a misty, desaturated background. A small figure is seen climbing the stairs, with a dialogue box from a character named Fio asking an unusual question to a presumed monster.
+
+    # Found at 0:6:19.320
+    Levania: "I do not know—or care."
+    
+    # A stylized, monochromatic scene with stone architecture and red foliage/blood splatters. A small dark figure appears to be moving across a multi-leveled stone platform with architectural elements. The environment has a misty, desaturated aesthetic with sharp geometric structures.
+
+    # Found at 0:6:23.880
+    Fio: "I'm an only child, and I'd do ANYTHING to have a brother or sister!"
+    
+    # A misty, ethereal scene with stone architecture and a landscape covered in vibrant red foliage. A small figure is positioned on a curved platform, with dialogue displayed in a UI overlay. The environment has a dreamlike, melancholic atmosphere.
+
+    # Found at 0:6:28.320
+    Fio: "So, um...do you have a favorite food?"
+    
+    # A stylized game scene with a character walking on a red-leafed path between stone structures, with a misty, desaturated background. The UI shows an "AUTO" button and a character name tag for Fio.
+
+    # Found at 0:6:34.720
+    Levania: "Whatever I can eat."
+    
+    # A stylized game scene with a red-covered ground and stone architecture, featuring a small character silhouette against a misty, grayish-green background. The environment appears to be from a fantasy or adventure game with a minimalist, atmospheric visual style.
+
+    # Found at 0:6:38.480
+    Fio: "My mommy makes yummy stew."
+    
+    # A misty, atmospheric scene with a character on a red-and-white tiled bridge or staircase, surrounded by stone architecture and red organic-looking growths. The environment appears to be from a stylized video game with a moody, desaturated color palette.
+
+    # Found at 0:6:41.640
+    Fio: "Do YOU like stew?"
+    
+    # A misty, atmospheric scene with a red-leafed landscape and stone structures. A character named Fio is asking an unusual question against a foggy, architectural background with scattered stone elements and a dreamlike quality.
+
+    # Found at 0:6:46.360
+    Levania: "I don't know what that is."
+    
+    # A misty, atmospheric scene with red-leafed vegetation and stone structures. Two stylized silhouetted figures are positioned on a platform with a white and red textured ground, surrounded by a foggy, architectural environment.
+
+    # Found at 0:6:50.640
+    Levania: "I understand nothing you humans go on about. Keep quiet."
+    
+    # A misty, atmospheric scene with red-leafed trees and stone architecture. Two silhouetted figures are positioned on a bridge or platform covered in red foliage, surrounded by a hazy, ethereal environment.
+
+    # Found at 0:6:54.280
+    Fio: "Awww..."
+    
+    # A misty scene with red autumn leaves covering stone structures, featuring a small character standing amidst a foggy, atmospheric environment with architectural elements in the background. The game interface shows an "AUTO" mode and a dialogue box for the character Fio.
+
+    # Found at 0:7:5.000
+    Fio: "Look, Mr. Monster! Look, Carrie! It's the next scarecrow!"
+    
+    # A misty, atmospheric scene with a silhouetted figure standing near an arched doorway. The ground is covered in red and white, with autumn leaves visible. The environment appears to be a mysterious, ethereal stone structure with a dreamlike quality.
+
+    # Found at 0:7:9.160
+    Carrier: "Carrier?"
+    Ca...rrie?: "Ca...rrie?"
+    
+    # A stylized scene depicting two silhouetted figures in a misty, red-leafed environment with stone walls. One figure stands near a torch-like object, while another appears to be responding or questioning. The ground is covered in red and white scattered elements, creating a dreamlike, atmospheric setting.
+
+    # Found at 0:7:12.520
+    Levania: "At least I'm not the only one with an insipid nickname."
+    
+    # A stylized scene with a red-leafed environment and stone architecture. Two silhouetted figures stand in the foreground, one holding a staff-like object. The scene has a muted, atmospheric color palette with shades of gray and red, creating a mysterious and melancholic mood.
+
+    # Found at 0:7:15.680
+    Fio: "Good luck, Mr. Monster!"
+    
+    # A stylized scene with a silhouetted figure standing on a red-leafed ground, surrounded by misty stone walls. An arched doorway looms in the background, and autumn leaves are scattered across the ground. The atmosphere is ethereal and mysterious, with a desaturated color palette dominated by reds and grays.
+
+    # Found at 0:7:18.760
+    ```
+    # A mysterious scene with silhouetted figures in a misty, red-leafed environment with stone architecture. A dialogue prompt appears asking whether to enter the story.
+    
+    Game Prompt: "Enter story?"
+    
+    Options:
+    [Skip Story] (selected)
+    "No"
+    "Yes"
+    ```
+    
+    # The scene depicts a moody, atmospheric setting with two shadowy figures standing on a red-leafed ground, surrounded by stone walls and arched doorways, with autumn-colored trees visible in the background.
+
+    # Found at 0:7:37.800
+    "The woman is brought to a base for former prisoners."
+    
+    # A dimly lit, industrial-looking base with glowing blue-green silhouettes of figures. The scene appears to be from a stylized game with a moody, sci-fi aesthetic, showing what seems to be a processing or intake area for individuals.
+
+    # Found at 0:7:44.480
+    Husband: "Why not try talking to everyone?"
+    
+    # A dimly lit, futuristic interior with ghostly white silhouetted figures standing in a damaged room. A spotlight illuminates the scene, casting an eerie blue-green light. The characters appear to be in some kind of sci-fi environment with broken structures and technological equipment visible.
+
+    # Found at 0:7:53.240
+    Defective Man: "Everyone here is considered 'defective.'"
+    
+    # A dimly lit, industrial-looking scene with silhouetted figures rendered in a glowing white/blue color. Multiple characters stand on different levels of a platform, surrounded by machinery and structural elements. A spotlight illuminates the scene, creating a moody, dystopian atmosphere.
+
+    # Found at 0:7:57.400
+    Defective Man: "Isn't that a laugh? If anyone's messed up, it's the organization."
+    
+    # A dimly lit, industrial-looking scene with silhouetted figures in a bluish-green light. Multiple characters are standing on different levels of a platform, with scattered equipment and machinery in the background. The dialogue suggests tension or criticism within an organizational structure.
+
+    # Found at 0:8:7.360
+    Defective Woman: "I don't want to be cast aside because I think for myself!"
+    
+    # A dimly lit, industrial or laboratory setting with silhouetted figures in a bluish-green light. Multiple humanoid shapes are positioned around a central area with benches and equipment, with one figure prominently displaying dialogue in a text box.
+
+    # Found at 0:8:16.520
+    Defective Man: "The organization doesn't know what it's doing!"
+    
+    # A dimly lit, futuristic laboratory or facility with glowing, translucent white figures standing in various poses. The scene appears to be from a sci-fi game with a dark, moody aesthetic, featuring characters rendered as ethereal silhouettes against a shadowy background.
+
+    # Found at 0:8:23.080
+    Defective Woman: "We want to free the others."
+    
+    # A dimly lit, futuristic interior with glowing, translucent humanoid figures standing in a technological environment. The scene appears to be from a sci-fi game with a cyberpunk aesthetic, showing what seems to be robotic or holographic characters in a sterile, blue-tinted setting.
+
+    # Found at 0:8:46.280
+    Defective Man: "We may not be under their thumb anymore, but we can still fight."
+    
+    # A dimly lit sci-fi scene with glowing, translucent humanoid figures in a technological environment. The figures appear to be in some kind of facility or spaceship, with a dialogue box indicating a defiant statement from one of the characters.
+
+    # Found at 0:8:49.040
+    Defective Man: "Don't you agree?"
+    
+    # A scene depicting several glowing, ghostly humanoid figures in a dimly lit, futuristic interior space with technological equipment. One figure is labeled as a "Defective Man" and appears to be addressing the other figures, who are standing in various poses around the room.
+
+    # Found at 0:8:57.000
+    Defective Man: "You've seen first-hand how the organization treats defectives."
+    
+    # A dimly lit, futuristic interior scene shows three glowing, silhouetted figures in white/teal, appearing to be holographic or digital representations. A dialogue box indicates a conversation about an organization's treatment of "defectives" in what seems to be a sci-fi game or interactive narrative.
+
+    # Found at 0:9:8.080
+    Husband: "What happened after the commander stabbed you?"
+    
+    # A dimly lit, futuristic interior scene with silhouetted figures rendered in a ghostly blue-green light. Multiple humanoid shapes are positioned around a room with technological equipment, creating a somber and mysterious atmosphere. The dialogue suggests a narrative involving a violent incident with a commander.
+
+    # Found at 0:9:19.320
+    "Pain shoots through her head. She can't remember anything after being separated from her husband."
+    
+    # A dimly lit scene with silhouetted figures in white/blue glowing outlines, appearing to be in some kind of scientific or medical facility. Multiple humanoid figures are positioned around the room, with a spotlight illuminating the central area. The scene suggests a mysterious narrative about memory loss and separation.
+
+    # Found at 0:9:27.240
+    Defective Man: "They're attacking the base!"
+    
+    # A dimly lit, futuristic interior scene with silhouetted figures in white/teal glowing outfits standing in an alert posture. The scene appears to be from a sci-fi game, with a technological, possibly under-siege atmosphere.
+
+    # Found at 0:9:35.320
+    "As part of their resistance to the organization, the defectives had been plotting ways to free their fellow prisoners"
+    
+    # A group of silhouetted figures in white/teal glowing outfits stand in a dimly lit, industrial-looking interior space. The scene appears to depict prisoners or rebels planning an escape from some kind of high-tech facility.
+
+    # Found at 0:9:40.640
+    Husband: "Well then, it's about time we go say hello."
+    
+    # A dimly lit, futuristic room with silhouetted figures in white/cyan glowing outfits. The scene appears to be from a sci-fi game, with characters standing in various poses under dramatic lighting, suggesting a significant narrative moment.
+
+    # Found at 0:9:53.200
+    Husband: "Stay close to me."
+    
+    # Two glowing white humanoid figures stand in a dark, futuristic corridor with hexagonal walls marked with "D-HK2" signage. A spotlight illuminates the scene, creating a moody, sci-fi atmosphere.
+
+    # Found at 0:10:11.040
+    Husband: "We don't want to fight! Stop this! Wake up!"
+    
+    # A stylized scene with silhouetted figures in a dark, geometric environment. Ghostly white figures are positioned on the left side of the image, while a few figures with red highlights stand on the right. The scene appears to be from a dramatic, possibly sci-fi or psychological game, with a tense, surreal atmosphere.
+
+    # Found at 0:10:23.880
+    Husband: "Dammit!"
+    
+    # A dimly lit, futuristic corridor with multiple silhouetted figures in white/teal lighting. One figure appears to be lying on the ground, while others are standing in various poses. The scene has a sci-fi, potentially tense atmosphere with a moody, blue-green color palette.
+
+    # Found at 0:10:32.680
+    "The organization had ordered the prisoners to hunt down the escaped defectives."
+    
+    # A dimly lit, futuristic interior with hexagonal walls shows several glowing white silhouetted figures. One figure in a different pose stands to the right. The scene suggests a high-tech facility where prisoners are being tasked with tracking down escapees.
+
+    # Found at 0:10:40.600
+    Husband: "We'll all be killed if we keep this up."
+    
+    # A dimly lit, futuristic corridor with silhouetted figures in white, some standing and one lying on the ground. The scene is bathed in a blue-green light, creating a stark and tense atmosphere.
+
+    # Found at 0:10:44.440
+    Husband: "It's time to put our plan into action."
+    
+    # A dimly lit, futuristic hallway with silhouetted figures in white/teal lighting. One figure is lying on the ground, while several others stand in various poses. The scene appears tense and strategic, with a sci-fi aesthetic suggestive of a covert operation or infiltration.
+
+    # Found at 0:11:10.920
+    Carrier: "It seems this story will not end happily after all..."
+    
+    # A stylized scene depicts a white robotic or humanoid figure standing on a red-leafed path with stone structures in the background. A dark, creature-like entity is nearby, and a misty, atmospheric environment suggests a melancholic or ominous moment in the game's narrative.
+
+    # Found at 0:11:15.520
+    Fio: "Oh..."
+    
+    # A character in a white dress stands in a hallway lined with red flowers, facing a menacing robotic or mechanical figure in the distance. The scene has a dark, moody atmosphere with muted green and red tones.
+
+    # Found at 0:11:40.800
+    Fio: "So what's YOUR favorite food, Carrie?"
+    
+    # A stylized scene with a cross-shaped structure covered in red foliage or flower-like textures, set against a muted green-gray background with fragmented, geometric shapes. A dialogue box indicates a conversation between characters Fio and Carrie.
+
+    # Found at 0:11:45.800
+    Carrier: "I love nothing more than a heaping plate of dried and salted fish eggs!"
+    
+    # A surreal architectural scene with red-covered structures and geometric concrete bridges, viewed from an unusual perspective with a greenish-gray background.
+
+    # Found at 0:11:49.480
+    Fio: "Blech!"
+    
+    # A red, pixelated or distorted organic-looking structure arches across a muted green-gray geometric environment, with angular architectural elements in the background. A dialogue box indicates a character named Fio expressing disgust or displeasure.
+
+    # Found at 0:11:54.520
+    Carrier: "It may be something of an acquired taste. Perhaps you need to be older to enjoy it."
+    
+    # A stylized scene with red leaves covering stone pathways and architectural elements. Two characters are walking through a corridor, with one appearing mechanical or robotic. The environment has a muted, ethereal color palette with prominent red foliage.
+
+    # Found at 0:11:59.880
+    Fio: "Have you had salty fish eggs, Mr. Monster?"
+    
+    # A surreal scene depicting a character standing on a red leaf-covered platform with stone markers, facing a tall, dark, skeletal-like creature in a misty, architectural environment with arched windows and red-leafed trees.
+
+    # Found at 0:12:3.120
+    Levania: "No."
+    
+    # A dark, atmospheric scene with a red-leafed pathway leading to an arched doorway. Two characters - one in a light dress and another in dark clothing - are pursuing or confronting a menacing, insect-like creature in the middle of the path. The environment is moody with stone structures and red foliage scattered across the ground.
+
+    # Found at 0:12:6.400
+    Fio: "Hee heel! That means you're a kid, too!"
+    
+    # A robotic or skeletal figure stands in a room with red-leafed walls and a green door, covered in fallen red leaves. An "AUTO" button is visible in the top right corner of the scene.
+
+    # Found at 0:12:10.520
+    There is no dialogue in this image.
+    
+    # A dark, atmospheric scene from a video game showing a skeletal or robotic figure walking up stone steps in a misty environment with red-leaved trees and stone columns. The location "Levania" is displayed in the top right corner of the screen, and an "AUTO" button is also visible.
+
+    # Found at 0:12:18.160
+    ```
+    Enter story?
+    ```
+    
+    # A dark, atmospheric scene with red foliage and stone pillars. Two stylized figures stand on a red-covered ground, with a menu asking whether to enter the story, with options to skip or proceed.
+
+    # Found at 0:12:38.000
+    "Despite the organization's orders, the defective prisoners have a plan:"
+    
+    # Two white silhouetted figures stand in a minimalist, futuristic environment with a blue-gray geometric background and dark architectural elements. The scene suggests a high-tech prison or facility setting with a sense of impending rebellion or escape.
+
+    # Found at 0:12:44.360
+    "During the next Flower attack, they will sneak into the organization's HQ."
+    
+    # Two silhouetted figures in white stand in a minimalist, geometric environment with a blue-gray background, discussing a covert infiltration plan.
+
+    # Found at 0:12:50.480
+    "Once there, they will free all the remaining prisoners in one fell swoop."
+    
+    # Two white silhouetted figures stand in a minimalist, futuristic environment with a blue-gray background, discussing a plan to liberate prisoners. The scene appears to be from a stylized video game cutscene with a sci-fi aesthetic.
+
+    # Found at 0:12:56.400
+    Husband: "Let's blend in with the returning soldiers and enter the base."
+    
+    # Two white silhouetted figures stand in a minimalist, futuristic base environment with a blue-gray background, discussing a stealth infiltration plan.
+
+    # Found at 0:13:5.920
+    "Acting as an advance scout team, the man and his wife enter the HQ."
+    
+    # A monochromatic scene showing silhouetted figures in white entering a headquarters, with a text overlay describing their mission as an advance scout team. The environment appears to be a futuristic or minimalist setting with architectural elements and a cloudy or misty background.
+
+    # Found at 0:13:18.600
+    "They had spent so much of their lives here..."
+    
+    # Two silhouetted figures stand on a hexagonal-tiled platform in a minimalist, bluish-gray environment, appearing to be in a confrontational stance. The scene has a somber, reflective tone suggested by the text overlay.
+
+    # Found at 0:13:23.240
+    "But this was the first time they were able to move about of their own volition."
+    
+    # A scene depicting two glowing, silhouetted figures in a dark, futuristic corridor or room with blue-green lighting and technological infrastructure in the background. The dialogue suggests a moment of discovery or awakening for these entities.
+
+    # Found at 0:13:29.240
+    "They had trained here for days without end."
+    
+    # A glowing, silhouetted figure stands in a dark, industrial-looking corridor with multiple levels and white light sources, suggesting a training or simulation environment with a somber, reflective tone.
+
+    # Found at 0:13:34.920
+    "All so they could exact revenge on the Flowers that stole their son."
+    
+    # Two glowing, silhouetted figures are standing in a dark, industrial-looking environment with pipes and vertical light sources. The scene appears to be from a stylized game with a teal and blue color palette, depicting characters preparing for a mission of vengeance.
+
+    # Found at 0:13:40.640
+    "Everyone here was the same. They all had a reason to want the Flowers dead."
+    
+    # Two glowing silhouetted figures are running through a dark, industrial corridor with pipes and dim lighting. A mysterious text appears on the right side of the screen, suggesting a narrative about shared motivations related to destroying something called "the Flowers".
+
+    # Found at 0:13:47.440
+    Unknown Character: "But in that case, why were they shackled by so many unnecessary rules?"
+    
+    # Two glowing, silhouetted figures stand in a dark, industrial corridor with black pipes and vertical light panels, discussing what appears to be a system of restrictive regulations.
+
+    # Found at 0:13:54.240
+    "In all of their time here, they had never stopped to wonder why this was."
+    
+    # Two glowing, silhouetted figures are running through a dark, industrial corridor with vertical light panels and pipes. The scene has a monochromatic teal/blue color palette and appears to be from a stylized side-scrolling game.
+
+    # Found at 0:14:1.040
+    Security: "Scanning ID..."
+    
+    # A dimly lit industrial corridor with blue-green lighting. A security system is scanning a ghostly white silhouette of what appears to be multiple figures standing near a wall, with pipes and structural elements visible in the background.
+
+    # Found at 0:14:6.960
+    Security: "ID approved."
+    
+    # A dimly lit industrial corridor with green-tinted lighting, showing a security checkpoint with a holographic figure and a security terminal displaying an access confirmation message.
+
+    # Found at 0:14:18.040
+    "This is the first time either of them has ever set foot in the incubation room."
+    
+    # A dimly lit, teal-colored room with several glowing cylindrical pods. Two silhouetted figures stand in the foreground, with additional pods visible in the background. The scene appears to be from a sci-fi game or cutscene, suggesting a mysterious or clinical environment.
+
+    # Found at 0:14:22.000
+    "Sleeping prisoners flo"
+    
+    # A dimly lit, teal-colored room with multiple vertical cylindrical chambers. Some chambers contain glowing, translucent silhouettes of what appear to be sleeping figures. In the foreground, a shadowy figure stands near one of the chambers, observing the sleeping prisoners.
+
+    # Found at 0:14:24.040
+    "Sleeping prisoners float peacefully inside liquid-filled capsules."
+    
+    # A dimly lit, teal-colored room shows multiple vertical capsules containing silhouettes of sleeping figures. The capsules emit a soft, glowing light, and there are shadowy figures in the foreground observing the scene. The environment appears to be some kind of futuristic detention or research facility.
+
+    # Found at 0:14:28.400
+    Husband: "What is this place?"
+    
+    # A dimly lit, teal-colored room with multiple cylindrical chambers containing glowing, translucent humanoid silhouettes. Two shadowy figures are visible in the foreground, with one standing near the first chamber. The scene appears to be from a science fiction or mystery game, suggesting an unsettling, clinical environment.
+
+    # Found at 0:14:42.560
+    Officer: "I knew you would come."
+    
+    # A cybernetic or sci-fi scene with glowing teal-colored figures in a futuristic room with multiple pod-like chambers. Three figures are positioned in the space, with one standing apart and speaking. The environment has a cold, technological aesthetic with silhouetted characters rendered in a luminescent blue-green color.
+
+    # Found at 0:14:54.160
+    Officer: "You've grown stronger. Good... Very good..."
+    
+    # A dimly lit, green-tinted laboratory or facility with multiple glowing cryogenic-like chambers. Silhouetted figures are standing near the chambers, with one figure appearing to be on the ground. The scene suggests a sci-fi or clinical environment with an ominous tone.
+
+    # Found at 0:15:2.240
+    ```
+    "The commander begins to tell his tale."
+    ```
+    
+    # A dimly lit, teal-colored room with multiple cylindrical pods containing humanoid silhouettes. Two glowing figures stand in the center, with another figure lying on the ground. The scene appears to be from a sci-fi game or cutscene, with a mysterious, clinical atmosphere.
+
+    # Found at 0:15:6.440
+    "Humans—true humans—no longer exist."
+    
+    # A futuristic laboratory scene with glowing cyan-colored human silhouettes in vertical capsules. Several robotic or synthetic figures are standing and one is lying down in the foreground. The environment suggests a post-human or dystopian setting with industrial pipes and a sterile, monochromatic color palette.
+
+    # Found at 0:15:17.200
+    Unknown Voice: "You prisoners are nothing but clones. Pale imitations."
+    
+    # A dimly lit laboratory or facility with multiple cylindrical chambers containing glowing blue silhouettes of humanoid figures. Two glowing figures stand in the foreground, with another figure lying on the ground. The scene suggests a sci-fi setting involving cloning or genetic experimentation.
+
+    # Found at 0:15:27.360
+    Unknown Character: "And in order to give you a reason to fight, we implanted you with...memories."
+    
+    # A dimly lit, teal-colored laboratory or facility with multiple cylindrical chambers containing humanoid silhouettes. Two glowing figures stand in the foreground, with another figure lying on the ground. The scene suggests a sci-fi narrative about memory manipulation or artificial beings.
+
+    # Found at 0:15:34.200
+    Officer: "You wanted revenge after your son was killed, didn't you?"
+    
+    # A dimly lit, teal-colored room with multiple vertical capsules containing silhouetted figures. An officer is interrogating a prone figure on the ground, with dialogue displayed in a text box. The scene appears to be from a stylized, sci-fi game with a minimalist visual design.
+
+    # Found at 0:15:37.240
+    Officer: "Lend us your aid."
+    
+    # A dimly lit, futuristic room with multiple glowing blue-green pods containing humanoid silhouettes. Two standing figures are illuminated in a ghostly white light, with another figure lying on the ground. The scene suggests a sci-fi medical or containment facility with a sense of urgency or distress.
+
+    # Found at 0:15:42.080
+    "Their pain. Their desire for revenge. It all stemmed from their son's death."
+    
+    # A dimly lit, green-tinted scene with multiple cylindrical chambers containing glowing silhouettes. Two glowing figures stand near a prone figure, with several inactive figures in chambers in the background. The scene appears to be from a sci-fi or narrative-driven game, suggesting a somber moment of reflection on loss and vengeance.
+
+    # Found at 0:15:50.800
+    Officer: "This is... your final test..."
+    
+    # A green-tinted sci-fi scene showing multiple glowing cryogenic or testing chambers with silhouetted figures. An officer stands near two other figures, with one figure lying on the ground. The environment appears to be a clinical, high-tech facility with industrial pipes in the background.
+
+    # Found at 0:16:13.360
+    Carrier: "Human clones. Oh dear."
+    
+    # A surreal scene with a robotic or armored figure standing on a red-leafed ground, surrounded by stone structures and strange red tentacle-like growths. Two other figures are present - one appears to be a smaller humanoid in a dress, and another dark, mechanical-looking entity.
+
+    # Found at 0:16:26.400
+    Fio: "What's a 'clone'?"
+    
+    # A stylized scene with red fallen leaves covering a stone floor, featuring several robotic or stylized characters in a misty, architectural environment with ivy-covered walls. A dialogue box shows a character named Fio asking a question about clones.
+
+    # Found at 0:16:31.240
+    Carrier: "It might be a touch difficult for you to understand, young miss."
+    
+    # A stylized scene with a misty, foggy environment featuring a narrow pathway with reddish-pink organic or crystalline structures. Three figures are walking along the path - one appears to be a robotic or mechanical entity, and two others seem to be smaller characters. The scene has a surreal, atmospheric quality with muted colors and a sense of mysterious progression.
+
+    # Found at 0:16:59.600
+    Levania: "What's that huge... thing?"
+    
+    # A mysterious scene depicts two characters standing on a red-leafed landscape, with a large shadowy creature looming in the misty background. The environment appears surreal and dreamlike, with a stylized, low-poly aesthetic.
+
+    # Found at 0:17:7.360
+    # A mysterious scene with a large ethereal creature in the background, standing over a red-tinted landscape with ruins and a character in white standing near a mechanical-looking entity.
+    
+    Flo: "Is that... a mo[...]"
+    
+    (Note: The dialogue appears to be cut off, and the full text is not completely visible in the image.)
+
+    # Found at 0:17:6.840
+    Fio: "Is that a... moose?"
+    
+    # A surreal scene with a large, ethereal moose-like creature in the background, standing on a red-and-white flower-covered landscape. Two stylized characters are in the foreground, with a misty, architectural structure visible on the left side of the image.
+
+    # Found at 0:17:10.960
+    Carrier: "That is a cursed god; it being in this part of The Cage brings wickedness!"
+    
+    # A large, ethereal creature with antler-like protrusions looms in a misty, red-leafed environment. Two stylized characters stand on a platform, with one appearing to be in a defensive stance. The scene suggests a confrontation in a mysterious, otherworldly setting.
+
+    # Found at 0:17:37.400
+    Carrier: "Goodness! Is this your summoning power!?"
+    
+    # A stylized combat scene from what appears to be a tactical RPG or gacha-style game, with characters represented by diamond-shaped icons at the bottom. A large shadowy creature with antler-like protrusions is in the background, and characters are positioned on a red-tinted floor against a misty, architectural environment. The scene shows a battle interface with wave information and damage numbers.
+
+    # Found at 0:17:42.520
+    Carrier: "Good luck! I shall stand aside and cheer you on from a safe distance!"
+    
+    # Two characters stand in a misty, stylized environment with a red-tinted ground. One character appears to be preparing for battle while another offers support from a distance. The scene has a game interface with character icons and wave/battle indicators.
+
+    # Found at 0:17:47.920
+    Fio: "Don't get hurt, Mr. Monster!"
+    
+    # A stylized battle scene from what appears to be a tactical RPG or strategy game. A white-haired character stands on a red-tinted floor with misty, architectural backgrounds. A large monster silhouette is visible in the background, and various character icons and battle statistics are displayed at the bottom of the screen.
+
+    # Found at 0:19:28.480
+    Carrier: "You have defeated a cursed god! I am nothing less than impressed."
+    
+    # A misty, ethereal landscape with a red-leafed tree and stone structures. A slender, mechanical-looking figure stands on a reddish ground, with a distant tower barely visible in the foggy background. The scene suggests a post-apocalyptic or fantasy game environment with a sense of accomplishment after a significant battle.
+
+    # Found at 0:19:32.560
+    Fio: "You're so cool, Mr. Monster!"
+    
+    # A stylized scene depicts a robotic or mechanical figure standing on a red-tinted landscape with a misty, gray background. A stone structure with red foliage is visible on the left side of the image, and a distant tower or structure can be seen in the hazy background.
+
+    # Found at 0:19:36.960
+    Levania: "Divinity means nothing to me, after all."
+    
+    # A figure stands on a red-hued landscape with misty architectural structures in the background. The scene appears to be from a stylized video game with a melancholic and ethereal atmosphere, featuring a lone character against a foggy, minimalist environment with red foliage or ground covering.
+
+    # Found at 0:19:51.240
+    Carrier: "I have heard that some even pray to those cursed gods. How terribly dreadful!"
+    
+    # A misty, atmospheric scene with red-leafed trees and stone structures. The environment appears ethereal and slightly decaying, with a dreamlike quality of soft gray backgrounds contrasting against vibrant red foliage.
+
+    # Found at 0:19:56.200
+    Fio: "Is it a bad moose?"
+    
+    # A misty, gray environment with stone structures and architectural elements. A red-tinted surface or ground covers part of the scene, with a stylized character visible in the foreground. The scene appears to be from a video game with a moody, atmospheric aesthetic.
+
+    # Found at 0:20:1.440
+    Carrier: "Oh yes. It has a grisly face, and likes to appear right in front of you!"
+    
+    # A misty, atmospheric scene with stone architecture and large red organic or bloody masses. The environment appears to be from a video game with a dark, haunting aesthetic, featuring architectural elements in pale gray and large crimson growths or structures.
+
+    # Found at 0:20:5.600
+    Fio: "And that's...bad?"
+    
+    # A scene depicting a stone architectural environment overgrown with vibrant red leaves or petals. Stairs and stone structures are covered in these red elements, creating a surreal and atmospheric setting. A character named Fio appears to be present in the scene, with a dialogue box indicating a somewhat nonchalant response.
+
+    # Found at 0:20:12.440
+    Carrier: "Color me impressed that you did not flinch in the face of the cursed god."
+    
+    # A misty scene with red-leafed trees and stone structures, showing a small creature or character standing amidst fallen red leaves, with an ominous dialogue box suggesting a supernatural or challenging encounter.
+
+    # Found at 0:20:16.280
+    Fio: "Were YOU scared, Carrie?"
+    
+    # A stylized scene with a character in a red and gray environment, surrounded by red foliage and stone structures. The character appears to be moving across a multi-leveled stone pathway with a misty, desaturated background.
+
+    # Found at 0:20:22.440
+    Carrier: "I, ah, er... Yes."
+    
+    # A surreal scene with a red-leafed path through a misty, tree-lined environment. Stylized characters walk along a path, with one robotic-looking figure in the foreground and a dialogue box indicating a hesitant response from a character named "Carrier".
+
+    # Found at 0:20:43.200
+    ```
+    "Enter story?"
+    
+    # A mysterious scene with a small figure standing before a tall, armored entity in a room with red-petaled floor, stone columns, and an arched background. A dialogue prompt asks whether to enter the story, with "No" and "Yes" options available.
+    ```
+
+    # Found at 0:20:56.840
+    Liberator fAte
+    
+    # A stylized title screen or chapter introduction with an ornate border and a faded, vintage-looking background, presenting the title "Liberator fAte" in a diamond-shaped frame.
+
+    # Found at 0:21:5.160
+    There is no dialogue in this image.
+    
+    # A stylized scene showing a white humanoid figure running towards a hexagonal window/frame, with another hexagonal frame showing an interior scene with what appear to be robotic or mannequin-like figures. The word "FALSE" is displayed on the left side of the image, suggesting this is from a game or interactive media with a binary true/false mechanic.
+
+    # Found at 0:21:5.160
+    There is no dialogue in this image.
+    
+    # A minimalist, monochromatic scene depicting a stylized humanoid figure running towards a hexagonal window/frame showing an interior space with what appear to be figures or objects inside. The word "FALSE" is displayed on the left side of the image.
+
+    # Found at 0:21:7.680
+    # A minimalist, monochromatic scene showing a stylized character standing on a hexagonal grid with "NO DATA" and "memory" text elements
+    
+    [No dialogue present in the image]
+
+    # Found at 0:21:33.080
+    "kill the enemy"
+    
+    # A minimalist, high-contrast scene depicting a white silhouetted figure against a black background, with text indicating a combat objective.
+
+    # Found at 0:21:36.120
+    "kill your loved one"
+    
+    # A dark, minimalist scene with a white silhouette of a figure standing in a spotlight, surrounded by repeated text of "THE ENEMY" and "KILL" on a black background.
+
+    # Found at 0:21:52.000
+    "Die together so your husband won't have to live without you."
+    "Die so that your husband can live."
+    "Make your choice."
+    
+    # A stark, minimalist scene depicting two silhouetted figures against a black background, presenting a grim, emotionally charged choice between two tragic options involving a wife's potential sacrifice for her husband.
+
+    # Found at 0:22:9.680
+    Woman: "The woman tells her husband she will soon lose herself."
+    
+    # A glowing white silhouette stands in a teal-colored laboratory or medical facility with multiple cylindrical chambers containing humanoid shapes in the background. The scene appears to be from a science fiction game or cutscene with a somber, introspective tone.
+
+    # Found at 0:22:15.240
+    "She remembers a process the commander installed in her the first time she died"
+    
+    # A glowing white humanoid figure stands in a teal-colored laboratory or facility, surrounded by several vertical cylindrical chambers containing silhouettes. The scene appears to be from a science fiction game, suggesting a narrative about resurrection or memory restoration.
+
+    # Found at 0:22:21.640
+    "A setting that deletes even her false self, making her a mindless weapon of carnage."
+    
+    # A glowing white silhouette stands in a teal-colored laboratory or facility, surrounded by several vertical cylindrical chambers containing faint humanoid outlines. The scene suggests a sterile, scientific environment focused on transformation or control.
+
+    # Found at 0:22:27.040
+    Husband: "Let's end this. Together."
+    
+    # A glowing white silhouette stands in a teal-colored laboratory or facility, surrounded by several cylindrical chambers containing humanoid shapes. The scene has a cold, clinical atmosphere with industrial pipes visible in the background.
+
+    # Found at 0:22:40.240
+    P.A. "Mutual death confirmed. Cause: Marital bonds."
+    
+    # A stark black screen displays a minimalist game interface with a cryptic message about mutual death, seemingly from a strategic or narrative-driven game with a dark thematic tone.
+
+    # Found at 0:22:47.080
+    P.A. "Data saved as reference for future clone development."
+    
+    # A minimalist save screen with a black background, displaying a message about data preservation for cloning purposes, with an "OK" button in an ornate frame.
+
+    # Found at 0:22:52.080
+    P.A. "Test concluded."
+    
+    # A minimalist screen displaying a test completion message with a black background and an "OK" button in an ornate frame.
+
+    # Found at 0:23:7.360
+    Carrier: "Death borne from love for her partner..."
+    
+    # A surreal scene with three humanoid figures: a white robotic-like character, a dark, chain-connected figure, and a light-colored figure, standing on a red and white floor with stone platforms. The background suggests a misty, architectural environment with trees and stone structures.
+
+    # Found at 0:23:11.640
+    Carrier: "There is a very fine line between joy and misery."
+    
+    # A surreal scene depicting three stylized figures on a red and white floor with stone structures in a misty background. One figure is a light-colored humanoid, another is a tall robotic-like entity, and the third is a dark, chain-laden mechanical being. The scene has a melancholic and philosophical atmosphere.
+
+    # Found at 0:23:17.160
+    Levania: "I don't understand either of those emotions."
+    
+    # A stylized scene with three figures: a white, slender humanoid character, a tall white robotic/angelic figure, and a dark, chain-laden mechanical creature. They are standing on a red and white floor with stone platforms, surrounded by misty, architectural background elements with a dreamlike quality.
+
+    # Found at 0:23:21.640
+    Carrier: "In any case, it is now the moment you have been waiting for: dream time!"
+    
+    # A surreal scene with three humanoid figures on a red and white floor. A white robotic-looking figure stands in the center, flanked by a pale figure in white and a dark, chain-laden figure. The background suggests a misty, architectural environment with stone structures.
+
+    # Found at 0:23:58.840
+    Carrier: "It seems it is almost morning in the other world."
+    
+    # A surreal scene depicting two stylized characters - one white and one black - standing on a red and white flower-covered ground with a stone platform and misty architectural elements in the background. The characters appear to be from a stylized video game with an ethereal, melancholic atmosphere.
+
+    # Found at 0:24:9.320
+    Fio: "Thank you. And, um... I wish we could have adventured more together."
+    
+    # A surreal scene with a white-clad figure standing near a circular stone platform, a dark robotic-like character, and a small figure in a white dress. The ground is covered in red and white flower petals, with a mysterious black monolith with a blue glowing surface in the background.
+
+    # Found at 0:24:15.160
+    Carrier: "We shall meet again once night falls. Come now."
+    
+    # A surreal scene with a white robotic figure, a dark armored character, and a smaller white-dressed figure standing on a red and white flower-covered floor. A black monolith with blue energy stands to the right, and stone architectural elements are visible in the background.
+
+    # Found at 0:24:38.680
+    Carrier: "Let us be off, shall we?"
+    
+    # A stylized game scene depicts two characters in a stone-walled environment with a red-and-white leaf-covered floor. A cylindrical stone structure stands in the background, and a tree with reddish foliage is visible. One character appears to be a white, armored figure, while the other is a dark, spindly entity with mechanical-looking appendages. The scene has a muted, ethereal color palette with an atmospheric, slightly surreal aesthetic.
+
+    # Found at 0:24:49.600
+    Carrier: "You've grown used to gathering dreams, haven't you? Well, let's keep up the pace!"
+    
+    # A robotic or skeletal figure stands inside a circular stone structure with brick walls. The ground is covered in red and white fallen leaves or petals, and misty stone columns and trees are visible in the background. The scene has a dreamlike, melancholic atmosphere.
