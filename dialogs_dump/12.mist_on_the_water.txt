@@ -1,0 +1,1006 @@
+    # Found at 0:0:5.400
+    "They gave her a new name, perhaps because it was too painful to call her by the old one."
+    — A researcher's diary
+    
+    # A somber text passage from a researcher's diary, suggesting a painful renaming of someone or something, displayed on a black background with minimal, melancholic text.
+
+    # Found at 0:0:22.760
+    Carrier: "And...here we go!"
+    
+    # A robotic or armored figure stands in a stone courtyard with architectural elements in the background, facing away from another similar figure in the distance. The scene has a cool, bluish color palette and appears to be from a video game with a fantasy or sci-fi aesthetic.
+
+    # Found at 0:0:33.200
+    Levania: "Are you well?"
+    
+    # A robotic, insectoid-like creature stands near a smaller figure in a large, stone architectural space with water features and columns. The scene appears to be from a video game with a melancholic, ethereal atmosphere.
+
+    # Found at 0:0:36.960
+    Fio: "Yes, Mr. Monster. I'm sorry for worrying you."
+    
+    # A young girl in a white dress stands next to a tall, mechanical creature with insect-like wings in a large, stone-walled chamber with tiled flooring. The scene has a melancholic and surreal atmosphere.
+
+    # Found at 0:0:42.920
+    Carrier: "Now let us make our pilgrimage to each Dark Scarecrow with gusto!"
+    
+    # A small figure in a white dress stands next to a tall, mechanical, insect-like creature with wings and chains in a stone architectural environment with blue-gray tones and columned structures. The scene appears to be from a stylized video game with an ethereal, somewhat melancholic atmosphere.
+
+    # Found at 0:1:3.040
+    Fio: "Ooo, pretty! There's water everywhere."
+    
+    # A water-filled environment with cascading waterfalls and stone platforms. The scene appears to be from a video game with a stylized, bluish-gray aesthetic. A character named Fio is observing the elaborate, architectural setting with multiple levels and flowing water.
+
+    # Found at 0:1:9.000
+    Fio: "Can we go play in it?"
+    
+    # A character named Fio is looking at a fragmented, stone-like environment with architectural structures suspended in a misty, blue-tinted space. Multiple silhouetted figures can be seen on the stone platforms, and the scene appears to be from a video game with a stylized, atmospheric visual design.
+
+    # Found at 0:1:14.040
+    Carrier: "I fear we've no time to spare for splashing about, young miss."
+    
+    # A scene from a game showing a complex architectural environment with stone bridges and structures, viewed from an overhead perspective. A character is highlighted in the center of the screen, and an automated gameplay mode is indicated in the top right corner.
+
+    # Found at 0:1:24.040
+    Carrier: "You have eaten quite a lot of the young miss's dreams."
+    
+    # A stone architectural scene with multiple levels and bridges, rendered in a muted blue-gray color palette. A small dark object is located in the center of the image, with a dialogue box indicating a conversation about consuming dreams.
+
+    # Found at 0:1:27.560
+    Carrier: "I believe the day you become human is night!"
+    
+    # A stone architectural structure with a large circular element in the background. A small vehicle or object is positioned on a ledge, with a dialogue box from a character named "Carrier" displayed on the right side of the screen. The scene appears to be from a video game with a stylized, geometric environment in muted blue and gray tones.
+
+    # Found at 0:1:31.680
+    Levania: "...Indeed."
+    
+    # A stylized 3D scene depicting a stone architectural structure with a silhouetted figure standing on a central platform. The environment has a cool, bluish-gray color palette with geometric stone elements and a misty background. An "AUTO" button is visible in the top right corner of the image.
+
+    # Found at 0:1:45.880
+    Fio: "Bye..."
+    
+    # A somber scene in a blue-tinted stone chamber with arched architecture. Two characters stand on a circular platform with stone structures and a waterfall in the background. One character appears to be leaving, with a farewell dialogue.
+
+    # Found at 0:1:51.680
+    # Game menu screen showing Quest 1 preparation, with options to enter story, select deck, and view mission objectives. Total Force is set at 15000 for both suggested and temporary decks.
+    
+    Game Menu: "Enter story?"
+    
+    Options:
+    - "No"
+    - "Yes"
+
+    # Found at 0:2:4.200
+    # A title screen with a vintage, slightly faded background featuring an ornate border and a diamond-shaped frame containing two lines of text: "Echoes in the Heart" and "A Girl Awakens"
+    
+    # The scene appears to be a chapter or section title screen from a visual novel or narrative game, with a soft, sepia-toned aesthetic suggesting a reflective or nostalgic tone.
+
+    # Found at 0:2:18.920
+    System "Coffin-like Machine — Repeat: Error in dormant state of specimen."
+    
+    # A dark, moody scene depicting a scientific or industrial setting with a coffin-like machine and glowing white light sources, suggesting an ominous experimental environment.
+
+    # Found at 0:2:27.280
+    "Coffin-like Machine"
+    "Accommodation of specimen no longer possible. Awakening processes activated."
+    
+    # A dark, moody scene depicting a technological environment with a coffin-like machine and glowing white light sources. The scene suggests a scientific or experimental setting with an ominous atmosphere.
+
+    # Found at 0:2:35.680
+    Coffin-like Machine: "Blood exchange complete. Line breaker severed. Sea of Origin discharge...complete."
+    
+    # A dark, dimly lit industrial scene with a glowing skull-like object in the center, surrounded by mechanical structures and two white rectangular light sources. The scene appears to be from a sci-fi or horror game, with a cryptic and ominous technological dialogue.
+
+    # Found at 0:2:39.960
+    "Coffin-like Machine: Removing particles..."
+    
+    # A dark, moody scene with a glowing white skull-like object in the center, surrounded by misty atmospheric elements and two white rectangular light sources on either side. The scene appears to be from a minimalist, atmospheric video game with a haunting, industrial aesthetic.
+
+    # Found at 0:2:44.360
+    ```
+    Coffin-like Machine: "Specimen beginning to awaken. All vital signs normal."
+    ```
+    
+    # A dark, moody scene depicting a coffin-like machine with a glowing skull-like object inside, surrounded by dim light sources and industrial/mechanical structures in a shadowy environment.
+
+    # Found at 0:2:50.840
+    Coffin-like Machine: "Particle removal complete. Opening accommodation chamber. All nearby staff members are advised to keep their distance."
+    
+    # A dark, industrial scene with a coffin-like machine in a dimly lit room. Two bright white rectangular lights are visible on the sides, and a glowing skull-like object is suspended in the center. The atmosphere is ominous and clinical.
+
+    # Found at 0:3:21.520
+    "The girl awakens to find her mind a perfect blank."
+    
+    # A silhouetted female character stands illuminated in a dark, monochromatic environment, surrounded by shadowy architectural elements. The scene suggests a moment of disorientation or memory loss, with the character appearing isolated and glowing against a stark background.
+
+    # Found at 0:3:26.440
+    "She knows not where she is. Who she is."
+    
+    # A silhouetted female figure stands illuminated in a doorway against a dark, monochromatic background, suggesting a mysterious and introspective scene from a stylized video game or narrative sequence.
+
+    # Found at 0:3:32.000
+    "She does not even know if these are questions worth asking."
+    
+    # A silhouetted character stands illuminated in a dark, monochromatic environment, appearing contemplative and isolated. The scene suggests a moment of existential uncertainty, with the character bathed in a stark white light against a shadowy, industrial or architectural background.
+
+    # Found at 0:3:40.760
+    "She hears a voice; almost a faint scream."
+    
+    # A dark, monochromatic scene from what appears to be a side-scrolling game, with a glowing white figure on a dark landscape. Red lights are visible in the background, and a skeletal or mechanical structure is present on the right side of the image. The scene has a mysterious and somewhat ominous atmosphere.
+
+    # Found at 0:3:45.920
+    Unknown Character: "I must go there."
+    
+    # A monochromatic scene depicting a silhouetted figure on what appears to be a mechanical structure or platform, illuminated by stark white lights against a dark background. The figure seems resolute, facing forward with a sense of determination.
+
+    # Found at 0:3:53.520
+    "She knows not where "there" is, yet she begins to walk all the same."
+    
+    # A silhouetted figure in white stands in a dark, industrial or minimalist environment with structural elements like railings and scaffolding. The scene is monochromatic, predominantly black and white, with the figure illuminated against a shadowy background.
+
+    # Found at 0:3:59.200
+    "She moves down the corridor as if the voice drives her."
+    
+    # A silhouetted figure moves through a dark, minimalist corridor with horizontal railings, illuminated by a soft white light. The scene appears to be from a stylized, atmospheric game with a monochromatic visual design.
+
+    # Found at 0:4:11.240
+    "Along the path, she finds a large crystal in the shape of a person."
+    
+    # A dark, monochromatic scene depicts a glowing white silhouetted figure standing near a large crystalline humanoid shape. The environment appears to be a minimalist, shadowy landscape with geometric structures in the background.
+
+    # Found at 0:4:17.160
+    "Her hand, acting of its own accord, reaches out for the strange object."
+    
+    # A stylized scene in black and white shows a figure in white/light colors standing near a crystalline or ethereal-looking object, set against a dark, minimalist background. The scene appears to be from a video game or animated cutscene with a mysterious, dreamlike quality.
+
+    # Found at 0:4:26.200
+    "Images flood her mind; memories left within the crystal."
+    
+    # A dark, monochromatic scene depicting a stylized figure or scene with mechanical/angular elements, accompanied by a poetic text overlay suggesting memory and introspection.
+
+    # Found at 0:4:34.560
+    "And through these memories, she suddenly understands."
+    
+    # A monochromatic scene depicting two ethereal, white silhouetted figures - one standing upright with what appears to be a halo, and another more spectral/crystalline figure to the right. The scene is dark and minimalist, suggesting a moment of profound realization or revelation.
+
+    # Found at 0:4:40.560
+    "This crystal is the corpse of a girl—a girl of the same type as herself."
+    
+    # A monochromatic scene depicts a stylized character standing next to a crystalline figure, set against a dark, minimalist background. The text suggests a mysterious and somber narrative moment involving transformation or identity.
+
+    # Found at 0:4:45.800
+    "We were created to be weapons."
+    
+    # A monochromatic scene depicts two stylized, glowing white figures - one humanoid and one more abstract/crystalline - standing on a dark, minimalist platform. The scene has a somber, reflective tone with text suggesting an existential theme about purpose and creation.
+
+    # Found at 0:4:55.480
+    - Halting of Production and Project Suspension -
+    
+    "As of tomorrow (June 8), the cloning-oriented weaponry mass-production project we have worked on thus far will cease any and all activity following the manufacture of sister unit 123 and the project itself will be shelved.
+    
+    I will share the reasons for this decision later on, but allow me to say here and now that I assume full responsibility."
+    
+    # An official communication screen announcing the suspension of a classified cloning-related weapons project, with a dark, serious tone and a close button at the bottom.
+
+    # Found at 0:5:20.960
+    "An eerie sound slithers from the soles of her feet."
+    
+    # A monochromatic scene depicts a stylized character in white standing in a dark, shadowy environment with a ghostly or spectral figure visible to the left, creating an atmospheric and mysterious setting.
+
+    # Found at 0:5:29.120
+    "A white aberration appears, its state of matter undefined."
+    
+    # A monochromatic scene depicts three ethereal, white silhouetted figures in a dark, minimalist environment. One figure appears more structured, wearing what seems like armor or a uniform, while another looks more fluid and distorted. A third figure is partially visible on the left side of the image. The scene has a stark, otherworldly aesthetic with dramatic lighting and a sense of mysterious tension.
+
+    # Found at 0:5:34.880
+    "Sensing its hostility, the girl's eyes turn red."
+    
+    # A stylized, monochromatic scene depicting a confrontation between a humanoid figure with a red-glowing element and another white silhouetted figure. The scene is dark with minimal lighting, creating a tense, atmospheric environment suggestive of a potential conflict or standoff.
+
+    # Found at 0:5:48.920
+    "The girl dispatches the white creature."
+    
+    # A silhouetted scene with a white-glowing figure standing in a dark, minimalist environment with horizontal light lines, suggesting a sci-fi or abstract narrative moment.
+
+    # Found at 0:5:53.400
+    "She fought with such agility, it seems impossible to think she is so newly awakened."
+    
+    # A glowing white silhouetted figure stands in a dark, minimalist environment with subtle lighting, appearing to be in a combat-ready stance. The scene suggests a moment of revelation or awakening for the character.
+
+    # Found at 0:5:59.480
+    "Her composure flawless, the girl continues down the hall."
+    
+    # A stylized, monochromatic scene depicts a white silhouetted figure moving through a dark, minimalist hallway with glowing floor lines, suggesting a sleek, futuristic environment.
+
+    # Found at 0:6:4.760
+    "The voice in her head drives her on relentlessly."
+    
+    # A monochromatic scene depicts a glowing white robotic or humanoid figure in a dark, minimalist environment, with text describing an internal psychological struggle.
+
+    # Found at 0:6:13.800
+    "She finds herself in a darkness devoid of life."
+    
+    # A stylized character rendered in white/glowing colors stands alone in a dark, shadowy environment with minimal architectural elements in the background. The scene appears to be from a minimalist, atmospheric video game or interactive narrative with a somber, introspective tone.
+
+    # Found at 0:6:18.200
+    "Yet she continues on in search of answers."
+    
+    # A dimly lit scene with a silhouetted figure in white standing on the right side of the image, against a dark, shadowy background. The text suggests a quest or journey of discovery.
+
+    # Found at 0:6:42.120
+    Carrier: "Ah, so this is the tale of a girl created to be a weapon."
+    
+    # A scene depicting a stylized, dark environment with stone architecture. A figure in a dress stands on a circular stone platform, surrounded by mechanical or robotic entities. The atmosphere is moody and suggests a narrative about artificial creation and purpose.
+
+    # Found at 0:6:54.480
+    Levania: "What the—!?"
+    
+    # A robotic or skeletal creature stands in a stone-tiled room with gray brick walls. Another character appears to be present, and an "AUTO" button is visible in the top right corner of the screen, suggesting this is a game scene with some form of automated or turn-based gameplay.
+
+    # Found at 0:6:58.520
+    Carrier: "Good heavens! It ran off!"
+    
+    # A dimly lit stone room with blocky architectural elements. A character appears to be floating or suspended in mid-air, with a bird-like creature nearby. The scene has a monochromatic, grayish-blue color palette and appears to be from a video game with a top-down or isometric perspective.
+
+    # Found at 0:7:3.840
+    Levania: "Explain this."
+    
+    # A monochromatic scene depicting a stone or concrete environment with a character suspended in a circular marker, surrounded by architectural elements and platforms. The scene appears to be from a video game with a minimalist, grayscale aesthetic.
+
+    # Found at 0:7:10.880
+    Carrier: "I, er, fear I have never seen a scarecrow take flight in such a fashion before."
+    
+    # A scene depicting a dimly lit, stone-walled room with multiple flying scarecrow-like entities suspended in mid-air against a grayish-blue tiled background. A dialogue box is visible in the top right corner, suggesting this is a screenshot from a video game with an automated dialogue system.
+
+    # Found at 0:7:16.640
+    Carrier: "It would seem they are capable of moving."
+    
+    # A top-down view of a stone-walled interior with multiple characters positioned at different heights. One character appears to be in a central position, while others are positioned higher up on the walls. The scene has a grayish-blue color palette and looks like a gameplay screenshot from a stealth or action game.
+
+    # Found at 0:7:21.160
+    Levania: "Ugh. How annoying."
+    
+    # A stone-walled room with a top-down view shows a character suspended mid-air, with multiple dark figures or objects scattered across the environment. An "AUTO" button is visible in the top right corner.
+
+    # Found at 0:7:29.080
+    Levania: "If it runs again, I will kill it."
+    
+    # A character named Levania stands in a stone-walled room with a dark platform, appearing to be in a tense moment within a game environment. The scene has a grayish-blue tone and shows what seems to be a small figure or object in mid-air.
+
+    # Found at 0:7:36.720
+    Carrier: "I'm not even certain you CAN kill it. It's made of a very strange substance."
+    
+    # A character is suspended in a circular targeting reticle within a stone-walled chamber, with a large block or platform visible below. The scene appears to be from a video game with a dark, monochromatic aesthetic.
+
+    # Found at 0:8:2.280
+    Carrier: "Oh, at last!"
+    
+    # A dark, stone-walled scene with a small figure in a dress, a tall dark mechanical-looking entity, and a small object to the right. They are standing on a tiled floor in front of an arched doorway, with a dramatic and tense atmosphere.
+
+    # Found at 0:8:6.720
+    Levania: "Stand back while I tear this blasted thing to ribbons."
+    
+    # A dark, stone-walled scene with an ornate arched doorway. A small figure in a light dress stands near a tall, menacing dark figure with chain-like appendages. The environment suggests a gothic or fantasy game setting, with a tiled floor and imposing architectural elements.
+
+    # Found at 0:8:14.760
+    # Game menu screen showing a quest preparation interface for a strategy RPG, with character selection and mission objectives visible
+    
+    "Enter story?"
+    
+    [Yes/No options are present, with "No" currently selected]
+    
+    # Mission objectives listed:
+    # - Clear with a Water-affinity main weapon
+    # - Clear using weapon skills 1 time(s)
+    # - Clear with no members incapacitated
+
+    # Found at 0:8:29.400
+    # A title screen or chapter introduction with a vintage, slightly faded background featuring an ornate border and a diamond-shaped text frame
+    
+    "Echoes in the Heart"
+    "Crystallize"
+    
+    # The image appears to be a stylized title screen with a soft, aged paper-like texture and geometric decorative borders, suggesting the start of a narrative or game chapter.
+
+    # Found at 0:8:40.720
+    "The girl traverses a corridor filled with rubble."
+    
+    # A monochromatic scene depicting a small glowing white figure moving through a dark, industrial corridor with hanging cables and debris. The environment is minimalist with sharp silhouettes and low lighting, suggesting a dystopian or post-apocalyptic setting.
+
+    # Found at 0:8:44.560
+    "A fight happened here."
+    
+    # A monochromatic, minimalist scene depicting a glowing white robotic or stylized figure in a dark, industrial environment with hanging cables and vertical structures. A text overlay describes a past conflict, suggesting a narrative moment in a side-scrolling or platformer-style game.
+
+    # Found at 0:8:50.280
+    "She spies a faint light filtering in through the collapsed ceiling."
+    
+    # A monochromatic scene depicts a glowing white humanoid figure in a dark, industrial environment, standing near a collapsed ceiling with a small light source visible. The figure appears to be in a cautious or investigative posture.
+
+    # Found at 0:8:58.400
+    "The girl climbs the rubble, seeking the light's source."
+    
+    # A silhouetted figure illuminated in white climbs through a dark, shadowy environment with debris and broken structures, moving towards an unseen light source.
+
+    # Found at 0:9:7.760
+    "Having climbed the wreckage, she spies row upon row of living plants."
+    
+    # A dark, monochromatic scene showing a silhouetted figure near plant-filled structures, with dramatic lighting and architectural fragments suggesting a damaged or abandoned environment.
+
+    # Found at 0:9:13.960
+    "The light spilling into the corridor below had been for their benefit."
+    
+    # A monochromatic scene depicts a glowing white silhouetted figure standing in front of a structured greenhouse or laboratory environment, with dim lighting and architectural elements creating a sense of mystery and isolation.
+
+    # Found at 0:9:20.400
+    "Enraptured at the sight of the plants, the girl is suddenly beset by a terrible vertigo."
+    
+    # A monochromatic scene depicting a slender figure standing in a greenhouse or botanical environment, surrounded by geometric structures and plants. The image has a stark, high-contrast black and white aesthetic with dramatic lighting, creating a sense of disorientation and unease.
+
+    # Found at 0:9:26.360
+    "Her vision spins. Her mind reels."
+    
+    # A monochromatic, silhouetted scene depicting a figure standing within a structured environment with grid-like elements and vegetation, suggesting a disorienting or psychological moment of mental distress or confusion.
+
+    # Found at 0:9:33.080
+    "But she somehow manages to brush these feelings aside and continue her journey."
+    
+    # A monochromatic scene depicting a glowing silhouetted figure standing in front of a structured environment with geometric shapes, plants, and scaffolding. The scene has a moody, introspective atmosphere with a soft, bluish-white color palette.
+
+    # Found at 0:9:46.240
+    - Memory-Degradation Phenomenon Experiment Report -
+    
+    Specimens: 31, 33, 34, 35
+    
+    Procedure: Specimen 31 was shown a paper with an image of a blue square before being euthanized. The remaining three specimens were made to recover 31's memories from her body at staggered intervals afterward, at which point they were asked about the shape and color of the image on the paper.
+    
+    Close
+    
+    # An experimental report describing a scientific procedure involving memory retrieval and specimen testing, displayed on a dark background with a close button.
+
+    # Found at 0:10:10.000
+    Situation A: One Day Post-Death (Specimen: 33)
+    Specimen 33: "square"
+    Specimen 33: "blue"
+    
+    Situation B: Two Days Post-Death (Specimen: 34)
+    Specimen 34: "square"
+    Specimen 34: "gray"
+    
+    Situation C: Four Days Post-Death (Specimen: 35)
+    Specimen 35: "I don't know."
+    
+    # Scientific log documenting responses of specimens at different stages post-mortem, displayed on a dark, minimalist interface with a close button.
+
+    # Found at 0:10:44.160
+    "An aberration once again appears to block her progress."
+    
+    # A monochromatic scene depicts two luminescent, silhouetted figures in a dark, industrial or mechanical environment with structural elements and shadowy vegetation. One figure appears stationary while another seems more dynamic, with text suggesting an impending confrontation with an "aberration".
+
+    # Found at 0:10:50.160
+    "She stares down her enemy with red eyes and utterly flawless composure."
+    
+    # A stylized black and white scene depicts two silhouetted figures facing each other - one with a reddish glow and another in white, set against a dark, industrial or forest-like background with structural elements and vegetation.
+
+    # Found at 0:11:2.760
+    "The white phantom evaporates like so much mist."
+    
+    # A monochromatic scene depicting a silhouetted character standing in a dark, industrial-looking environment with bright lights and structural elements. A white, ghostly figure appears to be dissipating on the right side of the image, while the scene is bathed in shades of gray and white.
+
+    # Found at 0:11:14.280
+    "These corpses were weapons like her—she might have even called them her 'sisters.'"
+    
+    # A monochromatic, dark scene depicts two silhouetted figures - one standing upright and another ethereal or ghostly figure beside them. The background suggests a structured environment with vertical elements like fences or bars, creating a haunting, industrial atmosphere. The text implies a disturbing narrative about weaponized beings or entities.
+
+    # Found at 0:11:23.280
+    "She holds up a hand up to the crystal and closes her eyes."
+    
+    # A silhouetted scene in monochromatic grayscale shows a character standing before a glowing crystal, with a mysterious ethereal figure nearby. The environment appears to be a structured, geometric space with vertical elements and soft lighting, creating a dreamlike and introspective atmosphere.
+
+    # Found at 0:11:28.200
+    "A torrent of images race forth and swallow the girl's consciousness."
+    
+    # A monochromatic, atmospheric scene depicting a silhouetted figure standing before a bright, ethereal light source, surrounded by a complex background of structures and shadowy elements. The scene appears to be from a stylized, possibly psychological or surreal game narrative.
+
+    # Found at 0:11:34.600
+    "They are memories. And they are horrible."
+    
+    # A dark, monochromatic scene depicting shadowy figures in a grim, stylized illustration with a somber text overlay suggesting painful recollections.
+
+    # Found at 0:11:39.320
+    "Girls—her sisters—overrun by a horde of aberrations."
+    
+    # A dark, monochromatic scene depicting stylized figures being attacked by monstrous shapes, with a grim narrative text overlay suggesting a tragic scenario involving sisters being overwhelmed by strange creatures.
+
+    # Found at 0:11:46.040
+    "Their pain and agony floods though her mind."
+    
+    # A dark, monochromatic scene depicting a shadowy figure experiencing intense emotional distress, with abstract and fragmented visual elements suggesting psychological turmoil.
+
+    # Found at 0:11:50.720
+    "The white aberrations brought ruin to the facility."
+    
+    # A monochromatic scene depicts a silhouetted figure standing before a bright, white spectral entity in a damaged industrial or laboratory setting, with multiple levels, structural damage, and an ominous atmospheric lighting.
+
+    # Found at 0:12:10.000
+    - Forgotten Letter: About the Gate's Passcode -
+    (This missive is written on paper for security reasons. Please dispose of it after reading.)
+    
+    "You may have heard news of this already, but specimen 0—the original—will be granted permission to visit the cultivation labs, so we need to revise our security protocols with that in mind. I went ahead and changed the passcode, and I decided to make it related to the memory-degradation experiment report. All you need to do is input the shapes"
+    
+    # A classified document describing a security update for a scientific facility, with details about a specimen's upcoming visit and a new gate passcode.
+
+    # Found at 0:12:36.480
+    "You may have heard news of this already, but specimen 0—the original—will be granted permission to visit the cultivation labs, so we need to revise our security protocols with that in mind. I went ahead and changed the passcode, and I decided to make it related to the memory-degradation experiment report. All you need to do is input the shapes in specimens 35, 34, and 33's responses in that exact order. That's right, it's the opposite order they come in compared to the report itself, so make special note of that. Oh, and input "x" for "I don't know.""
+    
+    # A text-based dialogue screen providing cryptic instructions about a security passcode related to a scientific experiment, displayed on a dark background with a "Close" button.
+
+    # Found at 0:13:9.920
+    "Having inherited the memories, the girl moves on."
+    
+    # A monochromatic scene depicting a silhouetted figure moving through a stylized, architectural environment with structural elements and soft lighting. The scene has a minimalist, contemplative aesthetic with a sense of forward movement and transition.
+
+    # Found at 0:13:15.520
+    "She must learn more. She must appease the voice in her head."
+    
+    # A dark, ominous text screen with a cryptic and unsettling message suggesting a psychological struggle or internal conflict.
+
+    # Found at 0:13:44.920
+    Carrier: "Ah, interesting. So this girl—this living weapon goes abo"
+    
+    # A scene from a game showing three characters in a stone-walled room. A white-colored character stands near a staff, a dark/black mechanical-looking character stands to the right, and a smaller figure in white stands between them. The dialogue appears to be cut off mid-sentence, suggesting an interrupted conversation about a "living weapon".
+
+    # Found at 0:13:46.720
+    Carrier: "Ah, interesting. So this girl—this living weapon goes about collecting memories, mmm?"
+    
+    # A scene from a game showing a white-clad figure standing near a dark, armored character in a stone-tiled environment. The dialogue suggests a conversation about a character who collects memories, with the speaker referring to her as a "living weapon".
+
+    # Found at 0:13:52.840
+    Fio: "*huff* *huff*"
+    
+    # A pale-colored character stands in a stone-tiled room with a robotic or mechanical figure. The scene appears to be from a stylized video game with a dark, atmospheric setting. The characters are positioned near stone walls, and the ground is made of large, irregular stone tiles.
+
+    # Found at 0:14:1.200
+    Levania: "Shouldn't you rest or...something?"
+    
+    # A scene from a dark, stone-walled environment showing three characters: a white-armored figure with a staff, a dark, menacing character with chain-like appendages, and a smaller figure in a white dress. The dialogue suggests a moment of concern or suggestion about resting.
+
+    # Found at 0:14:5.520
+    Fio: "I'm okay..."
+    
+    # A small figure in a white dress stands between two tall, stylized robotic or mechanical characters in a stone-walled, tiled room. One character is white and blue, the other is dark and appears more menacing. The scene suggests a moment of tension or aftermath of an encounter.
+
+    # Found at 0:14:30.760
+    Levania: "Listen to me: If you die, I don't get to eat any more of your dreams."
+    
+    # A dark, blue-tinted stone chamber with multiple levels and architectural elements. A small, insectoid or creature-like figure stands on a stone platform, with a rewards menu displayed on the left side of the screen. The scene appears to be from a video game with a mysterious and somewhat ominous atmosphere.
+
+    # Found at 0:14:42.560
+    Levania: "So stay alive until I'm done—then you can do as you like. Got it?"
+    
+    # A dark, gothic-style stone castle interior with multiple levels and arched windows. A shadowy figure is climbing a staircase, with an atmospheric blue-green lighting casting shadows across the architectural details.
+
+    # Found at 0:14:51.680
+    Fio: "*huff* Got it!"
+    
+    # A dark, stone-walled interior of what appears to be a castle or fortress. A shadowy, wispy figure stands on a tiled floor near arched windows with bright light streaming through. An "AUTO" button is visible in the top right corner of the scene.
+
+    # Found at 0:15:18.760
+    Levania: "Let's stop and rest here for a bit."
+    
+    # A small figure in a white dress stands near a large, dark, mechanical-looking creature in a stone room with an arched blue-white glowing doorway. The environment appears to be an ancient, austere stone chamber with a tiled floor and architectural elements suggesting an abandoned or mysterious location.
+
+    # Found at 0:15:24.000
+    Fio: "*huff* You mean it?"
+    
+    # A white-dressed character stands in a stone chamber with a dark, shadowy figure nearby. A bright blue-white doorway or portal illuminates one side of the room. The scene appears to be from a video game with a mysterious, somewhat ominous atmosphere.
+
+    # Found at 0:15:29.120
+    Levania: "You wanted to play in the water, right? Well... knock yourself out."
+    
+    # A figure in a white dress stands in a stone chamber with a large blue-lit archway, facing a dark, shadowy creature with a menacing silhouette. The scene appears to be from a video game with a gothic or dark fantasy aesthetic.
+
+    # Found at 0:15:36.800
+    Fio: "Yaaay! Oh, thank you, Mr. Monster! Thank you!"
+    
+    # A young woman in a white dress stands in a stone chamber with a large, dark, skeletal-like monster near a bright blue doorway. The room has a gloomy, medieval architectural style with stone tile floors and arched walls.
+
+    # Found at 0:15:51.160
+    Carrier: "Are you certain we have the time to dawdle like this?"
+    
+    # A dark, stone-tiled room with a bright window. A shadowy, elongated figure stands near a small white object, with a bucket in the corner. The scene appears to be from a video game with a moody, atmospheric aesthetic.
+
+    # Found at 0:15:56.560
+    Levania: "She's feeling down. It concerns me."
+    
+    # A dark, stone-walled room with a tiled floor. A shadowy, elongated figure stands near a smaller character, with a bright light coming from a window or doorway in the background.
+
+    # Found at 0:16:1.760
+    Carrier: "You don't say..."
+    
+    # A dark, stone-tiled room with a bright blue-white doorway/portal. A shadowy, elongated creature with tendrils stands near a smaller figure, with dialogue suggesting a sardonic or skeptical tone.
+
+    # Found at 0:16:11.400
+    Levania: "Did you see that?"
+    
+    # A dark stone room with a bright blue-white doorway/portal. Two characters are present - a dark silhouetted figure in the foreground and a lighter-colored figure standing further back. The scene appears to be from a video game with a moody, atmospheric setting.
+
+    # Found at 0:16:14.120
+    Carrier: "Hmmm?"
+    
+    # A dark, stone-walled room with a bright blue-white doorway. A tall, dark, skeletal-like character stands near a smaller figure, with another small object nearby. The scene appears to be from a video game with a mysterious, atmospheric setting.
+
+    # Found at 0:16:18.960
+    Fio: "Hey, Mr. Monster?"
+    
+    # A dark stone room with a bright blue-white doorway, featuring a small white-clothed figure and a dark, monstrous silhouetted character in the foreground. A small object sits nearby, and stone steps are visible to the right side of the scene.
+
+    # Found at 0:16:24.040
+    Fio: "When you become human, will you still be my friend?"
+    
+    # A dark stone room with a bright blue doorway. A small figure in a white dress stands facing a large, armored, shadowy figure with multiple weapons. The scene appears to be from a video game with a melancholic, mysterious tone.
+
+    # Found at 0:16:29.520
+    Carrier: "Right then, that's the end of playtime! Time to be moving on!"
+    
+    # A dark stone room with a bright blue doorway shows a small figure in a white dress facing a large, menacing robotic or armored entity labeled as a "Carrier" with glowing blue eyes.
+
+    # Found at 0:17:10.840
+    Levania: "Feeling better?"
+    
+    # A dark, moody scene with a character standing on wooden walkways between stone walls, with waterfalls or water effects visible on both sides. The environment appears to be from a fantasy or action game with a gothic or medieval aesthetic.
+
+    # Found at 0:17:14.880
+    Fio: "Yeah, lots!"
+    
+    # A dark, moody interior of what appears to be a stone fortress or dungeon. Two small characters are standing on wooden and stone platforms near a cascading waterfall or water feature. The scene has a bluish-green color palette and looks like a screenshot from a role-playing or adventure video game, with an "AUTO" interface indicator in the top right corner.
+
+    # Found at 0:17:18.880
+    Fio: "Thanks again, Mr. Monster."
+    
+    # A character stands on a stone staircase in a misty, blue-tinted architectural environment with gothic-style columns and arches. Another character appears to be walking ahead, and a dialogue box indicates a conversation with a monster.
+
+    # Found at 0:17:42.920
+    Carrier: "I see the next scarecrow!"
+    
+    # A dimly lit, blue-tinted stone corridor with architectural columns. A small character appears to be walking along a narrow pathway, with a vertical blue energy/light source visible in the background. The scene has a mysterious and somewhat eerie atmosphere, suggesting this is from a game with a dark or fantasy setting.
+
+    # Found at 0:18:1.600
+    Levania: "Don't you go anywhere."
+    
+    # A dark, blue-tinted stone chamber with an arched doorway. A small figure stands near a tall, skeletal-like entity in the center of a bridge-like platform. The scene appears tense and foreboding, with a sense of imminent confrontation.
+
+    # Found at 0:18:4.280
+    Fio: "Okey dokey!"
+    
+    # A mysterious stone chamber with a blue-tinted atmosphere. A small figure stands near a tall, skeletal-like character in front of an arched doorway. The scene appears to be from a dark, atmospheric video game with a gothic or fantasy setting.
+
+    # Found at 0:18:9.720
+    # Game menu screen showing a quest preparation interface for Quest 7, with character selection and mission objectives visible
+    
+    "Enter story?"
+    
+    [Yes/No options are present at the bottom of the screen]
+
+    # Found at 0:18:22.400
+    # A title screen or chapter introduction with a vintage, slightly faded aesthetic, featuring an ornate border and a diamond-shaped text frame with the title "Echoes in the Heart: Fade to White"
+
+    # Found at 0:18:28.680
+    Protagonist "I must go there."
+    
+    # A lone white-colored figure stands in a dark, minimalist sci-fi environment with a red light and white illuminated doorway, facing a path forward with a directional arrow indicator.
+
+    # Found at 0:18:32.720
+    "The voice in her head leads the way once more."
+    
+    # A monochromatic scene depicting a glowing white silhouetted figure standing on a dark industrial walkway or platform, with minimal lighting and a stark, shadowy environment suggesting a mysterious or psychological narrative moment.
+
+    # Found at 0:18:56.400
+    "Suddenly, a vibration strong enough to shake the floor. Something had roared."
+    
+    # A monochromatic scene with a glowing white silhouetted figure standing on a platform, surrounded by dark architectural elements like railings and walls. The scene suggests a tense, mysterious moment with an implied large unseen presence.
+
+    # Found at 0:19:4.600
+    "The sound came from the space just ahead of her."
+    
+    # A silhouetted white figure stands on a dark, minimalist platform with railings, illuminated against a monochromatic background. The scene suggests a tense, atmospheric moment in a stylized game environment.
+
+    # Found at 0:19:13.640
+    "A glowing terminal stands before a dividing wall."
+    
+    # A monochromatic scene depicts a stylized robotic or humanoid figure standing near a glowing terminal with pink and green light bars, in a minimalist, industrial environment with geometric walls and overhead structures.
+
+    # Found at 0:19:19.440
+    "She knows what this is."
+    
+    # A white robotic or android-like figure stands in a minimalist, high-tech corridor with gray walls and pink and green illuminated doors. The scene has a sterile, futuristic atmosphere with dramatic lighting and a curved ceiling structure.
+
+    # Found at 0:19:23.120
+    "More precisely, her inherited memories know it."
+    
+    # A white-colored robotic or android-like figure stands in a minimalist, dark sci-fi corridor with metallic walls and glowing pink and green light strips. The scene appears to be from a stylized game with a futuristic, monochromatic aesthetic.
+
+    # Found at 0:19:29.040
+    "They know she needs a key in order to make this device open the wall beyond."
+    
+    # A white-colored humanoid figure stands in a minimalist, monochromatic sci-fi environment with gray walls, colored light bars above a series of panels, and an intricate curved structure overhead. The scene suggests a futuristic, possibly sterile technological space with a mysterious narrative context.
+
+    # Found at 0:19:32.720
+    "She begins to search."
+    
+    # A white robotic or humanoid figure stands in a minimalist, dark sci-fi environment with gray doors and colored light bars. The scene has an austere, futuristic aesthetic with overhead lighting and a sense of isolation.
+
+    # Found at 0:19:42.280
+    - Beautifully Handwritten Message on Memo Paper -
+    
+    "As anticipated, only a portion of the living-weapon production records can be printed using a spare key card. I'll need to go get the key card I forgot in the extraction room tomorrow. Luckily, I'm still able to print the part that has specimen numbers, which start with "#", which should be enough to figure out the passcode to the extraction room. All you need to remember is to look for the even-numbered specimen that died. Input the corresponding specimen"
+    
+    # A mysterious memo describing a complex procedure for accessing a restricted extraction room, involving living-weapon production records and specimen identification.
+
+    # Found at 0:20:4.680
+    "As anticipated, only a portion of the living-weapon production records can be printed using a spare key card. I'll need to go get the key card I forgot in the extraction room tomorrow. Luckily, I'm still able to print the part that has specimen numbers, which start with "#", which should be enough to figure out the passcode to the extraction room. All you need to remember is to look for the even-numbered specimen that died. Input the corresponding specimen number into the elevator and you're good to go."
+    
+    # A text log displaying instructions for accessing a restricted area in what appears to be a scientific or research facility, with details about specimen tracking and access protocols.
+
+    # Found at 0:20:15.080
+    - Living-Weapon Manufacturing Record MRA5:20 -
+    
+    ...ERROR: Lack of authorization to access the requested file.
+    ...Commencing partial print of the document.
+    
+    #0115: Used in an experiment. Receiving adjustments.
+    #0116: Sent to the ████. Currently investigating connection to the above specimen*.
+    #0117: Died in combat.
+    #0118: Put into operation. Alive.
+    
+    # A classified document revealing details about a living weapon, with redacted information and cryptic status updates suggesting an experimental subject's lifecycle.
+
+    # Found at 0:20:34.280
+    ```
+    #0116: Sent to the [REDACTED]. Currently investigating connection to the above specimen*.
+    #0117: Died in combat.
+    #0118: Put into operation. Alive.
+    #0119: Memory anchoring failed. Dismantled.
+    #0120: Put into operation. Receiving treatment for injuries.
+    #0121: Currently being examined as part of the [REDACTED] that happened to specimen 123.
+    
+    *As with [REDACTED], specimen 116's corpse was liquefied, making analysis difficult.
+    ```
+    
+    # Classified document displaying a series of cryptic log entries about specimens, with several sections redacted, suggesting a scientific or military research context involving subjects with unusual characteristics or fates.
+
+    # Found at 0:21:12.960
+    "For reasons beyond knowing, a monster appears before the girl a third time."
+    
+    # A monochromatic scene with two silhouetted figures in a dark, industrial-looking room. One figure appears to be standing near a control panel, while another figure (described as a monster) stands to the right. Colored light bars are visible above, in pink and green hues.
+
+    # Found at 0:21:19.120
+    "She grips her spear tightly, red eyes shining out from her impassive face."
+    
+    # A stylized black and white scene depicts two silhouetted figures in a minimalist, high-contrast environment. One figure on the left holds a spear and appears to be in a combat-ready stance, with glowing red eyes. Another figure on the right stands in a more relaxed posture. Colored light bars (red, green) are visible in the background, and the scene suggests a tense, sci-fi or cyberpunk-style confrontation.
+
+    # Found at 0:21:32.960
+    "Stale air spills out from the other side of the door. It is an elevator."
+    
+    # A stylized, minimalist scene depicting a white-clad figure standing in a monochromatic elevator with green and pink light bars, surrounded by metallic walls and floor lighting.
+
+    # Found at 0:21:43.760
+    "Hearing it creak to life, the girl closes her eyes."
+    
+    # A dimly lit, industrial or sci-fi corridor with gray paneled walls and colored lighting (green and red) from overhead sources. A small white light is visible on one wall, and the scene appears to be from a visual novel or narrative game with a moody, tense atmosphere.
+
+    # Found at 0:22:5.440
+    "Illuminated in crimson, the room is enveloped in an odd atmosphere."
+    
+    # A dimly lit room bathed in deep red light, with geometric architectural elements and horizontal light lines. A small red figure is visible in the scene, creating a minimalist and somewhat ominous visual environment.
+
+    # Found at 0:22:11.840
+    "The device in the middle of the room is filled with shimmering liquid."
+    
+    # A silhouetted figure moves across a dark red, minimalist environment with horizontal laser or light lines, featuring a mysterious central device with a liquid substance.
+
+    # Found at 0:22:16.000
+    "Suspended in the flux is an oddly-shaped spear."
+    
+    # A minimalist scene with a red and black color palette, featuring a small silhouetted figure near an oddly-shaped spear suspended in a flux-like environment with horizontal red light streaks.
+
+    # Found at 0:22:33.320
+    - Scrap of a Torn Note -
+    "I have made a terrible mistake. I've had everything all wrong from the very beginning. I thought this was just another facet of all the weapons research that was going on at the time.
+    
+    There is no longer much that I can do, but I must fulfill my duty all the same.
+    
+    I must show her the truth."
+    
+    # A dark, ominous note fragment suggesting a character's deep regret and sense of obligation regarding a hidden truth related to weapons research.
+
+    # Found at 0:22:52.680
+    "She sees a card beside a small piece of paper."
+    
+    # A stylized scene in deep red tones shows a silhouetted character standing near what appears to be a flame or ethereal figure, with multiple horizontal red light bars in the background creating a stark, minimalist environment.
+
+    # Found at 0:22:57.720
+    "She knows it is the key that opens the wall, and takes it."
+    
+    # A stylized scene with a red-tinted silhouetted character standing next to a ghostly or ethereal figure, set against a backdrop of horizontal red light bars. The scene appears to be from a minimalist, atmospheric game with a dramatic narrative moment.
+
+    # Found at 0:23:13.880
+    "The memory she receives is of the beginning."
+    
+    # A dark, monochromatic scene depicting a silhouetted figure with text overlaid, suggesting a moment of memory or recollection in a stylized, noir-like visual novel or game scene.
+
+    # Found at 0:23:18.960
+    "The first of the living-weapon sisters."
+    
+    # A dark, monochromatic scene showing a partially obscured figure, with text describing a mysterious "living-weapon sister" in a stylized, graphic novel-like presentation.
+
+    # Found at 0:23:25.200
+    "The eldest of her sisters had lost control and birthed the aberrations."
+    
+    # A dark, monochromatic scene with a partially obscured figure, revealing a cryptic narrative moment about sisters and mysterious "aberrations".
+
+    # Found at 0:23:30.640
+    "This was the cause of the facility's destruction."
+    
+    # A dark, monochromatic scene showing a partially obscured figure, with text indicating a significant destructive event related to a facility.
+
+    # Found at 0:23:47.640
+    "The memories tie together. She feels her sisters' emotions race through her."
+    
+    # A scene with a red-tinted cybernetic or digital environment, showing a character in red standing next to a ghostly or translucent figure, suggesting an emotional or memory-based narrative moment.
+
+    # Found at 0:23:53.800
+    "Enduring the flood of images, she presses on."
+    
+    # A stylized scene in deep red tones shows a small figure in red walking alongside a ghostly/flame-like figure against a backdrop of horizontal red light lines. The scene appears to be from a minimalist, atmospheric game with a mysterious narrative tone.
+
+    # Found at 0:23:59.080
+    "She now understands that her eldest sister still suffers."
+    
+    # A black screen with white text revealing a somber narrative moment about sisterly understanding and suffering.
+
+    # Found at 0:24:47.200
+    Levania: "I can't help but feel like something is amiss."
+    
+    # A stone platform with an octagonal central area is suspended over blue water. The environment is dark and architectural, with stone columns and reflective surfaces. A small character figure stands on the platform, and a dialogue box indicates a sense of unease or impending danger.
+
+    # Found at 0:24:54.840
+    Carrier: "You must be close to consuming the required amount of dreams."
+    
+    # A stone-walled interior with a grand arched doorway, featuring a stone platform with stairs. Two stylized characters are positioned on the platform, with an "AUTO" indicator in the top right corner of the screen.
+
+    # Found at 0:25:1.040
+    Carrier: "I doubt there's any problem here. Carry on, my good man!"
+    
+    # A character in a white dress is running towards an arched stone doorway in a medieval-looking interior, with a large dark figure standing near the entrance. The scene has a blue-gray color palette and appears to be from a video game with an "AUTO" interface indicator.
+
+    # Found at 0:25:43.120
+    Fio: "You're almost there, Mr. Monster."
+    
+    # A stylized, architectural scene with stone platforms, stairs, and columns in shades of blue and white. A character appears to be navigating a complex, fragmented environment with a dialog box indicating progress or encouragement.
+
+    # Found at 0:25:51.080
+    Fio: "I'm gonna be really happy when your wish comes true."
+    
+    # A dark, pixelated interior scene with stone platforms and architectural elements. A character named Fio is displayed in the top right corner, and an auto-dialogue mode is active. The environment appears to be from a video game with a sci-fi or dystopian aesthetic.
+
+    # Found at 0:25:59.160
+    Levania: "You are happy when someone else's wish comes true?"
+    
+    # A stylized, architectural scene with white stone platforms, waterfalls, and geometric structures. The environment appears to be from a video game, with a cool blue and white color palette. A dialogue box is present with a character named Levania asking a philosophical question.
+
+    # Found at 0:26:7.160
+    Fio: "Yeah, 'cause when YOU'RE happy, I'M happy—and then we're all happy together!"
+    
+    # A stylized, monochromatic scene depicting a fragmented stone architectural environment with a small figure walking on a winding path. The image appears to be from a video game with a dialogue box showing a character named Fio speaking.
+
+    # Found at 0:26:19.520
+    Fio: "What is my machine's state, can you verify?"
+    
+    # A stylized game scene depicts a surreal, architectural environment with waterfalls and stone platforms. A slender, insectoid-like figure stands on a circular platform surrounded by vertical stone structures. The scene has a cool blue-gray color palette and appears to be from a fantasy or science fiction game, with an "AUTO" interface indicator in the top right corner.
+
+    # Found at 0:26:20.000
+    Fio: "That's...what my teacher says, anyway."
+    
+    # A surreal, architectural scene with waterfalls and stone structures in shades of blue and gray. The environment appears to be from a video game, with a stylized, layered landscape of bridges and cascading water.
+
+    # Found at 0:26:42.000
+    # Game menu screen showing Quest 10 preparation, with character selection and mission objectives visible. Player is prompted to enter the story.
+    
+    "Enter story?"
+    
+    [Yes/No options are present at the bottom of the screen]
+
+    # Found at 0:26:54.560
+    "Echoes in the Heart"
+    "...From Recursion"
+    
+    # A stylized title screen or chapter introduction with an aged, parchment-like background and an ornate geometric border, presenting a mysterious and contemplative scene transition.
+
+    # Found at 0:27:10.680
+    "She continues to move down the long and winding path."
+    
+    # A glowing white silhouetted figure moves along a dark, minimalist path with horizontal lines and geometric platforms, illuminated by a soft white light against a monochromatic background.
+
+    # Found at 0:27:16.240
+    "She knows the answers she seeks are waiting for her somewhere up ahead..."
+    
+    # A silhouetted robotic or stylized character runs towards a bright, broken window or portal in a minimalist, monochromatic environment with strong contrast between light and dark elements.
+
+    # Found at 0:27:20.800
+    "And that her sister is waiting as well."
+    
+    # A monochromatic scene depicting a small robotic or stylized character standing on a minimalist platform with horizontal lines, set against a dark, shadowy background. The dialogue appears to be a narrative caption suggesting a waiting narrative.
+
+    # Found at 0:27:32.440
+    - Scrap of a Torn Note -
+    "We came upon an abandoned research facility during today's investigation. Judging by the documents that were left behind, my guess is the place was used for researching genetics and living organisms.
+    
+    It would be remiss of me not to mention one object that was of particular note—a fully functioning cryogenic sleep chamber with 'Eleanor' engraved on the side."
+    
+    # A mysterious note describing the discovery of an abandoned research facility with a cryptic reference to a cryogenic sleep chamber
+
+    # Found at 0:27:50.520
+    "It would be remiss of me not to mention one object that was of particular note—a fully functioning cryogenic sleep chamber with 'Eleanor' engraved on the side.
+    
+    After the higher-ups make their final call on how to address the matter tomorrow, we will perform a thorough investigation of the chamber's interior. I hope against hope that this discovery will mean great things for our future and for all of mankind."
+    
+    # A text log describing a mysterious cryogenic sleep chamber named "Eleanor", with an ominous and scientific tone suggesting a significant discovery or potential breakthrough.
+
+    # Found at 0:28:20.680
+    "When she enters the room, she spies a massive something at its heart."
+    
+    # A small silhouetted figure stands on a gridded platform facing a large, white, abstract creature or entity with wing-like or jagged appendages. The scene is dramatically lit with red vertical light beams and a dark, minimalist background, creating a sense of tension and mystery.
+
+    # Found at 0:28:26.640
+    "It is the leader of the aberrations."
+    
+    # A large white and black monstrous entity towers over a small robotic or armored figure in a dark, minimalist environment with red vertical light beams. The scene appears to be from a stylized game or animation with a dramatic confrontational tone.
+
+    # Found at 0:28:30.800
+    "But it is more that that."
+    
+    # A small white-colored character stands in a minimalist, dark environment facing a large, abstract white creature or entity. Red vertical light beams frame the scene, creating a stark, dramatic atmosphere. The dialogue suggests a deeper, philosophical moment in the narrative.
+
+    # Found at 0:28:34.640
+    "It is also her older sister; the one who lost control."
+    
+    # A stylized, monochromatic scene depicts a small white figure standing on a gridded platform facing a large, abstract white creature with wing-like appendages. Red vertical light beams frame the scene, creating a dramatic and tense atmosphere suggestive of a confrontation between two entities.
+
+    # Found at 0:28:45.280
+    "Her eldest sister spreads her white wings and howls in a ferocious voice."
+    
+    # A dramatic scene depicting a large white winged figure howling, with a smaller figure standing on a gridded platform, surrounded by red vertical light beams in a dark, stylized environment.
+
+    # Found at 0:28:58.440
+    "This cry of enmity toward the world shakes the entire facility to its foundation."
+    
+    # A dramatic scene in a minimalist, high-contrast environment with a small white figure facing a large, white, wing-like or angelic entity. Red vertical light beams frame the scene, and the background suggests an industrial or laboratory setting. The dialogue suggests an intense emotional confrontation or moment of profound conflict.
+
+    # Found at 0:30:46.240
+    "A death rattle hisses from her massive throat."
+    
+    # A minimalist, monochromatic scene depicts a small robotic or armored figure standing on a tiled platform, facing a bright, sparkling vertical light column. Red vertical light beams frame the scene, and some broken structures are visible on the sides. The text suggests a dramatic, ominous moment of something dying or expiring.
+
+    # Found at 0:30:50.360
+    "Her body falls to the floor."
+    
+    # A stark, minimalist scene with red vertical light beams and a tiled floor. Two stylized white and red figures are positioned in the space, with one appearing to have fallen. The environment has a cold, dramatic aesthetic suggestive of a critical moment in a narrative.
+
+    # Found at 0:30:55.640
+    "The sisters' duel is over."
+    
+    # A minimalist, stylized scene depicting two small silhouetted figures on a gridded platform, surrounded by vertical red energy beams and purple glowing lights in a dark, atmospheric setting. The scene suggests the conclusion of a dramatic confrontation between two characters.
+
+    # Found at 0:31:0.920
+    "As her elder transforms into crystal, the girl slowly brings up her hand."
+    
+    # A stylized scene with silhouetted figures in a minimalist environment, featuring vertical red light beams and a white glowing transformation occurring between two figures on a grid-like platform.
+
+    # Found at 0:31:4.720
+    # A minimalist, monochromatic scene with two glowing white figures standing on a gridded platform, surrounded by red vertical light beams and purple light sources overhead.
+    
+    There is no visible dialogue in this image.
+
+    # Found at 0:31:9.640
+    "Her sister's memories race through her like a tide."
+    
+    # A black and white, sketch-like scene depicting an old, weathered house with trees in the background, suggesting a somber or melancholic memory sequence.
+
+    # Found at 0:31:22.160
+    "She sees it, then: The place she must go."
+    
+    # A minimalist, monochromatic scene with two stylized figures standing on a gridded floor, surrounded by vertical red light beams and purple glowing orbs at the top of the image. The scene appears to be from a stylized narrative game with a mysterious, atmospheric setting.
+
+    # Found at 0:31:29.040
+    "It was a precious place to the older sister when she was still human."
+    
+    # A minimalist, monochromatic scene with two silhouetted figures standing on a gridded platform, surrounded by vertical red light beams and purple glowing elements. The scene appears to be from a stylized narrative game with a somber, reflective tone.
+
+    # Found at 0:31:36.880
+    "Plucking her sister's sword from the floor, she whispers,"
+    
+    # A stylized, minimalist scene with two white silhouetted figures on a grid-like floor. Red vertical light beams frame the scene, with purple glowing elements at the top. The scene appears to be from a dramatic, possibly narrative-driven game with a stark, high-contrast visual style.
+
+    # Found at 0:31:40.200
+    Unknown Character: "Leave all to me."
+    
+    # A stylized scene with silhouetted figures standing on a gridded platform, surrounded by vertical red energy beams and purple glowing lights at the top of the frame. Two white/light-colored figures appear to be standing near each other, with some angular structures visible on the sides of the scene.
+
+    # Found at 0:31:47.200
+    "She makes her way to the outside world, toward the place of memory."
+    
+    # A stylized, minimalist scene with a white silhouetted figure standing on a gridded platform, surrounded by vertical red light beams and purple glowing elements at the top of the image. The scene appears to be from a narrative-driven indie game with a moody, atmospheric visual style.
+
+    # Found at 0:32:3.080
+    - Torn Piece of Paper -
+    "Wh—
+    I only...
+    
+    And that's why I
+    However... Still human
+    this body. No que
+    we were powerless to do anything.
+    
+    And yet, sadly,
+    
+    This era—and we who inhabit it—have little time left. I am"
+    
+    # A dark, moody scene depicting a torn piece of paper with fragmented, introspective text suggesting a sense of existential despair and impending doom.
+
+    # Found at 0:32:17.440
+    D.U. "And that's why I this body. No que
+    However... Still human
+    And yet, sadly, we were powerless to do anything.
+    
+    This era—and we who inhabit it—have little time left. I am ashamed to ask of you such a selfish request, but with it done, the girl will finally be able to live her own life. I beg of you... Please help her."
+    
+    # A dark, somber text dialogue screen with a shadowy background, presenting an emotional and urgent message from a character identified only by the initials D.U., pleading for help for an unnamed girl.
+
+    # Found at 0:32:59.760
+    "Though she sets off from her place of birth alone..."
+    
+    # A lone figure in white stands illuminated against a dark, shadowy background, appearing to be inside a room or corridor with a minimalist, monochromatic aesthetic. The scene suggests a sense of isolation and beginning of a journey.
+
+    # Found at 0:33:4.640
+    "She carries the hopes and dreams of all her sisters on her shoulders."
+    
+    # A lone glowing white figure stands in a dark, minimalist environment with a large window or screen behind them, creating a stark contrast of light and shadow. The scene appears to be from a stylized video game or cinematic cutscene with a contemplative, metaphorical tone.
+
+    # Found at 0:33:37.880
+    Carrier: "That certainly was a tale of a very strange world."
+    
+    # A dark, winged creature stands near a smaller, lighter-colored figure in a stone circular chamber with architectural columns. The scene appears to be from a stylized video game with a mysterious and ethereal atmosphere.
+
+    # Found at 0:34:23.320
+    Carrier: "Oh my, it's almost time."
+    
+    # A black mechanical creature stands near a smaller, lighter-colored figure in a stone architectural space with columns and a circular platform. The scene appears to be from a stylized video game with a surreal, ethereal atmosphere.
+
+    # Found at 0:34:28.280
+    Fio: "Yeah, I have to go..."
+    
+    # A scene depicting three characters in a stone architectural environment: a black, insect-like mechanical creature, a small figure in a white dress, and a white-armored humanoid figure. The setting appears to be a circular stone platform with columns and a misty background, suggesting a dreamlike or ethereal game environment.
+
+    # Found at 0:34:33.960
+    Levania: "Perhaps you should not return to the other world."
+    
+    # A dark, ethereal scene with a black mechanical-looking figure, a small white-clothed figure, and another figure in light armor standing on a cracked stone platform. Ancient stone columns frame the background, creating a sense of mystical isolation.
+
+    # Found at 0:34:38.280
+    Levania: "Your behavior grows stranger each time you come here."
+    
+    # A surreal scene in a stone-columned chamber with three figures: a dark, insectoid creature on the left, a pale figure in a light dress in the center, and a white-armored figure on the right, standing near a black monolithic structure.
+
+    # Found at 0:34:43.240
+    Fio: "But...my mommy might be waiting for me..."
+    
+    # Three characters stand in a stone-columned chamber with a dark monolithic structure. A dark armored figure, a pale figure in a light dress, and a white-blue humanoid figure are positioned around a central black object. The scene has a mystical, otherworldly atmosphere with a bluish-gray color palette.
+
+    # Found at 0:35:22.880
+    Unknown Character: "We will soon reach the end of our journey."
+    
+    # A scene from a game showing a rewards screen on the left side, with a stylized character in blue and white standing near a stone cylindrical structure. Another dark, skeletal-like figure stands within the stone structure. The environment appears to be a misty, architectural space with blue-tinted columns and a ethereal atmosphere.
+
+    # Found at 0:35:26.680
+    Unknown Character: "The day your wish comes true is so close now!"
+    
+    # A scene from a game showing a rewards menu on the left side, with a white and blue armored character in the foreground and a dark silhouetted figure standing behind a stone cylindrical structure. The environment appears to be a misty, architectural space with blue-tinted columns and a stone floor.
