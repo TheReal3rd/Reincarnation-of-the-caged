@@ -1,12 +1,15 @@
-Visual novel inspired by a certain applibot mobile game.
+# Visual novel inspired by a certain applibot mobile game.
 
 All similarities are a coincidence.
 
-For contribution requests contact me here on any of my social medias 
-https://x.com/AilisaPupa , https://www.twitch.tv/ailispupa , https://www.youtube.com/@AilisPupa
+Project started by Alicea Ixia.
 
-If you want to support my streaming activities https://streamelements.com/ailispupa/tip
+https://www.youtube.com/@AliceIxia
 
-https://ko-fi.com/ailispupa
+Resumed by her followers.
 
-https://throne.com/ailispupa
+https://docs.google.com/spreadsheets/d/1DRtbdPIwE1OGogUE9tmDhoqq1UBi9AnPH50I3CSIpFg/edit?usp=sharing
+
+Credits:
+TODO... Plus need to confirm whether they wish to be listed here first.
+

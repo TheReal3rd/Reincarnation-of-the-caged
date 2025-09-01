@@ -2,8 +2,7 @@
 
 
 #The First night withered crimson.
-label withered_crimson # 100% complete with images needs testing...
-
+label withered_crimson: # 100% complete with images needs testing...
     scene image "08_withered_crimson/01_next_day.png"
     ""
     scene image "08_withered_crimson/02_establishing_shot.png"##TODO change this up in the future.
@@ -128,7 +127,7 @@ label withered_crimson # 100% complete with images needs testing...
     "The same unearthly beings that killed their son and tore their once-happy family apart."
     "They are the gravest threat the world has ever known."
     #Story 2 ends 12:23
-    image scene "08_withered_crimson/20_joiner.png"
+    scene image "08_withered_crimson/20_joiner.png"
     carrier "It appears the memories saved in these scarecrows are from a world whose people do not know freedom."
     carrier "How terribly suffocating."
     fio "A world without freedom?"
@@ -234,7 +233,7 @@ label withered_crimson # 100% complete with images needs testing...
     scene image "08_withered_crimson/39_his_pain.png"
     "In the depths of the earth, the man emits a roar of pain."
     # Story 4 END 24:30
-    scene image "game/images/08_withered_crimson/40_back_cage.png"
+    scene image "08_withered_crimson/40_back_cage.png"
     carrier "To think he lost not only his child, but his wife as well..."
     carrier "Such sadness could scarcely be described with words."
 

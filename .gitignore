@@ -14,6 +14,9 @@ game/cache/
 game/saves/
 tmp/
 
+#Working directories processing files etc
+game/tempWorking
+
 # Python cache
 __pycache__/
 *.pyc
