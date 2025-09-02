@@ -47,6 +47,12 @@ define defectiveMan = Character ('Defective Man', color="#0b96a8")
 define defectiveWoman = Character ('Defective Woman', color="#0b96a8")
 define husband = Character ('Husband', color="#150ba8")
 define wife = Character ('Wife', color="#150ba8")
+#10_flaming_sands
+define radio = Character ('Radio', color="#38383b")
+define father = Character ('Father', color="#454569")
+define mother = Character ('Father', color="#454569")
+define child = Character ('Child', color="#217394")
+
 
 # The game starts here.
 label start:
