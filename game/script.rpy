@@ -42,7 +42,11 @@ define son = Character ('Son', color="#008d92")
 define resident = Character ('Resident', color="#00ac78")
 define officer = Character ('Officer', color="#acacac")
 define h801 = Character ('H801', color="#8d33d6")
-
+#09_Piles_of_leaves
+define defectiveMan = Character ('Defective Man', color="#0b96a8")
+define defectiveWoman = Character ('Defective Woman', color="#0b96a8")
+define husband = Character ('Husband', color="#150ba8")
+define wife = Character ('Wife', color="#150ba8")
 
 # The game starts here.
 label start:
