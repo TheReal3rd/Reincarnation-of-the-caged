@@ -52,6 +52,8 @@ define radio = Character ('Radio', color="#38383b")
 define father = Character ('Father', color="#454569")
 define mother = Character ('Father', color="#454569")
 define child = Character ('Child', color="#217394")
+#12_mist_on_the_water
+define coffinLikeMachine = Character ('Coffin-like Machine', color="#217394")
 
 
 # The game starts here.
